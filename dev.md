@@ -1,3 +1,4 @@
+# すすめ
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 nvm install lts
 nvm use 20.12.1
@@ -7,3 +8,20 @@ git init
 コミット
 git remote add origin git@github.com:actionpterygii/estokdi.git
 git push -u origin master
+npm run dev
+npm run build
+
+# メモ
+type TeamJson = [
+	{
+		name: string,
+		ruby: string,
+		tag: string,
+		link: {
+			service: string[]
+		},
+		division: {
+			url: string
+		}
+	}
+];

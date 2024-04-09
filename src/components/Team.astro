@@ -1,0 +1,25 @@
+---
+import teams from '../json/teams.json';
+---
+
+<ul>
+	{
+		teams.map((team) => (
+			<>
+			<li>
+				<p>{team.name}</p>
+				<p>{team.ruby}</p>
+				<p>{team.tag}</p>
+				<div>
+					{Object.keys(team.links).reduce((key) => (
+						key
+						// <a href=""><img src="" alt="{link_title}"></a>
+						// urls.map((team) => (
+						// 	))
+					))}
+				</div>
+			</li>
+			</>
+		))
+	}
+</ul>

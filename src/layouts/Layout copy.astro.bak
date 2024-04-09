@@ -4,12 +4,10 @@ interface Props {
 }
 
 const { title } = Astro.props;
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
 ---
 
 <!doctype html>
-<html lang="ja">
+<html lang="en">
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="description" content="Astro description" />
@@ -19,9 +17,7 @@ import Footer from '../components/Footer.astro';
 		<title>{title}</title>
 	</head>
 	<body>
-		<Header></Header>
 		<slot />
-		<Footer></Footer>
 	</body>
 </html>
 <style is:global>
@@ -38,7 +34,7 @@ import Footer from '../components/Footer.astro';
 	}
 	html {
 		font-family: system-ui, sans-serif;
-		/* background: #13151a; */
+		background: #13151a;
 		background-size: 224px;
 	}
 	code {

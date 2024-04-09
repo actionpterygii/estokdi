@@ -1,0 +1,124 @@
+[
+    {
+        "name": "DetonatioN FocusMe",
+        "ruby": "デトネーション フォーカスミー",
+        "tag": "DFM",
+        "links": {
+            "web": [
+                "https://team-detonation.net/"
+            ],
+            "store": [
+                "https://store.team-detonation.net/"
+            ],
+            "x": [
+                "https://twitter.com/team_detonation",
+                "https://twitter.com/DFMeSports",
+                "https://twitter.com/DFM_VALORANT"
+            ],
+            "instagram": [
+                "https://www.instagram.com/detonation_focusme/"
+            ],
+            "threads": [
+                ""
+            ],
+            "youtube": [
+                "https://www.youtube.com/@DetonatioNFocusMe"
+            ],
+            "twitch": [
+                ""
+            ],
+            "facebook": [
+                ""
+            ],
+            "tiktok": [
+                ""
+            ],
+            "discord": [
+                ""
+            ]
+        },
+        "divisions": {
+            "valorant": [
+                "https://team-detonation.net/teams"
+            ],
+            "fortnite": [
+                "https://zetadivision.com/team/fortnite"
+            ],
+            "super_smash_bros": [
+                "https://zetadivision.com/team/super-smash-bros"
+            ],
+            "brawl_stars": [
+                "https://zetadivision.com/team/brawl-stars"
+            ],
+            "identity_v": [
+                "https://zetadivision.com/team/identityv"
+            ],
+            "creator": [
+                "https://zetadivision.com/team/creator"
+            ]
+        }
+    },
+    {
+        "name": "ZETA DIVISON",
+        "ruby": "ゼータ ディビジョン",
+        "tag": "ZETA",
+        "links": {
+            "web": [
+                "https://zetadivision.com/"
+            ],
+            "store": [
+                "https://store.zetadivision.com/"
+            ],
+            "x": [
+                "https://twitter.com/zetadivision",
+                "https://twitter.com/AIMWITHPRIDE"
+            ],
+            "instagram": [
+                "https://www.instagram.com/zetadivision/"
+            ],
+            "threads": [
+                "https://www.threads.net/@zetadivision"
+            ],
+            "youtube": [
+                "https://www.youtube.com/c/ZETADIVISION"
+            ],
+            "twitch": [
+                "https://www.twitch.tv/team/zetadivision"
+            ],
+            "facebook": [
+                "https://www.facebook.com/zetadivision"
+            ],
+            "tiktok": [
+                "https://www.tiktok.com/@zetadivision"
+            ],
+            "discord": [
+                "https://discord.gg/hyBef2cDwe"
+            ]
+        },
+        "divisions": {
+            "valorant": [
+                "https://zetadivision.com/team/valorant",
+                "https://zetadivision.com/team/valorant-gc",
+                "https://liquipedia.net/valorant/ZETA_DIVISION"
+            ],
+            "fortnite": [
+                "https://zetadivision.com/team/fortnite",
+                "https://liquipedia.net/fortnite/ZETA_DIVISION"
+            ],
+            "super_smash_bros": [
+                "https://zetadivision.com/team/super-smash-bros",
+                "https://liquipedia.net/smash/ZETA_DIVISION"
+            ],
+            "brawl_stars": [
+                "https://zetadivision.com/team/brawl-stars",
+                "https://liquipedia.net/brawlstars/ZETA_DIVISION"
+            ],
+            "identity_v": [
+                "https://zetadivision.com/team/identityv"
+            ],
+            "creator": [
+                "https://zetadivision.com/team/creator"
+            ]
+        }
+    }
+]
