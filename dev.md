@@ -25,3 +25,32 @@ type TeamJson = [
 		}
 	}
 ];
+
+
+    {
+        "name": "DetonatioN FocusMe",
+        "ruby": "デトネーション フォーカスミー",
+        "tag": "DFM",
+        "links": {
+            "web": [
+                "https://team-detonation.net/"
+            ],
+            "store": [
+                "https://store.team-detonation.net/"
+            ],
+            "x": [
+                "https://twitter.com/team_detonation",
+                "https://twitter.com/DFMeSports",
+                "https://twitter.com/DFM_VALORANT"
+            ],
+            "instagram": [
+                "https://www.instagram.com/detonation_focusme/"
+            ],
+            "threads": [
+                ""
+            ],
+            "youtube": [
+                "https://www.youtube.com/@DetonatioNFocusMe"
+            ],
+
+                "https://team-detonation.net/teams"

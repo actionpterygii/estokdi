@@ -5,21 +5,27 @@ import teams from '../json/teams.json';
 <ul>
 	{
 		teams.map((team) => (
-			<>
 			<li>
 				<p>{team.name}</p>
 				<p>{team.ruby}</p>
 				<p>{team.tag}</p>
 				<div>
-					{Object.keys(team.links).reduce((key) => (
-						key
-						// <a href=""><img src="" alt="{link_title}"></a>
-						// urls.map((team) => (
-						// 	))
+					{team.links.map((link) => (
+						link.urls.map((url) => (
+							<a href={url}><img src= alt="">{link.name}</a>
+						))
+					))}
+				</div>
+				<div>
+					{team.divisions.map((division) => (
+						division.urls.map((url) => (
+							<a href={url}><img src={division.name + '.png'} alt="">{division.name}</a>
+						))
 					))}
 				</div>
 			</li>
-			</>
 		))
 	}
 </ul>
+
+
