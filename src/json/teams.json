@@ -1,5 +1,6 @@
 [
     {
+        "id": "zeta_division",
         "name": "ZETA DIVISON",
         "ruby": "ゼータ ディビジョン",
         "tag": "ZETA",
@@ -71,42 +72,44 @@
                 "name": "valorant",
                 "urls": [
                     "https://zetadivision.com/team/valorant",
-                    "https://zetadivision.com/team/valorant-gc",
-                    "https://liquipedia.net/valorant/ZETA_DIVISION"
-                ]
+                    "https://zetadivision.com/team/valorant-gc"
+                ],
+                "liquipedia": "https://liquipedia.net/valorant/ZETA_DIVISION"
             },
             {
                 "name": "fortnite",
                 "urls": [
-                    "https://zetadivision.com/team/fortnite",
-                    "https://liquipedia.net/fortnite/ZETA_DIVISION"
-                ]
+                    "https://zetadivision.com/team/fortnite"
+                ],
+                "liquipedia": "https://liquipedia.net/fortnite/ZETA_DIVISION"
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://zetadivision.com/team/super-smash-bros",
-                    "https://liquipedia.net/smash/ZETA_DIVISION"
-                ]
+                    "https://zetadivision.com/team/super-smash-bros"
+                ],
+                "liquipedia": "https://liquipedia.net/smash/ZETA_DIVISION"
             },
             {
                 "name": "brawl_stars",
                 "urls": [
-                    "https://zetadivision.com/team/brawl-stars",
-                    "https://liquipedia.net/brawlstars/ZETA_DIVISION"
-                ]
+                    "https://zetadivision.com/team/brawl-stars"
+                ],
+                "liquipedia": "https://liquipedia.net/brawlstars/ZETA_DIVISION"
             },
             {
                 "name": "identity_v",
                 "urls": [
                     "https://zetadivision.com/team/identityv"
-                ]
+                ],
+                "liquipedia": ""
             },
             {
-                "name": "creator",
+                "name": "streamer",
                 "urls": [
                     "https://zetadivision.com/team/creator"
-                ]
+                ],
+                "liquipedia": ""
             }
         ]
     }

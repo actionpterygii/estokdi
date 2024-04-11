@@ -6,21 +6,27 @@ import teams from '../json/teams.json';
 	{
 		teams.map((team) => (
 			<li>
-				<p>{team.name}</p>
-				<p>{team.ruby}</p>
-				<p>{team.tag}</p>
-				<div>
+				<div class="team_logo">
+					<img src={'/img/team/' + team.id + '.png'} alt={team.id}>
+				</div>
+				<p class="team_name">{team.name}</p>
+				<p class="team_buby">{team.ruby}</p>
+				<p class="team_tag">{team.tag}</p>
+				<div class="team_links">
 					{team.links.map((link) => (
 						link.urls.map((url) => (
-							<a href={url}><img src= alt="">{link.name}</a>
+							<a href={url}><img src={'/img/link/' + link.name + '.png'} alt={link.name}></a>
 						))
 					))}
 				</div>
-				<div>
+				<div class="team_divisions">
 					{team.divisions.map((division) => (
-						division.urls.map((url) => (
-							<a href={url}><img src={division.name + '.png'} alt="">{division.name}</a>
-						))
+						<>
+							{division.urls.map((url) => (
+								<a href={url}><img src={'/img/division/' + division.name + '.png'} alt={division.name}></a>
+							))}
+							{division.liquipedia ? <a class="liquipedia" href={division.liquipedia}><img src="/img/division/liquipedia.png" alt="liquipedia"></a> : ''}
+						</>
 					))}
 				</div>
 			</li>
@@ -28,4 +34,44 @@ import teams from '../json/teams.json';
 	}
 </ul>
 
+<style>
+ul {
 
+}
+li {
+	list-style: none;
+}
+.team_logo {
+	width: 100px;
+}
+.team_logo img {
+	width: 100px;
+}
+.team_name {
+
+}
+.team_ruby {
+
+}
+.team_tag {
+
+}
+.team_links {
+
+}
+.team_links a {
+	
+}
+.team_links a img {
+	width: 30px;
+}
+.team_divisions {
+
+}
+.team_divisions a {
+
+}
+.team_divisions a img {
+	width: 30px;
+}
+</style>
