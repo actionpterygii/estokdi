@@ -243,18 +243,6 @@
                 ]
             },
             {
-                "name": "youtube",
-                "urls": [
-                    "https://www.youtube.com/c/ZETADIVISION"
-                ]
-            },
-            {
-                "name": "twitch",
-                "urls": [
-                    "https://www.twitch.tv/team/zetadivision"
-                ]
-            },
-            {
                 "name": "facebook",
                 "urls": [
                     "https://www.facebook.com/zetadivision"
@@ -264,6 +252,18 @@
                 "name": "tiktok",
                 "urls": [
                     "https://www.tiktok.com/@zetadivision"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/c/ZETADIVISION"
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    "https://www.twitch.tv/team/zetadivision"
                 ]
             },
             {

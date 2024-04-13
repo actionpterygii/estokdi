@@ -9,32 +9,32 @@ const liquipedia_url = 'https://liquipedia.net/';
 	{
 		teams.map((team) => (
 			<li id={'team__' + team.id}>
-				<div class="team_logo">
-					<img src={'/img/team/' + team.id + '.png'} alt={team.id}>
-				</div>
-				<p class="team_name">{team.name}</p>
-				<p class="team_buby">{team.ruby}</p>
-				<p class="team_tag">{team.tag}</p>
-				<a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a>
-				<div class="team_links">
-					{team.links.map((link) => (
-						link.urls.map((url) => (
-							<a href={url} target="_blank" rel="noopener"><img src={'/img/link/' + link.name + '.png'} alt={link.name}></a>
-						))
-					))}
-				</div>
-				<div class="team_divisions">
-					{team.divisions.map((division) => (
-						<>
-							{division.urls.map((url) => (
-								<a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'/img/division/' + division.name + '.png'} alt={division.name}></a>
-							))}
-							{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="/img/other/liquipedia.png" alt="liquipedia"></a> : ''}
-							{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
-								<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="/img/other/vlr_gg.png" alt="vlr_gg"></a>
-							)) : ''}
-						</>
-					))}
+					<div class="team_box">
+					<div class="team_logo">
+						<img src={'./img/team/' + team.id + '.png'} alt={team.id}>
+					</div>
+					<p class="team_name">{team.name}</p>
+					<a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a>
+					<div class="team_links">
+						{team.links.map((link) => (
+							link.urls.map((url) => (
+								<a class={'link__' + link.name} href={url} target="_blank" rel="noopener"><img src={'./img/link/' + link.name + '.png'} alt={link.name}></a>
+							))
+						))}
+					</div>
+					<div class="team_divisions">
+						{team.divisions.map((division) => (
+							<div class="team_division">
+								{division.urls.map((url) => (
+									<a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'./img/division/' + division.name + '.png'} alt={division.name}></a>
+								))}
+								{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
+									<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="./img/other/vlr_gg.png" alt="vlr_gg"></a>
+								)) : ''}
+								{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a> : ''}
+							</div>
+						))}
+					</div>
 				</div>
 			</li>
 		))
@@ -44,19 +44,64 @@ const liquipedia_url = 'https://liquipedia.net/';
 <style>
 ul {
 	padding-top: 100px;
+	margin: 0 auto;
+	width: 1200px;
 	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+	align-items: stretch;
+}
+@media screen and (max-width:1200px) {
+	ul {
+		width: 100%;
+	}
 }
 li {
+	display: grid;
 	list-style: none;
+	width: 50%;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+}
+@media screen and (max-width:1200px) {
+	li {
+		width: 100%;
+		padding-top: 12px;
+		padding-bottom: 12px;
+	}
+}
+.team_box {
+    border-radius: 0.7rem;
+    box-shadow: 0 10px 20px #ccc;
+    transition: 0.5s;
+	padding: 30px;
+}
+.team_box:hover {
+    box-shadow: 0 5px 10px #ddd;
 }
 .team_logo {
+	margin: 0 auto;
 	width: 100px;
+	margin-top: 10px;
 }
 .team_logo img {
-	width: 100px;
+	height: 100px;
+     display: block;
+     margin:auto;
+
 }
 .team_name {
-
+	margin-top: 10px;
+	font-size: 45px;
+	font-family: "Platypi", serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: nomal;
+	text-align: center;
+	word-break: normal;
+	line-height: 45px;
 }
 .team_ruby {
 
@@ -65,24 +110,82 @@ li {
 
 }
 .team_win {
-	
+	margin-top: 15px;
+	display: inline-block;
+	color: var(--text_link);
+	font-size: 20px;
+	font-family: "Noto Sans TC", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+	display: grid;
+	justify-content: flex-end;
 }
 .team_links {
-
+	margin-top: 35px;
+	display: flex;
+	flex-wrap: wrap;
 }
 .team_links a {
-	
+	display: flex;
+	align-items: center;
+	margin-bottom: 10px;
+}
+.team_links a:not(:last-child) {
+	margin-right: 12px;
 }
 .team_links a img {
-	width: 30px;
+	height: 35px;
+	transform: scale(1.01);
+}
+.link__x img {
+	height: 31px!important;
+}
+.link__youtube img {
+	height: 26px!important;
+}
+.link__discord img {
+	height: 27px!important;
 }
 .team_divisions {
-
+	margin-top: 15px;
+	display: flex;
+	flex-wrap: wrap;
 }
-.team_divisions a {
-
+.team_division {
+	display: flex;
+	position: relative;
+	margin-bottom: 10px;
 }
-.team_divisions a img {
-	width: 30px;
+.team_division:not(:last-child) {
+	margin-right: 18px;
+}
+.team_division:not(:last-child)::before {
+	content: '';
+	position: absolute;
+	right: 0;
+	top: 5px;
+	width: 1px;
+	height: 20px;
+	background-color: #bbb;
+}
+.team_division a {
+	margin-right: 12px;
+	display: flex;
+	align-items: center;
+}
+
+.team_division a:last-child {
+	margin-right: 18px;
+}
+.team_division a img {
+	height: 30px;
+	transform: scale(1.01);
+}
+.division__pubg_mobile img {
+	height: 25px!important;
+}
+.liquipedia img {
+	height: 20px!important;
 }
 </style>

@@ -40,18 +40,6 @@
             ]
         },
         {
-            "name": "youtube",
-            "urls": [
-                ""
-            ]
-        },
-        {
-            "name": "twitch",
-            "urls": [
-                ""
-            ]
-        },
-        {
             "name": "facebook",
             "urls": [
                 ""
@@ -59,6 +47,18 @@
         },
         {
             "name": "tiktok",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "youtube",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "twitch",
             "urls": [
                 ""
             ]
