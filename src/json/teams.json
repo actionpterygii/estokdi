@@ -1,9 +1,119 @@
 [
     {
+        "id": "detonation_focusme",
+        "name": "Detonation FocusMe",
+        "ruby": "デトネーション フォーカスミー",
+        "tag": "DFM",
+        "win": "DFMWIN",
+        "sponsor": "",
+        "news": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://team-detonation.net/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.team-detonation.net/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/team_detonation",
+                    "https://twitter.com/DFMeSports",
+                    "https://twitter.com/DFM_VALORANT"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/detonation_focusme/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@DetonatioNFocusMe"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/leagueoflegends/DetonatioN_FocusMe"
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/valorant/DetonatioN_FocusMe"
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/fortnite/DetonatioN_FocusMe"
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/pubgmobile/DetonatioN_FocusMe"
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/fighters/DetonatioN_FocusMe"
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/smash/DetonatioN_FocusMe"
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": ""
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ],
+                "liquipedia": ""
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+                        }
+        ]
+    },
+    {
         "id": "zeta_division",
         "name": "ZETA DIVISON",
         "ruby": "ゼータ ディビジョン",
         "tag": "ZETA",
+        "win": "ZETAWIN",
+        "sponsor": "",
+        "news": "",
         "links": [
             {
                 "name": "web",

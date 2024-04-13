@@ -1,7 +1,10 @@
 ---
 import teams from '../json/teams.json';
+import liqipedia_divisions from '../json/liqipedia_divisions.json';
+import { Debug } from 'astro/components';
+const win_search_url = 'https://twitter.com/search?q=%23';
 ---
-
+<Debug {liqipedia_divisions}/>
 <ul>
 	{
 		teams.map((team) => (
@@ -12,6 +15,7 @@ import teams from '../json/teams.json';
 				<p class="team_name">{team.name}</p>
 				<p class="team_buby">{team.ruby}</p>
 				<p class="team_tag">{team.tag}</p>
+				<a class="team_win" href={win_search_url + team.win}>{'#' + team.win}</a>
 				<div class="team_links">
 					{team.links.map((link) => (
 						link.urls.map((url) => (
@@ -25,7 +29,7 @@ import teams from '../json/teams.json';
 							{division.urls.map((url) => (
 								<a href={url}><img src={'/img/division/' + division.name + '.png'} alt={division.name}></a>
 							))}
-							{division.liquipedia ? <a class="liquipedia" href={division.liquipedia}><img src="/img/division/liquipedia.png" alt="liquipedia"></a> : ''}
+							{division.liquipedia ? <a class="liquipedia" href={liqipedia_divisions[division.name]}><img src="/img/division/liquipedia.png" alt="liquipedia"></a> : ''}
 						</>
 					))}
 				</div>
@@ -55,6 +59,9 @@ li {
 }
 .team_tag {
 
+}
+.team_win {
+	
 }
 .team_links {
 
