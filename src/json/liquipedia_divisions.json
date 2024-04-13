@@ -1,5 +1,4 @@
 {
-    "league_of_legends": "leagueoflegends",
     "overwatch": "overwatch",
     "rainbowsix": "rainbowsix",
     "pubg_mobile": "pubgmobile",
@@ -8,5 +7,7 @@
     "valorant": "valorant",
     "street_fighter_6": "fighters",
     "super_smash_bros": "smash",
-    "brawl_stars": "brawlstars"
+    "league_of_legends": "leagueoflegends",
+    "brawl_stars": "brawlstars",
+    "clash_royale": "clashroyale"
 }

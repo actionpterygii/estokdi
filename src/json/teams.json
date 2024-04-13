@@ -1,5 +1,103 @@
 [
     {
+        "id": "crazy_raccoon",
+        "name": "Crazy Raccoon",
+        "ruby": "クレイジー ラクーン",
+        "tag": "CR",
+        "win": "CRWIN",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "Crazy_Raccoon",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://crazyraccoon.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://crazyraccoon-store.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/crazyraccoon406"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/crazy_raccoon_official/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCV3h-YCXiKiMmVupdknm73Q"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#apex-legends"
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#overwatch"
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#fortnite"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#street-fighter"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#super-smash-bros"
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#brawl-stars"
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#clash-royale"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#streamers"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#player"
+                ]
+            }
+        ]
+    },
+    {
         "id": "detonation_focusme",
         "name": "Detonation FocusMe",
         "ruby": "デトネーション フォーカスミー",
@@ -44,67 +142,63 @@
         ],
         "divisions": [
             {
-                "name": "league_of_legends",
-                "urls": [
-                    "https://team-detonation.net/teams"
-                ],
-                "liquipedia": "https://liquipedia.net/leagueoflegends/DetonatioN_FocusMe"
-            },
-            {
                 "name": "valorant",
                 "urls": [
                     "https://team-detonation.net/teams"
                 ],
-                "liquipedia": "https://liquipedia.net/valorant/DetonatioN_FocusMe"
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/278/detonation-focusme",
+                    "https://www.vlr.gg/team/13319/detonation-focusme-gc"
+                ]
             },
             {
                 "name": "fortnite",
                 "urls": [
                     "https://team-detonation.net/teams"
-                ],
-                "liquipedia": "https://liquipedia.net/fortnite/DetonatioN_FocusMe"
+                ]
             },
             {
                 "name": "pubg_mobile",
                 "urls": [
                     "https://team-detonation.net/teams"
-                ],
-                "liquipedia": "https://liquipedia.net/pubgmobile/DetonatioN_FocusMe"
+                ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
                     "https://team-detonation.net/teams"
-                ],
-                "liquipedia": "https://liquipedia.net/fighters/DetonatioN_FocusMe"
+                ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
                     "https://team-detonation.net/teams"
-                ],
-                "liquipedia": "https://liquipedia.net/smash/DetonatioN_FocusMe"
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ]
+            },
+            {
+                "name": "efootball",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ]
             },
             {
                 "name": "shadowverse",
                 "urls": [
                     "https://team-detonation.net/teams"
-                ],
-                "liquipedia": ""
-            },
-            {
-                "name": "identity_v",
-                "urls": [
-                    ""
-                ],
-                "liquipedia": ""
+                ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    ""
+                    "https://team-detonation.net/teams"
                 ]
-                        }
+            }
         ]
     },
     {
@@ -186,31 +280,28 @@
                     "https://zetadivision.com/team/valorant",
                     "https://zetadivision.com/team/valorant-gc"
                 ],
-                "liquipedia": true,
-                "others": {
-                    "vlr_gg": "https://www.vlr.gg/team/5448/zeta-division"
-                }
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/5448/zeta-division",
+                    "https://www.vlr.gg/team/9315/zeta-division-gc"
+                ]
             },
             {
                 "name": "fortnite",
                 "urls": [
                     "https://zetadivision.com/team/fortnite"
-                ],
-                "liquipedia": true
+                ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
                     "https://zetadivision.com/team/super-smash-bros"
-                ],
-                "liquipedia": true
+                ]
             },
             {
                 "name": "brawl_stars",
                 "urls": [
                     "https://zetadivision.com/team/brawl-stars"
-                ],
-                "liquipedia": true
+                ]
             },
             {
                 "name": "identity_v",

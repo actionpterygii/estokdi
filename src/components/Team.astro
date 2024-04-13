@@ -1,23 +1,25 @@
 ---
 import teams from '../json/teams.json';
-import liqipedia_divisions from '../json/liqipedia_divisions.json';
+import liquipedia_divisions from '../json/liquipedia_divisions.json';
+
 const win_search_url = 'https://twitter.com/search?q=%23';
+const liquipedia_url = 'https://liquipedia.net/';
 ---
 <ul>
 	{
 		teams.map((team) => (
-			<li>
+			<li id={'team__' + team.id}>
 				<div class="team_logo">
 					<img src={'/img/team/' + team.id + '.png'} alt={team.id}>
 				</div>
 				<p class="team_name">{team.name}</p>
 				<p class="team_buby">{team.ruby}</p>
 				<p class="team_tag">{team.tag}</p>
-				<a class="team_win" href={win_search_url + team.win}>{'#' + team.win}</a>
+				<a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a>
 				<div class="team_links">
 					{team.links.map((link) => (
 						link.urls.map((url) => (
-							<a href={url}><img src={'/img/link/' + link.name + '.png'} alt={link.name}></a>
+							<a href={url} target="_blank" rel="noopener"><img src={'/img/link/' + link.name + '.png'} alt={link.name}></a>
 						))
 					))}
 				</div>
@@ -25,9 +27,12 @@ const win_search_url = 'https://twitter.com/search?q=%23';
 					{team.divisions.map((division) => (
 						<>
 							{division.urls.map((url) => (
-								<a href={url}><img src={'/img/division/' + division.name + '.png'} alt={division.name}></a>
+								<a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'/img/division/' + division.name + '.png'} alt={division.name}></a>
 							))}
-							{division.liquipedia ? <a class="liquipedia" href={liqipedia_divisions[division.name]}><img src="/img/division/liquipedia.png" alt="liquipedia"></a> : ''}
+							{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="/img/other/liquipedia.png" alt="liquipedia"></a> : ''}
+							{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
+								<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="/img/other/vlr_gg.png" alt="vlr_gg"></a>
+							)) : ''}
 						</>
 					))}
 				</div>
@@ -38,7 +43,8 @@ const win_search_url = 'https://twitter.com/search?q=%23';
 
 <style>
 ul {
-
+	padding-top: 100px;
+	display: flex;
 }
 li {
 	list-style: none;
