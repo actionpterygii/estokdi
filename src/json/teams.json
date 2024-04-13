@@ -1,0 +1,229 @@
+[
+    {
+        "id": "detonation_focusme",
+        "name": "Detonation FocusMe",
+        "ruby": "デトネーション フォーカスミー",
+        "tag": "DFM",
+        "win": "DFMWIN",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "DetonatioN_FocusMe",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://team-detonation.net/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.team-detonation.net/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/team_detonation",
+                    "https://twitter.com/DFMeSports",
+                    "https://twitter.com/DFM_VALORANT"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/detonation_focusme/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@DetonatioNFocusMe"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/leagueoflegends/DetonatioN_FocusMe"
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/valorant/DetonatioN_FocusMe"
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/fortnite/DetonatioN_FocusMe"
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/pubgmobile/DetonatioN_FocusMe"
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/fighters/DetonatioN_FocusMe"
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": "https://liquipedia.net/smash/DetonatioN_FocusMe"
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://team-detonation.net/teams"
+                ],
+                "liquipedia": ""
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ],
+                "liquipedia": ""
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+                        }
+        ]
+    },
+    {
+        "id": "zeta_division",
+        "name": "ZETA DIVISON",
+        "ruby": "ゼータ ディビジョン",
+        "tag": "ZETA",
+        "win": "ZETAWIN",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "ZETA_DIVISION",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://zetadivision.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.zetadivision.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/zetadivision",
+                    "https://twitter.com/AIMWITHPRIDE"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/zetadivision/"
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    "https://www.threads.net/@zetadivision"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/c/ZETADIVISION"
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    "https://www.twitch.tv/team/zetadivision"
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    "https://www.facebook.com/zetadivision"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@zetadivision"
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    "https://discord.gg/hyBef2cDwe"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://zetadivision.com/team/valorant",
+                    "https://zetadivision.com/team/valorant-gc"
+                ],
+                "liquipedia": true,
+                "others": {
+                    "vlr_gg": "https://www.vlr.gg/team/5448/zeta-division"
+                }
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://zetadivision.com/team/fortnite"
+                ],
+                "liquipedia": true
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://zetadivision.com/team/super-smash-bros"
+                ],
+                "liquipedia": true
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    "https://zetadivision.com/team/brawl-stars"
+                ],
+                "liquipedia": true
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    "https://zetadivision.com/team/identityv"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://zetadivision.com/team/creator"
+                ]
+            }
+        ]
+    }
+]
