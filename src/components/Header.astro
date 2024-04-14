@@ -1,27 +1,59 @@
 ---
 ---
 <header>
-    <p>aaa</p>
-    <div id="mmm"><img src="./img/other/help.png" alt="help"></div>
+    <p>eスポーツチーム一覧</p>
+    <img id="preference" src="./img/other/gear.png" alt="help">
 </header>
 
 <style>
     header {
+        position: relative;
+        padding-left: 15px;
+        padding-right: 15px;
         z-index: 100;
         background-color: #fff;
         position: sticky;
         top: 0;
         height: 70px;
         border-bottom: solid 1px #ddd;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    p {
+        font-size: 25px;
+        line-height: 70px;
+        font-family: "Platypi", serif;
+        font-optical-sizing: auto;
+        font-weight: 600;
+        font-style: normal;
     }
     img {
+        cursor: pointer;
         width: 40px;
     }
 </style>
 
 <script>
-    const a = document.getElementById('mmm');
-    a.addEventListener('click', () => {
-        alert('aaa')
-    });
+    window.onload = () => {
+        // ドロップダウンメニュー（トグルボタンin）の表示非表示
+        document.getElementById('preference').addEventListener('click', () => {
+            const modal = document.getElementById('modal');
+            if (modal.classList.contains('modal_active') === true) {
+                modal.classList.remove('modal_active');
+                console.log(1);
+            } else {
+                console.log(2);
+                modal.classList.add('modal_active');
+            }
+        });
+        // 領域外クリックでドロップダウンを隠す
+        document.addEventListener('click', (e:any) => {
+            const modal = document.getElementById('modal');
+            if(!e.target.closest('#modal') && !e.target.closest('#preference')) {
+                console.log(0)
+                modal.classList.remove('modal_active');
+            }
+        });
+    };
 </script>

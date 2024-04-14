@@ -6,6 +6,7 @@ interface Props {
 const { title } = Astro.props;
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import Modal from '../components/Modal.astro';
 ---
 
 <!doctype html>
@@ -17,13 +18,13 @@ import Footer from '../components/Footer.astro';
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+JP&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">		<title>{title}</title>
 	</head>
 	<body>
 		<Header></Header>
 		<slot />
 		<Footer></Footer>
+		<Modal></Modal>
 	</body>
 </html>
 <style is:global>
@@ -47,5 +48,8 @@ import Footer from '../components/Footer.astro';
 		font-size: 12px;
 		font-family: sans-serif;
 		word-break: break-all;
+	}
+	body {
+		position: relative;
 	}
 </style>
