@@ -1,11 +1,15 @@
 ---
 import divisions from '../json/divisions.json';
+const checkbox_class_prefix = 'checkbox m_c__';
 ---
 <div id="modal">
     <div class="inner">
         <div class="divisions">
             {divisions.map((division) => (
-                <img src={'./img/division/' + division + '.png'} alt={division}>
+                <div class={'division m_d__' + division}>
+                    <input class={checkbox_class_prefix + division} type="checkbox">
+                    <img src={'./img/division/' + division + '.png'} alt={division}>
+                </div>
             ))}
         </div>
     </div>
@@ -28,5 +32,28 @@ import divisions from '../json/divisions.json';
 #modal.modal_active {
     display: block;
 }
+.divisions {
+
+}
+.division {
+
+}
+.division img {
+    height: 30px;
+	transform: scale(1.01);
+}
 </style>
+
+<script>
+    const checkbox_class_prefix = 'checkbox m_c__';
+    const checkboxes = document.getElementsByClassName("checkbox");
+    for (let i = 0; i < checkboxes.length; i++) {
+        const element = checkboxes[i];
+        element.addEventListener("click", (e) => {
+            const division_name = (e.target as Element).className.replace(checkbox_class_prefix, '');
+            //
+        });
+    }
+
+</script>
 
