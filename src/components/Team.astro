@@ -8,8 +8,13 @@ const liquipedia_url = 'https://liquipedia.net/';
 <ul>
 	{
 		teams.map((team) => (
-			<li id={'team__' + team.id}>
-					<div class="team_box">
+			<li
+				id={'team__' + team.id}
+				class={team.divisions.map((division) => (
+					'team_division__' + division.name
+				)).join(' ')}
+			>
+				<div class="team_box">
 					<div class="team_logo">
 						<img src={'./img/team/' + team.id + '.png'} alt={team.id}>
 					</div>

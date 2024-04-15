@@ -1,12 +1,29 @@
 ---
+import divisions from '../json/divisions.json';
 ---
 <div id="modal">
-    mo
+    <div class="inner">
+        <div class="divisions">
+            {divisions.map((division) => (
+                <img src={'./img/division/' + division + '.png'} alt={division}>
+            ))}
+        </div>
+    </div>
 </div>
 
 <style>
 #modal {
-    display: none;
+    /* display: none; */
+    position: absolute;
+    top: 80px;
+    right: 10px;
+    width: 500px;
+}
+@media screen and (max-width:1200px) {
+    #modal {
+        left: 10px;
+        width: auto;
+    }
 }
 #modal.modal_active {
     display: block;
