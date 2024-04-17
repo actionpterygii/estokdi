@@ -43,9 +43,7 @@ import Modal from '../components/Modal.astro';
             const modal = document.getElementById('modal');
             if (modal.classList.contains('modal_active') === true) {
                 modal.classList.remove('modal_active');
-                console.log(1);
             } else {
-                console.log(2);
                 modal.classList.add('modal_active');
             }
         });
@@ -53,7 +51,6 @@ import Modal from '../components/Modal.astro';
         document.addEventListener('click', (e:any) => {
             const modal = document.getElementById('modal');
             if(!e.target.closest('#modal') && !e.target.closest('#preference')) {
-                console.log(0)
                 modal.classList.remove('modal_active');
             }
         });

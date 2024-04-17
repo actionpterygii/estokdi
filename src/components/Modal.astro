@@ -12,7 +12,8 @@ const checkbox_class_prefix = 'checkbox m_c__';
                 </div>
             ))}
         </div>
-    </div>
+        <input type='checkbox' id='all_release' class='checkbox'>
+    <label for='all_release'>全解除</label>
 </div>
 
 <style>
@@ -42,18 +43,67 @@ const checkbox_class_prefix = 'checkbox m_c__';
     height: 30px;
 	transform: scale(1.01);
 }
+#all_release {
+    opacity: 0;
+}
 </style>
 
 <script>
     const checkbox_class_prefix = 'checkbox m_c__';
+    const team_division_class_prefix = 'team_division__';
     const checkboxes = document.getElementsByClassName("checkbox");
     for (let i = 0; i < checkboxes.length; i++) {
-        const element = checkboxes[i];
-        element.addEventListener("click", (e) => {
-            const division_name = (e.target as Element).className.replace(checkbox_class_prefix, '');
-            //
+        const element_cb = checkboxes[i];
+        element_cb.addEventListener("click", (e) => {
+            // 必要な(表示する)divisionの取得処理
+            let required_divisions = [];
+            const checkboxes =  document.getElementsByClassName("checkbox");
+            for (let i = 0; i < checkboxes.length; i++) {
+                const element_cb2 = checkboxes[i] as HTMLInputElement;
+                // チェックされている場合
+                if (element_cb2.checked === true) {
+                    // classから文字列切り出してdivision名取得
+                    const division_name = element_cb2.className.replace(checkbox_class_prefix, '');
+                    // 配列の最後に追加
+                    required_divisions.push(division_name);
+                }
+            }
+            // チームの表示/非表示切り替え処理
+            const teams =  document.getElementsByClassName("team");
+            console.log(teams)
+            for (let i = 0; i < teams.length; i++) {
+                const element_team = teams[i];
+                // divisionにチェックない場合
+                if (required_divisions.length === 0) {
+                    // hideのclassを無条件で消す
+                    element_team.classList.remove('team_hide');
+                } else {
+                    // divisionひとつずつみて、全部あれば出す
+                    let display = true;
+                    for (const required_division of required_divisions) {
+                        // teamのclassにdivisonない場合
+                        if (!element_team.classList.contains(team_division_class_prefix + required_division)) {
+                            // 一個でもなければおわり
+                            display = false;
+                            break;
+                        }
+                    }
+                    // 先程の判定に従い出すか出さないか
+                    if (display === true) {
+                        element_team.classList.remove('team_hide');
+                    } else {
+                        element_team.classList.add('team_hide');
+                    }
+                }
+            }
         });
     }
+
+    // 全解除ボタン
+    const all_release = document.getElementById("all_release");
+    all_release.addEventListener("click", (e) => {
+
+    });
 
 </script>
 

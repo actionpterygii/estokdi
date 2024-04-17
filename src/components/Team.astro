@@ -10,7 +10,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 		teams.map((team) => (
 			<li
 				id={'team__' + team.id}
-				class={team.divisions.map((division) => (
+				class={'team ' + team.divisions.map((division) => (
 					'team_division__' + division.name
 				)).join(' ')}
 			>
@@ -61,7 +61,6 @@ ul {
 	}
 }
 li {
-	display: grid;
 	list-style: none;
 	width: 50%;
 	padding-top: 20px;
@@ -75,6 +74,12 @@ li {
 		padding-top: 12px;
 		padding-bottom: 12px;
 	}
+}
+.team {
+	display: grid;
+}
+.team_hide {
+	display: none;
 }
 .team_box {
     border-radius: 0.7rem;
