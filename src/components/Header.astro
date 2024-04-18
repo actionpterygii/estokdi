@@ -4,8 +4,8 @@ import Modal from '../components/Modal.astro';
 <header>
     <p>eスポーツチーム一覧</p>
     <img id="preference" src="./img/other/gear.png" alt="help">
-    <Modal></Modal>
 </header>
+<Modal></Modal>
 
 <style>
     header {
@@ -41,17 +41,17 @@ import Modal from '../components/Modal.astro';
         // ドロップダウンメニュー（トグルボタンin）の表示非表示
         document.getElementById('preference').addEventListener('click', () => {
             const modal = document.getElementById('modal');
-            if (modal.classList.contains('modal_active') === true) {
-                modal.classList.remove('modal_active');
+            if (modal.classList.contains('modal_hide') === true) {
+                modal.classList.remove('modal_hide');
             } else {
-                modal.classList.add('modal_active');
+                modal.classList.add('modal_hide');
             }
         });
         // 領域外クリックでドロップダウンを隠す
         document.addEventListener('click', (e:any) => {
             const modal = document.getElementById('modal');
             if(!e.target.closest('#modal') && !e.target.closest('#preference')) {
-                modal.classList.remove('modal_active');
+                modal.classList.add('modal_hide');
             }
         });
     };

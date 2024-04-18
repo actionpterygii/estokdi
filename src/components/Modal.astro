@@ -2,27 +2,38 @@
 import divisions from '../json/divisions.json';
 const checkbox_class_prefix = 'checkbox m_c__';
 ---
-<div id="modal">
+<div id="modal" class="modal_hide">
     <div class="inner">
         <div class="divisions">
             {divisions.map((division) => (
-                <div class={'division m_d__' + division}>
-                    <input class={checkbox_class_prefix + division} type="checkbox">
-                    <img src={'./img/division/' + division + '.png'} alt={division}>
+                <div class={'division m_d__' + division.id}>
+                    <input class={checkbox_class_prefix + division.id} type="checkbox">
+                    <div class="img_wrap">
+                        <img src={'./img/division/' + division.id + '.png'} alt={division.name}>
+                    </div>
+                    <div class="division_name">{division.name}</div>
                 </div>
             ))}
         </div>
-        <input type='checkbox' id='all_release' class='checkbox'>
-    <label for='all_release'>全解除</label>
+        <button id="all_release" type="button">全解除</button>
+    </div>
 </div>
 
 <style>
 #modal {
-    /* display: none; */
-    position: absolute;
-    top: 80px;
-    right: 10px;
+    z-index: 50;
+    position: fixed;
+    top: 70px;
+    right: 0px;
     width: 500px;
+    max-height: calc(100% - 70px);
+    background-color: #fafafa;
+    transition: 0.4s;
+    transform: translateX(0);
+    overflow-y: auto;
+    border: solid 1px #ddd;
+    border-top: none;
+    border-right: none;
 }
 @media screen and (max-width:1200px) {
     #modal {
@@ -30,21 +41,44 @@ const checkbox_class_prefix = 'checkbox m_c__';
         width: auto;
     }
 }
-#modal.modal_active {
-    display: block;
+#modal.modal_hide {
+    transform: translateX(200%);
+}
+.inner {
+    padding: 10px;
 }
 .divisions {
-
+    display: flex;
+    flex-direction: column;
 }
 .division {
-
+    display: flex;
+}
+.division:not(:last-child) {
+    margin-bottom: 5px;
+}
+.img_wrap {
+    width: 55px;
+    text-align: center;
 }
 .division img {
     height: 30px;
 	transform: scale(1.01);
 }
+.m_d__pubg_mobile img {
+	height: 25px!important;
+}
+.division_name {
+    font-size: 20px;
+	font-family: "Noto Sans TC", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 500;
+	font-style: normal;
+}
 #all_release {
-    opacity: 0;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-bottom: 10px;
 }
 </style>
 
@@ -70,7 +104,6 @@ const checkbox_class_prefix = 'checkbox m_c__';
             }
             // チームの表示/非表示切り替え処理
             const teams =  document.getElementsByClassName("team");
-            console.log(teams)
             for (let i = 0; i < teams.length; i++) {
                 const element_team = teams[i];
                 // divisionにチェックない場合
@@ -102,7 +135,18 @@ const checkbox_class_prefix = 'checkbox m_c__';
     // 全解除ボタン
     const all_release = document.getElementById("all_release");
     all_release.addEventListener("click", (e) => {
-
+        // 全部チェック外す
+        const checkboxes = document.getElementsByClassName("checkbox");
+        for (let i = 0; i < checkboxes.length; i++) {
+            const element_cb = checkboxes[i] as HTMLInputElement;
+            element_cb.checked = false;
+        }
+        // 全チーム出す
+        const teams =  document.getElementsByClassName("team");
+        for (let i = 0; i < teams.length; i++) {
+            const element_team = teams[i];
+            element_team.classList.remove('team_hide');
+        }
     });
 
 </script>

@@ -5,6 +5,11 @@
         "ruby": "クレイジー ラクーン",
         "tag": "CR",
         "win": "CRWIN",
+        "company": {
+            "name": "株式会社Samurai工房",
+            "url": ""
+        },
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "Crazy_Raccoon",
@@ -103,6 +108,11 @@
         "ruby": "デトネーション フォーカスミー",
         "tag": "DFM",
         "win": "DFMWIN",
+        "company": {
+            "name": "株式会社DetonatioN",
+            "url": ""
+        },
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "DetonatioN_FocusMe",
@@ -207,6 +217,11 @@
         "ruby": "ゼータ ディビジョン",
         "tag": "ZETA",
         "win": "ZETAWIN",
+        "company": {
+            "name": "GANYMEDE株式会社",
+            "url": "https://gnmd.co.jp/"
+        },
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "ZETA_DIVISION",

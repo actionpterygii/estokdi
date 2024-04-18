@@ -1,18 +1,62 @@
 [
-    "apex_legends",
-    "valorant",
-    "overwatch",
-    "pubg_mobile",
-    "fortnite",
-    "rainbowsix",
-    "street_fighter_6",
-    "super_smash_bros",
-    "league_of_legends",
-    "brawl_stars",
-    "efootball",
-    "shadowverse",
-    "identity_v",
-    "clash_royale",
-    "streamer",
-    "other"
+    {
+        "id": "apex_legends",
+        "name": "Apex Legends"
+    },
+    {
+        "id": "valorant",
+        "name": "VALORANT"
+    },
+    {
+        "id": "overwatch",
+        "name": "Overwatch"
+    },
+    {
+        "id": "pubg_mobile",
+        "name": "PUBG MOBILE"
+    },
+    {
+        "id": "fortnite",
+        "name": "Fortnite"
+    },
+    {
+        "id": "rainbowsix",
+        "name": "Rainbow Six Siege"
+    },
+    {
+        "id": "street_fighter_6",
+        "name": "STREET FIGHTER 6"
+    },
+    {
+        "id": "super_smash_bros",
+        "name": "Super Smash Bros"
+    },
+    {
+        "id": "league_of_legends",
+        "name": "League of Legends"
+    },
+    {
+        "id": "brawl_stars",
+        "name": "Brawl Stars"
+    },
+    {
+        "id": "efootball",
+        "name": "eFootball"
+    },
+    {
+        "id": "shadowverse",
+        "name": "Shadowverse"
+    },
+    {
+        "id": "identity_v",
+        "name": "Identity V"
+    },
+    {
+        "id": "clash_royale",
+        "name": "Clash Royale"
+    },
+    {
+        "id": "streamer",
+        "name": "Streamer"
+    }
 ]
