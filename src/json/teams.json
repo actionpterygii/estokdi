@@ -212,6 +212,121 @@
         ]
     },
     {
+        "id": "reject",
+        "name": "REJECT",
+        "ruby": "リジェクト",
+        "tag": "RC",
+        "win": "RCWIN",
+        "company": {
+            "name": "株式会社REJECT",
+            "url": ""
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "REJECT",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://reject.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://brand.reject.jp/",
+                    "https://amzn.to/36kLGhw"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/RC_REJECT"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/rc_reject/"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@rc_reject"
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    "https://note.com/reject/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/c/REJECTesports"
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    "https://lin.ee/zwbsu18"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://reject.jp/teams/#apex"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://reject.jp/teams/#valorant"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/104/reject"
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    "https://reject.jp/teams/#pubgemobile"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://reject.jp/teams/#streetfigter"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://reject.jp/teams/#smashbros"
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    "https://reject.jp/teams/#identify"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://reject.jp/teams/#creator",
+                    "https://reject.jp/teams/#streamer"
+    
+                ]
+            }
+        ]
+    },
+    {
         "id": "zeta_division",
         "name": "ZETA DIVISON",
         "ruby": "ゼータ ディビジョン",

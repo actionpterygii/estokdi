@@ -34,10 +34,10 @@ const liquipedia_url = 'https://liquipedia.net/';
 								{division.urls.map((url) => (
 									<a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'./img/division/' + division.name + '.png'} alt={division.name}></a>
 								))}
+								{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a> : ''}
 								{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
 									<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="./img/other/vlr_gg.png" alt="vlr_gg"></a>
 								)) : ''}
-								{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a> : ''}
 							</div>
 						))}
 					</div>
