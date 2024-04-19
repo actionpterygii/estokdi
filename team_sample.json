@@ -28,7 +28,6 @@
         {
             "name": "x",
             "urls": [
-                "",
                 ""
             ]
         },
@@ -79,6 +78,12 @@
             "urls": [
                 ""
             ]
+        },
+        {
+            "name": "line",
+            "urls": [
+                ""
+            ]
         }
     ],
     "divisions": [
@@ -91,11 +96,9 @@
         {
             "name": "valorant",
             "urls": [
-                "",
                 ""
             ],
             "vlr_ggs": [
-                "",
                 ""
             ]
         },
@@ -130,6 +133,12 @@
             ]
         },
         {
+            "name": "tekken_7",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "super_smash_bros",
             "urls": [
                 ""
@@ -142,13 +151,31 @@
             ]
         },
         {
+            "name": "lol_wild_rift",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "brawl_stars",
             "urls": [
                 ""
             ]
         },
         {
-            "name": "efootball",
+            "name": "honor_of_kings",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "e_football",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "e_motorsports",
             "urls": [
                 ""
             ]

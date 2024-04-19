@@ -28,6 +28,10 @@
         "name": "STREET FIGHTER 6"
     },
     {
+        "id": "tekken_7",
+        "name": "TEKKEN 7"
+    },
+    {
         "id": "super_smash_bros",
         "name": "Super Smash Bros"
     },
@@ -36,12 +40,24 @@
         "name": "League of Legends"
     },
     {
+        "id": "lol_wild_rift",
+        "name": "League of Legends:Wild Rift"
+    },
+    {
         "id": "brawl_stars",
         "name": "Brawl Stars"
     },
     {
-        "id": "efootball",
+        "id": "honor_of_kings",
+        "name": "Honor of Kings"
+    },
+    {
+        "id": "e_football",
         "name": "eFootball"
+    },
+    {
+        "id": "e_motorsports",
+        "name": "eMotorsports"
     },
     {
         "id": "shadowverse",

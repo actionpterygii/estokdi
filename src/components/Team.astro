@@ -41,13 +41,13 @@ const liquipedia_url = 'https://liquipedia.net/';
 							</div>
 						))}
 					</div>
-					{
+					{team.name ?
 						team.company.url
 						?
 							<a class="team_company" href={team.company.url} target="_blank" rel="noopener">{team.company.name}</a>
 						:
 							<p class="team_company">{team.company.name}</p>
-					}
+					: ''}
 				</div>
 			</li>
 		))
@@ -113,6 +113,8 @@ li {
 	margin: 0 auto;
 	width: 100px;
 	margin-top: 10px;
+	display: flex;
+	justify-content: center;
 }
 .team_logo img {
 	height: 100px;
@@ -128,6 +130,7 @@ li {
 	font-style: nomal;
 	text-align: center;
 	word-break: normal;
+	overflow-wrap: anywhere;
 	line-height: 45px;
 }
 .team_ruby {
@@ -137,7 +140,7 @@ li {
 
 }
 .team_win {
-	margin-top: 15px;
+	margin-top: 10px;
 	display: inline-block;
 	color: var(--text_link);
 	font-size: 20px;

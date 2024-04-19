@@ -192,7 +192,7 @@
                 ]
             },
             {
-                "name": "efootball",
+                "name": "e_football",
                 "urls": [
                     "https://team-detonation.net/teams"
                 ]
@@ -207,6 +207,238 @@
                 "name": "streamer",
                 "urls": [
                     "https://team-detonation.net/teams"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fennel",
+        "name": "FENNEL",
+        "ruby": "フェンネル",
+        "tag": "",
+        "win": "FLWIN",
+        "company": {
+            "name": "株式会社Fennel",
+            "url": ""
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "FENNEL",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://fennel-esports.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://fennel-store.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/FENNEL_official"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/fennel_official_/"
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    "https://www.threads.net/@fennel_official_"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UC-a4uAuNlxku2V_FEsOOsbQ"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://fennel-esports.com/team/apex-legends/"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://fennel-esports.com/team/valorant/",
+                    "https://fennel-esports.com/team/fennel-hotelava/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/2934/fennel",
+                    "https://www.vlr.gg/team/9516/fennel-gc"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://fennel-esports.com/team/smash-bros/"
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    "https://fennel-esports.com/team/lol-wildrift/"
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    "https://fennel-esports.com/team/identity-v/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://fennel-esports.com/team/streamer/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "igzist",
+        "name": "IGZIST",
+        "ruby": "イグジスト",
+        "tag": "",
+        "win": "IGZWIN",
+        "company": {
+            "name": "株式会社BRBD",
+            "url": ""
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "IGZIST",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://igzist-gg.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.igzist-gg.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/IGZIST_GG"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCiV5Zdwp5y3XDY0jRuopn3A"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://igzist-gg.com/team/valorant/",
+                    "https://igzist-gg.com/team/valorant-academy/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/6869/igzist"
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    "https://igzist-gg.com/team/rainbow-six-siege/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://igzist-gg.com/team/streamer/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "northeption",
+        "name": "NORTHEPTION",
+        "ruby": "ノーセプション",
+        "tag": "",
+        "win": "NthWIN",
+        "company": {
+            "name": "株式会社 札幌ビケ足場",
+            "url": "https://www.bi-ke.com/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "Northeption",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.northeption.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.northeption.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/northeption",
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/northeption_official/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCz0jFfhRWzJZY_c9f0CN3sg"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://www.northeption.com/teams/apex/"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://www.northeption.com/teams/valorant/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/2988/northeption"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.northeption.com/teams/streamers/"
                 ]
             }
         ]
@@ -322,6 +554,292 @@
                     "https://reject.jp/teams/#creator",
                     "https://reject.jp/teams/#streamer"
     
+                ]
+            }
+        ]
+    },
+    {
+        "id": "riddle",
+        "name": "RIDDLE ORDER",
+        "ruby": "リドルオーダー",
+        "tag": "",
+        "win": "RIDWIN",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "RIDDLE",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://riddle.info/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://shop.riddle.info/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/RIDDLEORDER"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/riddleorderrr/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@RIDDLE_ORDER/videos"
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    "https://discord.gg/rz6KbrMPcn"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://riddle.info/#member"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://riddle.info/#member"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/14375/riddle"
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://riddle.info/#member"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://riddle.info/#member"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "scarz",
+        "name": "SCARZ",
+        "ruby": "スカーズ",
+        "tag": "",
+        "win": "SZWIN",
+        "company": {
+            "name": "株式会社XENOZ",
+            "url": "https://xenoz.co.jp/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "SCARZ",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.scarz.net/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://www.scarzstore.net/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/SCARZ5"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/scarz_jp/"
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    "https://www.threads.net/@scarz_jp"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCYNCPFWvDZzhUSrZNWENEEA"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://www.scarz.net/team/valorant/",
+                    "https://www.scarz.net/team/valorant_gc/",
+                    "https://www.scarz.net/team/valorant-youth/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/282/scarz",
+                    "https://www.vlr.gg/team/13496/scarz-gc"
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    "https://www.scarz.net/team/rainbow-six-siege/"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://www.scarz.net/team/supre_smash_bros/"
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    "https://www.scarz.net/team/honor-of-kings/"
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    "https://www.scarz.net/team/emotorsports/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.scarz.net/team/streamer/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "varrel",
+        "name": "DONUTS VARREL",
+        "ruby": "ドーナッツ ヴァレル",
+        "tag": "",
+        "win": "DVLWIN",
+        "company": {
+            "name": "株式会社CELLORB",
+            "url": "https://cellorb.jp/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "VARREL",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://usgd.club/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.varrel.jp/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/_VARREL",
+                    "https://twitter.com/VARREL_VALORANT"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/varrel_official/"
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    "https://note.com/varrel/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCILHKNl1Xt9dR4xac3QtJpw"
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    "http://discord.gg/EjmvFdC6ye"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://usgd.club/team/valorant"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/11229/varrel"
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    "https://usgd.club/team/OVERWATCH"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://usgd.club/team/street-fighter"
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    "https://usgd.club/team/tekken7"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://usgd.club/team/streamer"
                 ]
             }
         ]

@@ -6,8 +6,10 @@
     "apex_legends": "apexlegends",
     "valorant": "valorant",
     "street_fighter_6": "fighters",
+    "tekken_7": "fighters",
     "super_smash_bros": "smash",
     "league_of_legends": "leagueoflegends",
+    "lol_wild_rift": "wildrift",
     "brawl_stars": "brawlstars",
     "clash_royale": "clashroyale"
 }
