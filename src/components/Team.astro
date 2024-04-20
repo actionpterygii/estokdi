@@ -15,30 +15,33 @@ const liquipedia_url = 'https://liquipedia.net/';
 				)).join(' ')}
 			>
 				<div class="team_box">
-					<img class="team_country" src={'./img/flag/' + team.country + '.svg'} alt={team.country}>
+					{team.country ? <img class="team_country" src={'./img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
 					<div class="team_logo">
 						<img src={'./img/team/' + team.id + '.png'} alt={team.id}>
 					</div>
 					<p class="team_name">{team.name}</p>
-					<a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a>
+					{team.win ? <a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a> : ''}
 					<div class="team_links">
 						{team.links.map((link) => (
 							link.urls.map((url) => (
-								<a class={'link__' + link.name} href={url} target="_blank" rel="noopener"><img src={'./img/link/' + link.name + '.png'} alt={link.name}></a>
+								url ? <a class={'link__' + link.name} href={url} target="_blank" rel="noopener"><img src={'./img/link/' + link.name + '.png'} alt={link.name}></a> : ''
 							))
 						))}
 					</div>
 					<div class="team_divisions">
 						{team.divisions.map((division) => (
-							<div class="team_division">
-								{division.urls.map((url) => (
-									<a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'./img/division/' + division.name + '.png'} alt={division.name}></a>
-								))}
-								{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a> : ''}
-								{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
-									<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="./img/other/vlr_gg.png" alt="vlr_gg"></a>
-								)) : ''}
-							</div>
+							division.urls[0] !== '' ?
+								<div class="team_division">
+									{division.urls.map((url) => (
+										url ? <a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'./img/division/' + division.name + '.png'} alt={division.name}></a> : ''
+									))}
+									{console.log(division.name)}
+									<a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a>
+									{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
+										<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="./img/other/vlr_gg.png" alt="vlr_gg"></a>
+									)) : ''}
+								</div>
+							: ''
 						))}
 					</div>
 					{team.name ?

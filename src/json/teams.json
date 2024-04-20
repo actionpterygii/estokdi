@@ -1,5 +1,219 @@
 [
     {
+        "id": "cag",
+        "name": "CAG OSAKA",
+        "ruby": "シーエーシー オオサカ",
+        "tag": "",
+        "win": "CAGWIN",
+        "company": {
+            "name": "ブロードメディアeスポーツ株式会社",
+            "url": "https://www.broadmediaesports.co.jp/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://cyclops-osaka.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://official-goods-store.jp/cyclops/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "crazy_raccoon",
         "name": "Crazy Raccoon",
         "ruby": "クレイジー ラクーン",
@@ -98,6 +312,220 @@
                 "name": "other",
                 "urls": [
                     "https://crazyraccoon.jp/member/#player"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "crest",
+        "name": "CREST GAMING",
+        "ruby": "クレストゲーミング",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
                 ]
             }
         ]
@@ -212,6 +640,749 @@
         ]
     },
     {
+        "id": "detonator",
+        "name": "DETONATOR",
+        "ruby": "デトネーター",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "donuts_varrel",
+        "name": "DONUTS VARREL",
+        "ruby": "ドーナッツ ヴァレル",
+        "tag": "",
+        "win": "DVLWIN",
+        "company": {
+            "name": "株式会社CELLORB",
+            "url": "https://cellorb.jp/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "VARREL",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://usgd.club/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.varrel.jp/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/_VARREL",
+                    "https://twitter.com/VARREL_VALORANT"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/varrel_official/"
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    "https://note.com/varrel/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCILHKNl1Xt9dR4xac3QtJpw"
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    "http://discord.gg/EjmvFdC6ye"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://usgd.club/team/valorant"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/11229/varrel"
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    "https://usgd.club/team/OVERWATCH"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://usgd.club/team/street-fighter"
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    "https://usgd.club/team/tekken7"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://usgd.club/team/streamer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "good_8_squad",
+        "name": "Good 8 Squad",
+        "ruby": "グッドエイトスクアッド",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://good8squad.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "fav",
+        "name": "FAV gaming",
+        "ruby": "ファブ ゲーミング",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "fennel",
         "name": "FENNEL",
         "ruby": "フェンネル",
@@ -308,6 +1479,220 @@
         ]
     },
     {
+        "id": "hiroshima_team_ixa",
+        "name": "広島 TEAM iXA",
+        "ruby": "ヒロシマ チーム イクサ",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://ixa.yarukiman.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "igzist",
         "name": "IGZIST",
         "ruby": "イグジスト",
@@ -368,6 +1753,1290 @@
                 "name": "streamer",
                 "urls": [
                     "https://igzist-gg.com/team/streamer/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "insomnia",
+        "name": "INSOMNIA",
+        "ruby": "インソムニア",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "jadeite",
+        "name": "Jadeite",
+        "ruby": "ジェダイト",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "kinotrope",
+        "name": "KINOTROPE gaming",
+        "ruby": "キノトロープゲーミング",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "meteor",
+        "name": "Meteor",
+        "ruby": "ミーティア",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "murash",
+        "name": "MURASH GAMING",
+        "ruby": "ムラッシュ ゲーミング",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "nagoya_oja",
+        "name": "名古屋OJA",
+        "ruby": "ナゴヤ オウジャ",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
                 ]
             }
         ]
@@ -439,6 +3108,434 @@
                 "name": "streamer",
                 "urls": [
                     "https://www.northeption.com/teams/streamers/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pulverex",
+        "name": "PULVEREX",
+        "ruby": "パルブレックス",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "reignite",
+        "name": "REIGNITE",
+        "ruby": "リイグナイト",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
                 ]
             }
         ]
@@ -641,6 +3738,220 @@
         ]
     },
     {
+        "id": "saishunkan_sol_kumamoto",
+        "name": "Saishunkan Sol 熊本",
+        "ruby": "サイシュンカン ソル クマモト",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
         "id": "scarz",
         "name": "SCARZ",
         "ruby": "スカーズ",
@@ -744,61 +4055,90 @@
         ]
     },
     {
-        "id": "varrel",
-        "name": "DONUTS VARREL",
-        "ruby": "ドーナッツ ヴァレル",
+        "id": "sengoku",
+        "name": "Sengoku Gaming",
+        "ruby": "センゴク ゲーミング",
         "tag": "",
-        "win": "DVLWIN",
+        "win": "",
         "company": {
-            "name": "株式会社CELLORB",
-            "url": "https://cellorb.jp/"
+            "name": "",
+            "url": ""
         },
-        "country": "japan",
+        "country": "",
         "sponsor": "",
         "news": "",
-        "liquipedia_id": "VARREL",
+        "liquipedia_id": "",
         "links": [
             {
                 "name": "web",
                 "urls": [
-                    "https://usgd.club/"
+                    ""
                 ]
             },
             {
                 "name": "store",
                 "urls": [
-                    "https://store.varrel.jp/"
+                    ""
                 ]
             },
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/_VARREL",
-                    "https://twitter.com/VARREL_VALORANT"
+                    ""
                 ]
             },
             {
                 "name": "instagram",
                 "urls": [
-                    "https://www.instagram.com/varrel_official/"
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
                 ]
             },
             {
                 "name": "note",
                 "urls": [
-                    "https://note.com/varrel/"
+                    ""
                 ]
             },
             {
                 "name": "youtube",
                 "urls": [
-                    "https://www.youtube.com/channel/UCILHKNl1Xt9dR4xac3QtJpw"
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
                 ]
             },
             {
                 "name": "discord",
                 "urls": [
-                    "http://discord.gg/EjmvFdC6ye"
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
                 ]
             }
         ],
@@ -812,34 +4152,546 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://usgd.club/team/valorant"
+                    ""
                 ],
                 "vlr_ggs": [
-                    "https://www.vlr.gg/team/11229/varrel"
+                    ""
                 ]
             },
             {
                 "name": "overwatch",
                 "urls": [
-                    "https://usgd.club/team/OVERWATCH"
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://usgd.club/team/street-fighter"
+                    ""
                 ]
             },
             {
                 "name": "tekken_7",
                 "urls": [
-                    "https://usgd.club/team/tekken7"
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://usgd.club/team/streamer"
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "shinobism",
+        "name": "忍ism Gaming",
+        "ruby": "シノビズム ゲーミング",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "id": "vite",
+        "name": "VITE",
+        "ruby": "ヴィート",
+        "tag": "",
+        "win": "",
+        "company": {
+            "name": "",
+            "url": ""
+        },
+        "country": "",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "note",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "discord",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "line",
+                "urls": [
+                    ""
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    ""
+                ],
+                "vlr_ggs": [
+                    ""
+                ]
+            },
+            {
+                "name": "overwatch",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "tekken_7",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "lol_wild_rift",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "identity_v",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "clash_royale",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    ""
                 ]
             }
         ]
