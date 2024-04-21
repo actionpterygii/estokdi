@@ -17,7 +17,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 				<div class="team_box">
 					{team.country ? <img class="team_country" src={'./img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
 					<div class="team_logo">
-						<img src={'./img/team/' + team.id + '.png'} alt={team.id}>
+						<img src={'./img/team/' + team.id + '.png'} alt={team.ruby}>
 					</div>
 					<p class="team_name">{team.name}</p>
 					{team.win ? <a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a> : ''}
@@ -215,6 +215,12 @@ li {
 	transform: scale(1.01);
 }
 .division__pubg_mobile img {
+	height: 25px!important;
+}
+.division__splatoon img {
+	height: 28px!important;
+}
+.division__tekken_7 img {
 	height: 25px!important;
 }
 .liquipedia img {

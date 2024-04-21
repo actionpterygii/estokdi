@@ -1,15 +1,17 @@
 {
-    "overwatch": "overwatch",
-    "rainbowsix": "rainbowsix",
-    "pubg_mobile": "pubgmobile",
-    "fortnite": "fortnite",
     "apex_legends": "apexlegends",
     "valorant": "valorant",
+    "overwatch": "overwatch",
+    "pubg_mobile": "pubgmobile",
+    "fortnite": "fortnite",
+    "rainbowsix": "rainbowsix",
+    "splatoon": "splatoon",
     "street_fighter_6": "fighters",
     "tekken_7": "fighters",
     "super_smash_bros": "smash",
     "league_of_legends": "leagueoflegends",
     "lol_wild_rift": "wildrift",
     "brawl_stars": "brawlstars",
+    "rocket_league": "rocketleague",
     "clash_royale": "clashroyale"
 }

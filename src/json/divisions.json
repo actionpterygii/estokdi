@@ -24,6 +24,10 @@
         "name": "Rainbow Six Siege"
     },
     {
+        "id": "splatoon",
+        "name": "Splatoon"
+    },
+    {
         "id": "street_fighter_6",
         "name": "STREET FIGHTER 6"
     },
@@ -52,6 +56,14 @@
         "name": "Honor of Kings"
     },
     {
+        "id": "e_baseball",
+        "name": "eBaseball"
+    },
+    {
+        "id": "ea_sports_fc",
+        "name": "EA SPORTS FC"
+    },
+    {
         "id": "e_football",
         "name": "eFootball"
     },
@@ -62,6 +74,10 @@
     {
         "id": "shadowverse",
         "name": "Shadowverse"
+    },
+    {
+        "id": "rocket_league",
+        "name": "Rocket League"
     },
     {
         "id": "identity_v",

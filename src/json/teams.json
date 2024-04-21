@@ -12,7 +12,7 @@
         "country": "japan",
         "sponsor": "",
         "news": "",
-        "liquipedia_id": "",
+        "liquipedia_id": "CYCLOPS_athlete_gaming",
         "links": [
             {
                 "name": "web",
@@ -29,186 +29,57 @@
             {
                 "name": "x",
                 "urls": [
-                    ""
+                    "https://twitter.com/cyclops_osaka"
                 ]
             },
             {
                 "name": "instagram",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "threads",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "facebook",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "tiktok",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "note",
-                "urls": [
-                    ""
+                    "https://www.instagram.com/cyclops_athlete_gaming/"
                 ]
             },
             {
                 "name": "youtube",
                 "urls": [
-                    ""
+                    "https://www.youtube.com/channel/UCWLD7HNCfLD50iOSF7uyTPw"
                 ]
             },
             {
                 "name": "twitch",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "discord",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    ""
+                    "https://www.twitch.tv/cyclops_osaka"
                 ]
             }
         ],
         "divisions": [
             {
-                "name": "apex_legends",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "valorant",
-                "urls": [
-                    ""
-                ],
-                "vlr_ggs": [
-                    ""
-                ]
-            },
-            {
-                "name": "overwatch",
-                "urls": [
-                    ""
-                ]
-            },
-            {
                 "name": "pubg_mobile",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "fortnite",
-                "urls": [
-                    ""
+                    "https://cyclops-osaka.jp/member/"
                 ]
             },
             {
                 "name": "rainbowsix",
                 "urls": [
-                    ""
+                    "https://cyclops-osaka.jp/member/"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    ""
+                    "https://cyclops-osaka.jp/member/"
                 ]
             },
             {
-                "name": "tekken_7",
+                "name": "ea_sports_fc",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "super_smash_bros",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "league_of_legends",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "lol_wild_rift",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "brawl_stars",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "honor_of_kings",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "e_football",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "e_motorsports",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "shadowverse",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "identity_v",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "clash_royale",
-                "urls": [
-                    ""
+                    "https://cyclops-osaka.jp/member/"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "other",
-                "urls": [
-                    ""
+                    "https://cyclops-osaka.jp/member/"
                 ]
             }
         ]
@@ -582,7 +453,8 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#valorant",
+                    "https://team-detonation.net/teams#valorant-game-changers"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/278/detonation-focusme",
@@ -592,49 +464,51 @@
             {
                 "name": "fortnite",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#fortnite"
                 ]
             },
             {
                 "name": "pubg_mobile",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#pubg-mobile"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#fightinggames"
                 ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#ssbro"
                 ]
             },
             {
                 "name": "league_of_legends",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#lol",
+                    "https://team-detonation.net/teams#lol-academy"
+
                 ]
             },
             {
                 "name": "e_football",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#efootball"
                 ]
             },
             {
                 "name": "shadowverse",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#shadowverse"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://team-detonation.net/teams"
+                    "https://team-detonation.net/teams#streamers"
                 ]
             }
         ]
@@ -644,86 +518,50 @@
         "name": "DETONATOR",
         "ruby": "デトネーター",
         "tag": "",
-        "win": "",
+        "win": "DTNWIN",
         "company": {
-            "name": "",
-            "url": ""
+            "name": "株式会社GamingD",
+            "url": "https://www.gamingd.co.jp/"
         },
         "country": "japan",
         "sponsor": "",
         "news": "",
-        "liquipedia_id": "",
+        "liquipedia_id": "DeToNator",
         "links": [
             {
                 "name": "web",
                 "urls": [
-                    ""
+                    "https://www.detonator-gg.com/"
                 ]
             },
             {
                 "name": "store",
                 "urls": [
-                    ""
+                    "https://store.gamingd.co.jp/"
                 ]
             },
             {
                 "name": "x",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "instagram",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "threads",
-                "urls": [
-                    ""
+                    "https://twitter.com/DeToNator_GG"
                 ]
             },
             {
                 "name": "facebook",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "tiktok",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "note",
-                "urls": [
-                    ""
+                    "https://www.facebook.com/ava.detonator"
                 ]
             },
             {
                 "name": "youtube",
                 "urls": [
-                    ""
+                    "https://www.youtube.com/detonatorCH"
                 ]
             },
             {
                 "name": "twitch",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "discord",
-                "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "line",
-                "urls": [
-                    ""
+                    "https://www.twitch.tv/detonator_ch"
                 ]
             }
         ],
@@ -762,9 +600,9 @@
                 ]
             },
             {
-                "name": "rainbowsix",
+                "name": "splatoon",
                 "urls": [
-                    ""
+                    "https://www.detonator-gg.com/members"
                 ]
             },
             {
@@ -782,7 +620,7 @@
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    ""
+                    "https://www.detonator-gg.com/members"
                 ]
             },
             {
@@ -822,9 +660,9 @@
                 ]
             },
             {
-                "name": "shadowverse",
+                "name": "rocket_league",
                 "urls": [
-                    ""
+                    "https://www.detonator-gg.com/members"
                 ]
             },
             {
@@ -842,13 +680,7 @@
             {
                 "name": "streamer",
                 "urls": [
-                    ""
-                ]
-            },
-            {
-                "name": "other",
-                "urls": [
-                    ""
+                    "https://www.detonator-gg.com/members"
                 ]
             }
         ]

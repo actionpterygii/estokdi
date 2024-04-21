@@ -139,6 +139,12 @@
             ]
         },
         {
+            "name": "splatoon",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "street_fighter_6",
             "urls": [
                 ""
@@ -187,6 +193,12 @@
             ]
         },
         {
+            "name": "ea_sports_fc",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "e_football",
             "urls": [
                 ""
@@ -200,6 +212,12 @@
         },
         {
             "name": "shadowverse",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "rocket_league",
             "urls": [
                 ""
             ]
