@@ -326,7 +326,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -649,7 +649,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -964,7 +964,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -1178,7 +1178,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -1479,6 +1479,67 @@
         ]
     },
     {
+        "id": "fukuoka_softbank_hawks",
+        "name": "福岡ソフトバンクホークス ゲーミング",
+        "ruby": "フクオカソフトバンクホークス ゲーミング",
+        "tag": "",
+        "win": "SHGWIN",
+        "company": {
+            "name": "福岡ソフトバンクホークス株式会社",
+            "url": "https://www.softbankhawks.co.jp/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "Fukuoka_SoftBank_HAWKS_gaming",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://gaming.softbankhawks.co.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://hawks-gamingstore.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/esports_hawks"
+                ]
+            },
+            {
+                "name": "openrec",
+                "urls": [
+                    "https://www.openrec.tv/team/esports_hawks"
+                ]
+            },
+            {
+                "name": "marshmallow",
+                "urls": [
+                    "https://marshmallow-qa.com/esports_hawks"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://gaming.softbankhawks.co.jp/team/"
+                ]
+            },
+            {
+                "name": "e_baseball",
+                "urls": [
+                    "https://gaming.softbankhawks.co.jp/team/"
+                ]
+            }
+        ]
+    },
+    {
         "id": "hiroshima_team_ixa",
         "name": "広島 TEAM iXA",
         "ruby": "ヒロシマ チーム イクサ",
@@ -1488,7 +1549,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -1767,7 +1828,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -1981,7 +2042,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -2195,7 +2256,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -2409,7 +2470,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -2623,7 +2684,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -2837,7 +2898,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -3122,7 +3183,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -3336,7 +3397,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -3747,7 +3808,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -4064,7 +4125,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -4278,7 +4339,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",
@@ -4492,7 +4553,7 @@
             "name": "",
             "url": ""
         },
-        "country": "",
+        "country": "japan",
         "sponsor": "",
         "news": "",
         "liquipedia_id": "",

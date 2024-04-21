@@ -74,6 +74,12 @@
             ]
         },
         {
+            "name": "openrec",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "discord",
             "urls": [
                 ""
@@ -81,6 +87,12 @@
         },
         {
             "name": "line",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "marshmallow",
             "urls": [
                 ""
             ]
@@ -164,6 +176,12 @@
         },
         {
             "name": "honor_of_kings",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "e_baseball",
             "urls": [
                 ""
             ]
