@@ -667,12 +667,6 @@
         ],
         "divisions": [
             {
-                "name": "apex_legends",
-                "urls": [
-                    ""
-                ]
-            },
-            {
                 "name": "valorant",
                 "urls": [
                     "https://usgd.club/team/valorant"
@@ -1387,7 +1381,8 @@
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/15459/meteor"
-                ]
+                ],
+                "liquipedia_id" : "Meteor_GC"
             },
             {
                 "name": "streamer",
