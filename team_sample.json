@@ -3,7 +3,7 @@
     "name": "",
     "ruby": "",
     "tag": "",
-    "win": "",
+    "win": [""],
     "company": {
         "name": "",
         "url": ""
@@ -232,7 +232,8 @@
             "name": "clash_royale",
             "urls": [
                 ""
-            ]
+            ],
+            "iqipedia_id": ""
         },
         {
             "name": "streamer",

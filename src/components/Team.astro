@@ -20,7 +20,11 @@ const liquipedia_url = 'https://liquipedia.net/';
 						<img src={'./img/team/' + team.id + '.png'} alt={team.ruby}>
 					</div>
 					<p class="team_name">{team.name}</p>
-					{team.win ? <a class="team_win" href={win_search_url + team.win} target="_blank" rel="noopener">{'#' + team.win}</a> : ''}
+					<div class="team_win_wrap">
+						{team.win.map((win) => (
+							win !== '' ? <a class="team_win" href={win_search_url + win} target="_blank" rel="noopener">{'#' + win}</a> : ''
+						))}
+					</div>
 					<div class="team_links">
 						{team.links.map((link) => (
 							link.urls.map((url) => (
@@ -35,7 +39,15 @@ const liquipedia_url = 'https://liquipedia.net/';
 									{division.urls.map((url) => (
 										url ? <a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'./img/division/' + division.name + '.png'} alt={division.name}></a> : ''
 									))}
-									{liquipedia_divisions[division.name] ? <a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a> : "" }
+									{liquipedia_divisions[division.name] ?
+										division.liquipedia_id ?
+											<a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + division.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a>
+										:
+											team.liquipedia_id ?
+												<a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="./img/other/liquipedia.png" alt="liquipedia"></a>
+											: ""	
+									: ""
+									}
 									{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
 										<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="./img/other/vlr_gg.png" alt="vlr_gg"></a>
 									)) : ''}
@@ -141,17 +153,23 @@ li {
 .team_tag {
 
 }
+.team_win_wrap {
+	min-height: 20px;
+	margin-top: 5px;
+    display: flex;
+    justify-content: flex-end;
+	flex-wrap: wrap;
+}
 .team_win {
-	margin-top: 10px;
-	display: inline-block;
+	height: 20px;
+	margin-top: 5px;
+	margin-left: 10px;
 	color: var(--text_link);
 	font-size: 20px;
 	font-family: "Noto Sans TC", sans-serif;
 	font-optical-sizing: auto;
 	font-weight: 500;
 	font-style: normal;
-	display: grid;
-	justify-content: flex-end;
 }
 .team_links {
 	margin-top: 35px;
@@ -227,6 +245,7 @@ li {
 	height: 20px!important;
 }
 .team_company {
+	margin-top: 20px;
 	font-size: 16px;
 	line-height: 16px;
 	font-family: "Platypi", serif;
