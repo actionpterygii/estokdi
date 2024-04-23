@@ -7,11 +7,13 @@ const checkbox_class_prefix = 'checkbox m_c__';
         <div class="divisions">
             {divisions.map((division) => (
                 <div class={'division m_d__' + division.id}>
-                    <input class={checkbox_class_prefix + division.id} type="checkbox">
-                    <div class="img_wrap">
-                        <img src={'./img/division/' + division.id + '.png'} alt={division.name}>
-                    </div>
-                    <div class="division_name">{division.name}</div>
+                    <input class={checkbox_class_prefix + division.id} id={division.id} type="checkbox">
+                    <label for={division.id}>
+                        <div class="img_wrap">
+                            <img src={'./img/division/' + division.id + '.png'} alt={division.name}>
+                        </div>
+                        <div class="division_name">{division.name}</div>
+                    </label>
                 </div>
             ))}
         </div>
@@ -56,6 +58,9 @@ const checkbox_class_prefix = 'checkbox m_c__';
 }
 .division:not(:last-child) {
     margin-bottom: 5px;
+}
+label {
+    display: flex;
 }
 .img_wrap {
     width: 55px;
