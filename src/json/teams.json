@@ -1246,6 +1246,18 @@
             }
         ],
         "divisions": [
+            {
+                "name": "counter_strike_2",
+                "urls": [
+                    "https://twitter.com/Team_Jadeite"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.team-jadeite.com/team/streamer"
+                ]
+            }
         ]
     },
     {
