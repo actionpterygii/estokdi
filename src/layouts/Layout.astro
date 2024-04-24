@@ -8,6 +8,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
 const descrption = 'eスポーツチームの一覧です。Apex Legends, VALORANT, STREET FIGHTER, League of Legends などのゲームタイトルのチームを持っている日本の著名eスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,liquipedia,SNSなどのリンクがまとめられています。';
+const home_url = 'https://estl.actionpterygii.com';
 ---
 
 <!doctype html>
@@ -20,8 +21,8 @@ const descrption = 'eスポーツチームの一覧です。Apex Legends, VALORA
 		<meta name="twitter:creator" content="@actionpterygii">
 		<meta property="og:title" content={title}>
 		<meta property="og:description" content={descrption}>
-		<meta property="og:url" content="https://estl.actionpterygii.com">
-		<meta property='og:image' content='https://estl.actionpterygii.com/og.png'>
+		<meta property="og:url" content={home_url}>
+		<meta property='og:image' content={home_url + '/og.png'}>
 		<link rel="icon" sizes="16x16" href="./favicon.ico" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -29,6 +30,14 @@ const descrption = 'eスポーツチームの一覧です。Apex Legends, VALORA
 		<title>{title}</title>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXY5JHZVCM"></script>
+		<script type="application/ld+json">
+			{
+			  "@context" : "https://schema.org",
+			  "@type" : "WebSite",
+			  "name" : "eスポーツチーム一覧",
+			  "url" : "https://estl.actionpterygii.com"
+			}
+		  </script>
 	</head>
 	<body>
 		<Header></Header>
