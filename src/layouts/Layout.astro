@@ -24,9 +24,6 @@ const home_url = 'https://estl.actionpterygii.com';
 		<meta property="og:url" content={home_url}>
 		<meta property='og:image' content={home_url + '/og.png'}>
 		<link rel="icon" sizes="16x16" href="./favicon.ico" />
-		<link rel="preconnect" href="https://fonts.googleapis.com">
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Noto+Serif+JP&family=Platypi:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 		<title>{title}</title>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXY5JHZVCM"></script>
@@ -46,6 +43,18 @@ const home_url = 'https://estl.actionpterygii.com';
 	</body>
 </html>
 <style is:global>
+	@font-face {
+		font-family: "NotoSans";
+		src: url("./fonts/NotoSans-VariableFont_wdth,wght.woff2") format("woff2");
+	}
+	@font-face {
+		font-family: "Platypi";
+		src: url("./fonts/Platypi-VariableFont_wght.woff2") format("woff2");
+	}
+	@font-face {
+		font-family: "NotoSerifJP";
+		src: url("./fonts/NotoSerifJP-SemiBold.woff2") format("woff2");
+	}
 	:root {
 		--text: #000;
 		--text_link: #004cff;
