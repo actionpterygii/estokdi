@@ -19,7 +19,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 					<div class="team_logo">
 						<img src={'./img/team/' + team.id + '.png'} alt={team.ruby}>
 					</div>
-					<p class="team_name">{team.name}</p>
+					<h2 class="team_name">{team.name}</h2>
 					<div class="team_win_wrap">
 						{team.win.map((win) => (
 							win !== '' ? <a class="team_win" href={win_search_url + win} target="_blank" rel="noopener">{'#' + win}</a> : ''
