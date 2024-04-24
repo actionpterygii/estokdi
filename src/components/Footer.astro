@@ -1,15 +1,23 @@
 ---
+const last_update_date = '2024/04/24';
+const last_update_date_datetime = last_update_date.replaceAll('/', '-');
 ---
+<p>最終更新：<time datetime={last_update_date_datetime} itemprop="datemodified">{last_update_date}</time></p>
 <footer>
     <a class="actionpterygii" href="https://www.actionpterygii.com">actionpterygii</a>
 </footer>
 
 <style>
-    footer {
-        display: flex;
-        justify-content: center;
-        margin-top: 30px;
-        margin-bottom: 10px;
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+p {
+    text-align: right;
+    margin-top: 20px;
+    margin-right: 50px;
     }
 .actionpterygii {
     color: #33cccc;
