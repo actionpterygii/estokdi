@@ -27,6 +27,13 @@ const home_url = 'https://estl.actionpterygii.com';
 		<title>{title}</title>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXY5JHZVCM"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'G-BXY5JHZVCM');
+		</script>
 		<script type="application/ld+json">
 			{
 			  "@context" : "https://schema.org",
