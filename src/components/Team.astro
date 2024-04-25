@@ -7,7 +7,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 ---
 <ul>
 	{
-		teams.map((team) => (
+		teams.map((team, index) => (
 			<li
 				id={'team__' + team.id}
 				class={'team ' + team.divisions.map((division) => (
@@ -17,7 +17,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 				<div class="team_box">
 					{team.country ? <img class="team_country" src={'./img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
 					<div class="team_logo">
-						<img src={'./img/team/' + team.id + '.webp'} alt={team.ruby}>
+						<img src={'./img/team/' + team.id + '.webp'} alt={team.ruby} width="100px" height="100px" loading={index >= 4 ? 'lazy' : 'eager'}>
 					</div>
 					<h2 class="team_name">{team.name}</h2>
 					<div class="team_win_wrap">
