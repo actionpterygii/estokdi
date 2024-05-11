@@ -1,8 +1,14 @@
 ---
 import Modal from '../components/Modal.astro';
+
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
 ---
 <header>
-    <h1>eスポーツチーム一覧</h1>
+    <h1>{title}</h1>
     <img id="preference" src="./img/other/gear.webp" alt="help">
 </header>
 <Modal></Modal>

@@ -1,14 +1,49 @@
 ---
 interface Props {
 	title: string;
+	descrption: string;
+	path: string;
+	m_c_division: string;
 }
 
-const { title } = Astro.props;
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+const { title, descrption, path, m_c_division } = Astro.props;
 
-const descrption = 'eスポーツチームの一覧です。Apex Legends, VALORANT, STREET FIGHTER, League of Legends などのゲームタイトルのチームを持っている日本の著名eスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,liquipedia,SNSなどのリンクがまとめられています。';
+
 const home_url = 'https://estl.actionpterygii.com';
+
+const json_ld = `
+<script type="application/ld+json">
+	{
+		"@context" : "https://schema.org",
+		"@type" : "WebSite",
+		"name" : "${title}",
+		"url" : "${home_url + path}"
+	}
+</script>`;
+
+// チェックボックスにチェックを入れるjs
+const division_switcher = `
+<script>
+	const m_c_checkbox = document.getElementsByClassName("${m_c_division}")[0];
+	m_c_checkbox.checked = true;
+	// checkboxのから取ったチームごとのclassにあるほうのvidision_name
+	const checkbox_class_prefix = 'checkbox m_c__';
+	const division_name = m_c_checkbox.className.replace(checkbox_class_prefix, '');
+	// チームの表示/非表示切り替え処理
+	const team_division_class_prefix = 'team_division__';
+	const teams =  document.getElementsByClassName("team");
+	for (let i = 0; i < teams.length; i++) {
+		const element_team = teams[i];
+		// divisionひとつずつみて、全部あれば出す
+		let display = true;
+		// teamのclassにdivisonない場合
+		if (!element_team.classList.contains(team_division_class_prefix + division_name)) {
+			// 隠す
+			element_team.classList.add('team_hide');
+		}
+	}
+</script>
+`;
 ---
 
 <!doctype html>
@@ -23,7 +58,7 @@ const home_url = 'https://estl.actionpterygii.com';
 		<meta property="og:description" content={descrption}>
 		<meta property="og:url" content={home_url}>
 		<meta property='og:image' content={home_url + '/og.png'}>
-		<link rel="icon" sizes="16x16" href="./favicon.ico" />
+		<link rel="icon" sizes="16x16" href={home_url + '/favicon.ico'}>
 		<title>{title}</title>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXY5JHZVCM"></script>
@@ -31,22 +66,15 @@ const home_url = 'https://estl.actionpterygii.com';
 			window.dataLayer = window.dataLayer || [];
 			function gtag(){dataLayer.push(arguments);}
 			gtag('js', new Date());
-
 			gtag('config', 'G-BXY5JHZVCM');
 		</script>
-		<script type="application/ld+json">
-			{
-			  "@context" : "https://schema.org",
-			  "@type" : "WebSite",
-			  "name" : "eスポーツチーム一覧",
-			  "url" : "https://estl.actionpterygii.com"
-			}
-		  </script>
+		<Fragment set:html={json_ld} />
 	</head>
 	<body>
-		<Header></Header>
 		<slot />
-		<Footer></Footer>
+		{path != '' ?
+			<Fragment set:html={division_switcher} />
+		: ''}
 	</body>
 </html>
 <style is:global>
