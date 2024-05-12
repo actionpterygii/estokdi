@@ -8,6 +8,7 @@ interface Props {
 
 const { title, descrption, path, m_c_division } = Astro.props;
 
+const title_text = title.replace('<br>', '');
 
 const home_url = 'https://estl.actionpterygii.com';
 
@@ -16,7 +17,7 @@ const json_ld = `
 	{
 		"@context" : "https://schema.org",
 		"@type" : "WebSite",
-		"name" : "${title}",
+		"name" : "${title_text}",
 		"url" : "${home_url + path}"
 	}
 </script>`;
@@ -54,12 +55,12 @@ const division_switcher = `
 		<meta name='description' content={descrption}>
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:creator" content="@actionpterygii">
-		<meta property="og:title" content={title}>
+		<meta property="og:title" content={title_text}>
 		<meta property="og:description" content={descrption}>
 		<meta property="og:url" content={home_url}>
 		<meta property='og:image' content={home_url + '/og.png'}>
 		<link rel="icon" sizes="16x16" href={home_url + '/favicon.ico'}>
-		<title>{title}</title>
+		<title>{title_text}</title>
 		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-BXY5JHZVCM"></script>
 		<script>

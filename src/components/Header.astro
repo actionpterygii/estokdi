@@ -8,7 +8,7 @@ interface Props {
 const { title } = Astro.props;
 ---
 <header>
-    <h1>{title}</h1>
+    <h1 set:html={title}></h1>
     <img id="preference" src="./img/other/gear.webp" alt="help">
 </header>
 <Modal></Modal>
@@ -30,7 +30,7 @@ const { title } = Astro.props;
     }
     h1 {
         font-size: 25px;
-        line-height: 70px;
+        line-height: 30px;
         font-family:  "Yu Mincho", serif;
         font-optical-sizing: auto;
         font-weight: 700;
