@@ -4,5 +4,8 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  integrations: [sitemap()]
+  site: "https://estl.actionpterygii.com",
+  integrations: [sitemap({
+    lastmod: new Date('2024-05-12')
+  })]
 });
