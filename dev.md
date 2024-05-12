@@ -10,4 +10,4 @@ git remote add origin git@github.com:actionpterygii/estokdi.git
 git push -u origin master
 npm run dev
 npm run build
-
+npx astro add sitemap
