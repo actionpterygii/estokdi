@@ -163,7 +163,19 @@
             ]
         },
         {
+            "name": "guilty_gear_strive",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "super_smash_bros",
+            "urls": [
+                ""
+            ]
+        },
+        {
+            "name": "granblue_fantasy_versus",
             "urls": [
                 ""
             ]

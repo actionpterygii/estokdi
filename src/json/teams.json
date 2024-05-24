@@ -1089,6 +1089,74 @@
         ]
     },
     {
+        "id": "ibushigin",
+        "name": "FUKUSHIMA IBUSHIGIN",
+        "ruby": "フクシマ イブシギン",
+        "tag": "",
+        "win": ["IBSGWIN"],
+        "company": {
+            "name": "株式会社アスピロンド",
+            "url": "https://www.aspirond.com/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "IBUSHIGIN",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.ibsg.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://www.ibsg.jp/shop"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/ibsg_jp"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/c/IBUSHIGIN"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://www.ibsg.jp/member/streetfighter"
+                ]
+            },
+            {
+                "name": "guilty_gear_strive",
+                "urls": [
+                    "https://www.ibsg.jp/member/guilty-gear"
+                ]
+            },
+            {
+                "name": "granblue_fantasy_versus",
+                "urls": [
+                    "https://www.ibsg.jp/member/granblue-fantasy-versus"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.ibsg.jp/member/creator",
+                    "https://www.ibsg.jp/member/streamer"
+                ]
+            }
+        ]
+    },
+    {
         "id": "igzist",
         "name": "IGZIST",
         "ruby": "イグジスト",

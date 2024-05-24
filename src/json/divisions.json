@@ -40,8 +40,16 @@
         "name": "TEKKEN 7"
     },
     {
+        "id": "guilty_gear_strive",
+        "name": "GUILTY GEAR STRIVE"
+    },
+    {
         "id": "super_smash_bros",
         "name": "Super Smash Bros"
+    },
+    {
+        "id": "granblue_fantasy_versus",
+        "name": "GRANBLUE FANTASY VERSUS"
     },
     {
         "id": "league_of_legends",
