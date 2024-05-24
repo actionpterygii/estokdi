@@ -1046,50 +1046,7 @@
         ]
     },
     {
-        "id": "hiroshima_team_ixa",
-        "name": "広島 TEAM iXA",
-        "ruby": "ヒロシマ チーム イクサ",
-        "tag": "",
-        "win": ["iXAWIN"],
-        "company": {
-            "name": "ヤルキマントッキーズ株式会社",
-            "url": "https://yarukiman.com/"
-        },
-        "country": "japan",
-        "sponsor": "",
-        "news": "",
-        "liquipedia_id": "Team_iXA",
-        "links": [
-            {
-                "name": "web",
-                "urls": [
-                    "https://ixa.yarukiman.com/"
-                ]
-            },
-            {
-                "name": "x",
-                "urls": [
-                    "https://twitter.com/esports_TeamiXA"
-                ]
-            },
-            {
-                "name": "youtube",
-                "urls": [
-                    "https://www.youtube.com/@TEAMiXA"
-                ]
-            }
-        ],
-        "divisions": [
-            {
-                "name": "street_fighter_6",
-                "urls": [
-                    "https://ixa.yarukiman.com/"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "ibushigin",
+        "id": "fukushima_ibushigin",
         "name": "FUKUSHIMA IBUSHIGIN",
         "ruby": "フクシマ イブシギン",
         "tag": "",
@@ -1152,6 +1109,49 @@
                 "urls": [
                     "https://www.ibsg.jp/member/creator",
                     "https://www.ibsg.jp/member/streamer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "hiroshima_team_ixa",
+        "name": "広島 TEAM iXA",
+        "ruby": "ヒロシマ チーム イクサ",
+        "tag": "",
+        "win": ["iXAWIN"],
+        "company": {
+            "name": "ヤルキマントッキーズ株式会社",
+            "url": "https://yarukiman.com/"
+        },
+        "country": "japan",
+        "sponsor": "",
+        "news": "",
+        "liquipedia_id": "Team_iXA",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://ixa.yarukiman.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/esports_TeamiXA"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@TEAMiXA"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://ixa.yarukiman.com/"
                 ]
             }
         ]
