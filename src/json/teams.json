@@ -2521,6 +2521,12 @@
                 ]
             },
             {
+                "name": "tekken_8",
+                "urls": [
+                    "https://zetadivision.com/team/tekken"
+                ]
+            },
+            {
                 "name": "super_smash_bros",
                 "urls": [
                     "https://zetadivision.com/team/super-smash-bros"
