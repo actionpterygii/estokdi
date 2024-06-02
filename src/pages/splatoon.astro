@@ -18,10 +18,20 @@ const division_name = ((divisions, id) => {
 		}
 	}
 })(divisions, id);
+const division_name_ja = ((divisions, id) => {
+	for (const key in divisions) {
+		if (Object.prototype.hasOwnProperty.call(divisions, key)) {
+			const division = divisions[key];
+			if (division.id === id) {
+				return division.name_ja
+			}
+		}
+	}
+})(divisions, id);
 const path = '/' + id;
 const m_c_division = 'm_c__' + id;
 const title = `${division_name} <br>プロチーム一覧`;
-const descrption= `${division_name}の部門を持っている日本の著名プロeスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
+const descrption= `${division_name}（${division_name_ja}）の部門を持っている日本の著名プロeスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
 ---
 <Layout
 	title={title}

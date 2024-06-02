@@ -1,114 +1,142 @@
 [
     {
         "id": "apex_legends",
-        "name": "Apex Legends"
+        "name": "Apex Legends",
+        "name_ja" :"エーペックス レジェンズ"
     },
     {
         "id": "valorant",
-        "name": "VALORANT"
+        "name": "VALORANT",
+        "name_ja" :"ヴァロラント"
     },
     {
         "id": "overwatch",
-        "name": "Overwatch"
+        "name": "Overwatch",
+        "name_ja" :"オーバーウォッチ"
     },
     {
         "id": "counter_strike_2",
-        "name": "Counter-Strike 2"
+        "name": "Counter-Strike 2",
+        "name_ja" :"カウンターストライク ツー"
     },
     {
         "id": "pubg_mobile",
-        "name": "PUBG MOBILE"
+        "name": "PUBG MOBILE",
+        "name_ja" :"ピーユービージー モバイル"
     },
     {
         "id": "rainbowsix",
-        "name": "Rainbow Six Siege"
+        "name": "Rainbow Six Siege",
+        "name_ja" :"レインボーシックス シージ"
     },
     {
         "id": "fortnite",
-        "name": "Fortnite"
+        "name": "Fortnite",
+        "name_ja" :"フォートナイト"
     },
     {
         "id": "paravox",
-        "name": "PARAVOX"
+        "name": "PARAVOX",
+        "name_ja" :"パラヴォックス"
     },
     {
         "id": "splatoon",
-        "name": "Splatoon"
+        "name": "Splatoon",
+        "name_ja" :"スプラトゥーン"
     },
     {
         "id": "street_fighter_6",
-        "name": "STREET FIGHTER 6"
+        "name": "STREET FIGHTER 6",
+        "name_ja" :"ストリートファイター シックス"
     },
     {
         "id": "tekken_8",
-        "name": "TEKKEN 8"
+        "name": "TEKKEN 8",
+        "name_ja" :"テッケン エイト"
     },
     {
         "id": "guilty_gear_strive",
-        "name": "GUILTY GEAR STRIVE"
+        "name": "GUILTY GEAR STRIVE",
+        "name_ja" :"ギルティー ギア ストライブ"
     },
     {
         "id": "super_smash_bros",
-        "name": "Super Smash Bros"
+        "name": "Super Smash Bros",
+        "name_ja" :"大乱闘 スマッシュブラザーズ"
     },
     {
         "id": "granblue_fantasy_versus",
-        "name": "GRANBLUE FANTASY VERSUS"
+        "name": "GRANBLUE FANTASY VERSUS",
+        "name_ja" :"グランブルー ファンタジー バーサス"
     },
     {
         "id": "league_of_legends",
-        "name": "League of Legends"
+        "name": "League of Legends",
+        "name_ja" :"リーグ オブ レジェンド"
     },
     {
         "id": "lol_wild_rift",
-        "name": "LoL:Wild Rift"
+        "name": "LoL:Wild Rift",
+        "name_ja" :"リーグ オブ レジェンド ワイルド リフト"
     },
     {
         "id": "brawl_stars",
-        "name": "Brawl Stars"
+        "name": "Brawl Stars",
+        "name_ja" :"ブロスタ"
     },
     {
         "id": "honor_of_kings",
-        "name": "Honor of Kings"
+        "name": "Honor of Kings",
+        "name_ja" :"王者栄耀"
     },
     {
         "id": "pokemon_unite",
-        "name": "Pokémon UNITE"
+        "name": "Pokémon UNITE",
+        "name_ja" :"ポケモン ユナイト"
     },
     {
         "id": "e_baseball",
-        "name": "eBaseball"
+        "name": "eBaseball",
+        "name_ja" :"イーベースボール"
     },
     {
         "id": "ea_sports_fc",
-        "name": "EA SPORTS FC"
+        "name": "EA SPORTS FC",
+        "name_ja" :"イーエー スポーツ エフシー"
     },
     {
         "id": "e_football",
-        "name": "eFootball"
+        "name": "eFootball",
+        "name_ja" :"イーフットボール"
     },
     {
         "id": "e_motorsports",
-        "name": "eMotorsports"
+        "name": "eMotorsports",
+        "name_ja" :"イーモトスポーツ"
     },
     {
         "id": "shadowverse",
-        "name": "Shadowverse"
+        "name": "Shadowverse",
+        "name_ja" :"シャドウバース"
     },
     {
         "id": "rocket_league",
-        "name": "Rocket League"
+        "name": "Rocket League",
+        "name_ja" :"ロケット リーグ"
     },
     {
         "id": "identity_v",
-        "name": "Identity V"
+        "name": "Identity V",
+        "name_ja" :"第五人格"
     },
     {
         "id": "clash_royale",
-        "name": "Clash Royale"
+        "name": "Clash Royale",
+        "name_ja" :"クラッシュロワイヤル"
     },
     {
         "id": "streamer",
-        "name": "Streamer"
+        "name": "Streamer",
+        "name_ja" :"ストリーマー、コンテンツクリエイター"
     }
 ]
