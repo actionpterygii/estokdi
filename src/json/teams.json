@@ -682,6 +682,12 @@
                 ]
             },
             {
+                "name": "paravox",
+                "urls": [
+                    "https://usgd.club/team"
+                ]
+            },
+            {
                 "name": "street_fighter_6",
                 "urls": [
                     "https://usgd.club/team/street-fighter"
@@ -956,6 +962,12 @@
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/2934/fennel",
                     "https://www.vlr.gg/team/9516/fennel-gc"
+                ]
+            },
+            {
+                "name": "paravox",
+                "urls": [
+                    "https://fennel-esports.com/team/"
                 ]
             },
             {
@@ -1817,6 +1829,12 @@
                 ]
             },
             {
+                "name": "paravox",
+                "urls": [
+                    "https://reignite.jp/#team"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
                     "https://reignite.jp/team/#streamer"
@@ -1909,6 +1927,12 @@
                 "name": "pubg_mobile",
                 "urls": [
                     "https://reject.jp/teams/#pubgemobile"
+                ]
+            },
+            {
+                "name": "paravox",
+                "urls": [
+                    "https://reject.jp/teams/"
                 ]
             },
             {
@@ -2021,6 +2045,12 @@
             },
             {
                 "name": "fortnite",
+                "urls": [
+                    "https://riddle.info/#member"
+                ]
+            },
+            {
+                "name": "paravox",
                 "urls": [
                     "https://riddle.info/#member"
                 ]
@@ -2151,6 +2181,12 @@
                 "name": "rainbowsix",
                 "urls": [
                     "https://www.scarz.net/team/rainbow-six-siege/"
+                ]
+            },
+            {
+                "name": "paravox",
+                "urls": [
+                    "https://www.scarz.net/"
                 ]
             },
             {
@@ -2512,6 +2548,12 @@
                 "name": "fortnite",
                 "urls": [
                     "https://zetadivision.com/team/fortnite"
+                ]
+            },
+            {
+                "name": "paravox",
+                "urls": [
+                    "https://zetadivision.com/team/paravox"
                 ]
             },
             {

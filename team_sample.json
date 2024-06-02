@@ -133,13 +133,19 @@
             ]
         },
         {
+            "name": "rainbowsix",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "fortnite",
             "urls": [
                 ""
             ]
         },
         {
-            "name": "rainbowsix",
+            "name": "paravox",
             "urls": [
                 ""
             ]

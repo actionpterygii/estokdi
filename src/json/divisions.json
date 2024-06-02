@@ -20,12 +20,16 @@
         "name": "PUBG MOBILE"
     },
     {
+        "id": "rainbowsix",
+        "name": "Rainbow Six Siege"
+    },
+    {
         "id": "fortnite",
         "name": "Fortnite"
     },
     {
-        "id": "rainbowsix",
-        "name": "Rainbow Six Siege"
+        "id": "paravox",
+        "name": "PARAVOX"
     },
     {
         "id": "splatoon",
