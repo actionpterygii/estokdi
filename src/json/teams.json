@@ -1930,6 +1930,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://reject.jp/teams/"
+                ]
+            },
+            {
                 "name": "identity_v",
                 "urls": [
                     "https://reject.jp/teams/#identify"
