@@ -1,19 +1,14 @@
 ---
-const last_update_date = '2024/05/24';
+const last_update_date = '2024/06/03';
 const last_update_date_datetime = last_update_date.replaceAll('/', '-');
 ---
 <p>最終更新：<time datetime={last_update_date_datetime} itemprop="datemodified">{last_update_date}</time></p>
+<a href="https://estl.actionpterygii.com">TOP</a>
 <footer>
     <a class="actionpterygii" href="https://www.actionpterygii.com">actionpterygii</a>
 </footer>
 
 <style>
-footer {
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-    margin-bottom: 10px;
-}
 p {
     text-align: right;
     margin-top: 20px;
@@ -22,6 +17,21 @@ p {
 	font-optical-sizing: auto;
 	font-weight: 500;
 	font-style: normal;
+}
+a {
+    display: flex;
+    justify-content: center;
+    font-family: "Osaka", "Hiragino Sans", "Arial", sans-serif;
+    color: #000000;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 10px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 .actionpterygii {
     color: #33cccc;
