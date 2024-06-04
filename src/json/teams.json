@@ -2031,7 +2031,7 @@
             {
                 "name": "apex_legends",
                 "urls": [
-                    "https://riddle.info/#member"
+                    "https://riddle.info/group_category/apex/"
                 ]
             },
             {
@@ -2040,25 +2040,26 @@
                     "https://riddle.info/#member"
                 ],
                 "vlr_ggs": [
-                    "https://www.vlr.gg/team/14375/riddle"
+                    "https://riddle.info/group_category/valorant/"
                 ]
             },
             {
                 "name": "fortnite",
                 "urls": [
-                    "https://riddle.info/#member"
+                    "https://riddle.info/group_category/fortnite/"
                 ]
             },
             {
                 "name": "paravox",
                 "urls": [
-                    "https://riddle.info/#member"
+                    "https://riddle.info/members/"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://riddle.info/#member"
+                    "https://riddle.info/group_category/owner/",
+                    "https://riddle.info/group_category/streamer/"
                 ]
             }
         ]
