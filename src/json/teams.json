@@ -2569,6 +2569,12 @@
                 ]
             },
             {
+                "name": "teamfight_tactics",
+                "urls": [
+                    "https://zetadivision.com/team/teamfight-tactics"
+                ]
+            },
+            {
                 "name": "brawl_stars",
                 "urls": [
                     "https://zetadivision.com/team/brawl-stars"

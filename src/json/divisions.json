@@ -80,6 +80,11 @@
         "name_ja" :"リーグ オブ レジェンド ワイルド リフト"
     },
     {
+        "id": "teamfight_tactics",
+        "name": "TEAMFIGHT TACTICS",
+        "name_ja" :"チームファイト タクティクス"
+    },
+    {
         "id": "brawl_stars",
         "name": "Brawl Stars",
         "name_ja" :"ブロスタ"

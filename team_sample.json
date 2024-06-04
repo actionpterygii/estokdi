@@ -199,6 +199,12 @@
             ]
         },
         {
+            "name": "teamfight_tactics",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "brawl_stars",
             "urls": [
                 ""
