@@ -10,10 +10,13 @@ const checkbox_class_prefix = 'checkbox m_c__';
                     <input class={checkbox_class_prefix + division.id} id={division.id} type="checkbox">
                     <label for={division.id}>
                         <div class="img_wrap">
-                            <img src={'/img/division/' + division.id + '.webp'} alt={division.name_ja}>
+                            <img class="m_d__img" src={'/img/division/' + division.id + '.webp'} alt={division.name_ja}>
                         </div>
                         <div class="division_name">{division.name}</div>
                     </label>
+                    <a class="m_d__double_arrow" href={'https://estl.actionpterygii.com/' + division.id}>
+                        <img src="/img/other/double_arrow.webp" alt="" srcset="">
+                    </a>
                 </div>
             ))}
         </div>
@@ -72,19 +75,19 @@ label {
     height: 30px;
 	transform: scale(1.01);
 }
-.m_d__pubg_mobile img {
+.m_d__pubg_mobile .m_d__img {
 	height: 25px!important;
 }
-.m_d__tekken_8 img {
+.m_d__tekken_8 .m_d__img {
 	height: 22px!important;
 }
-.m_d__guilty_gear_strive img {
+.m_d__guilty_gear_strive .m_d__img {
 	height: 18px!important;
 }
-.m_d__granblue_fantasy_versus img {
+.m_d__granblue_fantasy_versus .m_d__img {
 	height: 27px!important;
 }
-.m_d__pokemon_unite img {
+.m_d__pokemon_unite .m_d__img {
 	height: 25px!important;
 }
 .division_name {
@@ -93,6 +96,9 @@ label {
 	font-optical-sizing: auto;
 	font-weight: 500;
 	font-style: normal;
+}
+.m_d__double_arrow {
+    margin-left: auto;
 }
 #all_release {
     margin-top: 15px;
