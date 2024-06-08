@@ -3,15 +3,12 @@
         "id": "axiz",
         "name": "AXIZ",
         "ruby": "アクシズ",
-        "tag": "",
         "win": ["AXIZWIN", "AXCWIN"],
         "company": {
             "name": "アックスエンターテインメント株式会社",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "AXIZ",
         "links": [
             {
@@ -70,15 +67,12 @@
         "id": "burning_core_toyama",
         "name": "BURNING CORE TOYAMA",
         "ruby": "バーニング コア トヤマ",
-        "tag": "",
         "win": ["BCTWIN"],
         "company": {
             "name": "株式会社バーニングコア",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Burning_Core_Toyama",
         "links": [
             {
@@ -137,15 +131,12 @@
         "id": "cag",
         "name": "CAG OSAKA",
         "ruby": "シーエーシー オオサカ",
-        "tag": "",
         "win": ["CAGWIN"],
         "company": {
             "name": "ブロードメディアeスポーツ株式会社",
             "url": "https://www.broadmediaesports.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "CYCLOPS_athlete_gaming",
         "links": [
             {
@@ -229,8 +220,6 @@
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Crazy_Raccoon",
         "links": [
             {
@@ -331,15 +320,12 @@
         "id": "crest",
         "name": "CREST GAMING",
         "ruby": "クレストゲーミング",
-        "tag": "",
         "win": ["CGWIN", "CGZWIN", "CGSWIN", "CGLWIN", "AXCWIN"],
         "company": {
             "name": "ヒューマンアカデミー株式会社",
             "url": "https://manabu.athuman.com/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Crest_Gaming",
         "links": [
             {
@@ -426,8 +412,6 @@
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "DetonatioN_FocusMe",
         "links": [
             {
@@ -531,15 +515,12 @@
         "id": "detonator",
         "name": "DETONATOR",
         "ruby": "デトネーター",
-        "tag": "",
         "win": ["DTNWIN"],
         "company": {
             "name": "株式会社GamingD",
             "url": "https://www.gamingd.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "DeToNator",
         "links": [
             {
@@ -610,15 +591,12 @@
         "id": "donuts_varrel",
         "name": "DONUTS VARREL",
         "ruby": "ドーナッツ ヴァレル",
-        "tag": "",
         "win": ["DVLWIN"],
         "company": {
             "name": "株式会社CELLORB",
             "url": "https://cellorb.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "VARREL",
         "links": [
             {
@@ -711,15 +689,12 @@
         "id": "eva_e",
         "name": "エヴァ:e",
         "ruby": "エヴァ イー",
-        "tag": "",
         "win": ["EVA_WIN"],
         "company": {
             "name": "NGM株式会社",
             "url": "https://n-g-m.com/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "EVA:e",
         "links": [
             {
@@ -763,18 +738,68 @@
         ]
     },
     {
+        "id": "ghs_professional",
+        "name": "GHS PROFESSIONAL",
+        "ruby": "ジーエイチエス プロフェッショナル",
+        "win": ["GHSWIN"],
+        "company": {
+            "name": "株式会社アニマックスブロードキャスト・ジャパン",
+            "url": "https://www.animax.co.jp/company"
+        },
+        "country": "japan",
+        "liquipedia_id": "GHS_Professional",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://e-elements.jp/campaign/ghs_pro/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/GHSpro_official"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@ghspro_official214",
+                    "https://www.youtube.com/@e_elements_jp"
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    "https://www.twitch.tv/e_elements_jp"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://e-elements.jp/campaign/ghs_apex/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://e-elements.jp/campaign/ghs_streamer/"
+                ]
+            }
+        ]
+    },
+    {
         "id": "good_8_squad",
         "name": "Good 8 Squad",
         "ruby": "グッドエイトスクアッド",
-        "tag": "",
         "win": ["G8SWIN"],
         "company": {
             "name": "グッドエイトスクアッド株式会社",
             "url": "https://www.good8squad.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Good_8_Squad",
         "links": [
             {
@@ -833,15 +858,12 @@
         "id": "fav",
         "name": "FAV gaming",
         "ruby": "ファブ ゲーミング",
-        "tag": "",
         "win": ["FAVWIN"],
         "company": {
             "name": "株式会社KADOKAWA Game Linkage",
             "url": "https://kadokawagamelinkage.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "FAV_gaming",
         "links": [
             {
@@ -898,15 +920,12 @@
         "id": "fennel",
         "name": "FENNEL",
         "ruby": "フェンネル",
-        "tag": "",
         "win": ["FLWIN"],
         "company": {
             "name": "株式会社Fennel",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "FENNEL",
         "links": [
             {
@@ -1000,15 +1019,12 @@
         "id": "fukuoka_softbank_hawks",
         "name": "福岡ソフトバンクホークス ゲーミング",
         "ruby": "フクオカソフトバンクホークス ゲーミング",
-        "tag": "",
         "win": ["SHGWIN"],
         "company": {
             "name": "福岡ソフトバンクホークス株式会社",
             "url": "https://www.softbankhawks.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Fukuoka_SoftBank_HAWKS_gaming",
         "links": [
             {
@@ -1061,15 +1077,12 @@
         "id": "fukushima_ibushigin",
         "name": "FUKUSHIMA IBUSHIGIN",
         "ruby": "フクシマ イブシギン",
-        "tag": "",
         "win": ["IBSGWIN"],
         "company": {
             "name": "株式会社アスピロンド",
             "url": "https://www.aspirond.com/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "IBUSHIGIN",
         "links": [
             {
@@ -1129,15 +1142,12 @@
         "id": "hiroshima_team_ixa",
         "name": "広島 TEAM iXA",
         "ruby": "ヒロシマ チーム イクサ",
-        "tag": "",
         "win": ["iXAWIN"],
         "company": {
             "name": "ヤルキマントッキーズ株式会社",
             "url": "https://yarukiman.com/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Team_iXA",
         "links": [
             {
@@ -1172,15 +1182,12 @@
         "id": "igzist",
         "name": "IGZIST",
         "ruby": "イグジスト",
-        "tag": "",
         "win": ["IGZWIN"],
         "company": {
             "name": "株式会社BRBD",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "IGZIST",
         "links": [
             {
@@ -1237,15 +1244,12 @@
         "id": "insomnia",
         "name": "INSOMNIA",
         "ruby": "インソムニア",
-        "tag": "",
         "win": ["INSWIN"],
         "company": {
             "name": "株式会社INSOMNIA",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "",
         "links": [
             {
@@ -1283,15 +1287,12 @@
         "id": "jadeite",
         "name": "Jadeite",
         "ruby": "ジェダイト",
-        "tag": "",
         "win": ["JDTWIN"],
         "company": {
             "name": "株式会社アンヴィル",
             "url": "https://anvil.ne.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Jadeite",
         "links": [
             {
@@ -1344,15 +1345,12 @@
         "id": "kinotrope",
         "name": "KINOTROPE gaming",
         "ruby": "キノトロープゲーミング",
-        "tag": "",
         "win": ["KNWIN"],
         "company": {
             "name": "株式会社キノトロープ",
             "url": "https://www.kinotrope.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "KINOTROPE_gaming",
         "links": [
             {
@@ -1423,15 +1421,12 @@
         "id": "meteor",
         "name": "Meteor",
         "ruby": "ミーティア",
-        "tag": "",
         "win": ["MTRWIN"],
         "company": {
             "name": "株式会社Litm",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Meteor",
         "links": [
             {
@@ -1489,15 +1484,12 @@
         "id": "murash",
         "name": "MURASH GAMING",
         "ruby": "ムラッシュ ゲーミング",
-        "tag": "",
         "win": ["MRGWIN"],
         "company": {
             "name": "",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Murash_Gaming",
         "links": [
             {
@@ -1541,15 +1533,12 @@
         "id": "nagoya_oja",
         "name": "名古屋OJA",
         "ruby": "ナゴヤ オウジャ",
-        "tag": "",
         "win": [""],
         "company": {
             "name": "名古屋王者株式会社",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Nagoya_OJA",
         "links": [
             {
@@ -1602,18 +1591,88 @@
         ]
     },
     {
+        "id": "noez_foxx",
+        "name": "NOEZ FOXX",
+        "ruby": "ノイジーフォックス",
+        "win": ["NFXWIN"],
+        "company": {
+            "name": "Studio Candy Foxx株式会社",
+            "url": "https://studio-candyfoxx.co.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "NOEZ_FOXX",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://noezfoxx.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://noezfoxx.official.ec/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/noezfoxx_jp"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/noezfoxx_jp/"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@noezfoxx_jp"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCiNAD8QjnLh2wMQZAb7lEWg"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://noezfoxx.com/teams.html"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://noezfoxx.com/teams.html"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/14383/noez-foxx"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://noezfoxx.com/teams.html"
+                ]
+            }
+        ]
+    },
+    {
         "id": "northeption",
         "name": "NORTHEPTION",
         "ruby": "ノーセプション",
-        "tag": "",
         "win": ["NthWIN"],
         "company": {
             "name": "株式会社CodeBlitz",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Northeption",
         "links": [
             {
@@ -1676,15 +1735,12 @@
         "id": "pulverex",
         "name": "PULVEREX",
         "ruby": "パルブレックス",
-        "tag": "",
         "win": ["PVXWIN"],
         "company": {
             "name": "株式会社アカツキゲームス",
             "url": "https://games.aktsk.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "PULVEREX",
         "links": [
             {
@@ -1743,15 +1799,12 @@
         "id": "reignite",
         "name": "REIGNITE",
         "ruby": "リイグナイト",
-        "tag": "",
         "win": ["RIGWIN"],
         "company": {
             "name": "株式会社Reignite Entertainment",
             "url": "https://reignite.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "REIGNITE",
         "links": [
             {
@@ -1853,8 +1906,6 @@
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "REJECT",
         "links": [
             {
@@ -1979,15 +2030,12 @@
         "id": "riddle",
         "name": "RIDDLE ORDER",
         "ruby": "リドルオーダー",
-        "tag": "",
         "win": ["RIDWIN"],
         "company": {
             "name": "",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "RIDDLE",
         "links": [
             {
@@ -2068,15 +2116,12 @@
         "id": "saishunkan_sol_kumamoto",
         "name": "Saishunkan Sol 熊本",
         "ruby": "サイシュンカン ソル クマモト",
-        "tag": "",
         "win": [""],
         "company": {
             "name": "再春館システム株式会社",
             "url": "https://www.saishunkansys.com/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Saishunkan_Sol_Kumamoto",
         "links": [
             {
@@ -2117,15 +2162,12 @@
         "id": "scarz",
         "name": "SCARZ",
         "ruby": "スカーズ",
-        "tag": "",
         "win": ["SZWIN"],
         "company": {
             "name": "株式会社XENOZ",
             "url": "https://xenoz.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "SCARZ",
         "links": [
             {
@@ -2220,15 +2262,12 @@
         "id": "sengoku",
         "name": "Sengoku Gaming",
         "ruby": "センゴク ゲーミング",
-        "tag": "",
         "win": ["SGWIN"],
         "company": {
             "name": "株式会社戦国",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Sengoku_Gaming",
         "links": [
             {
@@ -2314,15 +2353,12 @@
         "id": "shinobism",
         "name": "忍ism Gaming",
         "ruby": "シノビズム ゲーミング",
-        "tag": "",
         "win": ["SNBWIN"],
         "company": {
             "name": "株式会社忍ism",
             "url": ""
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "Shinobism_Gaming",
         "links": [
             {
@@ -2393,15 +2429,12 @@
         "id": "yoshimoto",
         "name": "よしもとゲーミング",
         "ruby": "ヨシモトゲーミング",
-        "tag": "",
         "win": ["YGWIN"],
         "company": {
             "name": "吉本興業株式会社",
             "url": "https://www.yoshimoto.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "YOSHIMOTO_Gaming",
         "links": [
             {
@@ -2467,8 +2500,6 @@
             "url": "https://gnmd.co.jp/"
         },
         "country": "japan",
-        "sponsor": "",
-        "news": "",
         "liquipedia_id": "ZETA_DIVISION",
         "links": [
             {
