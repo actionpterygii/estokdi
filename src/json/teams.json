@@ -574,12 +574,6 @@
                 ]
             },
             {
-                "name": "rocket_league",
-                "urls": [
-                    "https://www.detonator-gg.com/members"
-                ]
-            },
-            {
                 "name": "streamer",
                 "urls": [
                     "https://www.detonator-gg.com/members"
@@ -1711,22 +1705,28 @@
             {
                 "name": "apex_legends",
                 "urls": [
-                    "https://www.northeption.com/teams/apex/"
+                    "https://northeption.com/teams/"
                 ]
             },
             {
                 "name": "valorant",
                 "urls": [
-                    "https://www.northeption.com/teams/valorant/"
+                    "https://northeption.com/teams/"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/2988/northeption"
                 ]
             },
             {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://northeption.com/teams/"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
-                    "https://www.northeption.com/teams/streamers/"
+                    "https://northeption.com/teams/"
                 ]
             }
         ]
