@@ -2577,6 +2577,12 @@
                 ]
             },
             {
+                "name": "overwatch",
+                "urls": [
+                    "https://zetadivision.com/team/overwatch"
+                ]
+            },
+            {
                 "name": "fortnite",
                 "urls": [
                     "https://zetadivision.com/team/fortnite"
