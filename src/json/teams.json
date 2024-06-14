@@ -1884,7 +1884,7 @@
             {
                 "name": "paravox",
                 "urls": [
-                    "https://reignite.jp/#team"
+                    "https://reignite.jp/team/#paravox"
                 ]
             },
             {
@@ -2001,7 +2001,7 @@
             {
                 "name": "pokemon_unite",
                 "urls": [
-                    "https://reject.jp/teams/"
+                    "https://reject.jp/teams/#pokemonunite"
                 ]
             },
             {
@@ -2100,7 +2100,7 @@
             {
                 "name": "paravox",
                 "urls": [
-                    "https://riddle.info/members/"
+                    "https://riddle.info/group_category/paravox/"
                 ]
             },
             {
@@ -2229,7 +2229,7 @@
             {
                 "name": "paravox",
                 "urls": [
-                    "https://www.scarz.net/"
+                    "https://www.scarz.net/team/paravox/"
                 ]
             },
             {
@@ -2616,6 +2616,12 @@
                 "name": "brawl_stars",
                 "urls": [
                     "https://zetadivision.com/team/brawl-stars"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://zetadivision.com/team/pokemon-unite"
                 ]
             },
             {
