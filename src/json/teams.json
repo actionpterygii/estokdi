@@ -2104,6 +2104,12 @@
                 ]
             },
             {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://riddle.info/group_category/street-fighter/"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
                     "https://riddle.info/group_category/owner/",
