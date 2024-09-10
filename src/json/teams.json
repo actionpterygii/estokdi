@@ -996,6 +996,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://fennel-esports.com/team/pokemon-unite/"
+                ]
+            },
+            {
                 "name": "identity_v",
                 "urls": [
                     "https://fennel-esports.com/team/identity-v/"
@@ -2333,6 +2339,12 @@
                 "name": "league_of_legends",
                 "urls": [
                     "https://sengokugaming.com/teams/detail/11a77086-538f-47d8-a029-7dbc1ddadcf2"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://www.sengokugaming.com/teams/detail/1efb4eaf-e26e-470f-9368-6016a55da742"
                 ]
             },
             {
