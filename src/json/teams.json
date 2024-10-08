@@ -50,6 +50,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://axiz.gg/team/Pok%C3%A9mon%20UNITE/"
+                ]
+            },
+            {
                 "name": "shadowverse",
                 "urls": [
                     "https://axiz.gg/team/shadowverse/"
