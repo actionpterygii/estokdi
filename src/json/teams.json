@@ -1256,7 +1256,7 @@
             "url": ""
         },
         "country": "japan",
-        "liquipedia_id": "",
+        "liquipedia_id": "INSOMNIA",
         "links": [
             {
                 "name": "web",
@@ -1283,6 +1283,12 @@
             },
             {
                 "name": "overwatch",
+                "urls": [
+                    "https://insomnia.zone/"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
                 "urls": [
                     "https://insomnia.zone/"
                 ]
