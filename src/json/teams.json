@@ -1404,6 +1404,12 @@
                 ]
             },
             {
+                "name": "pubg_mobile",
+                "urls": [
+                    "https://www.kinotropegaming.com/members/"
+                ]
+            },
+            {
                 "name": "rainbowsix",
                 "urls": [
                     "https://www.kinotropegaming.com/members/"
@@ -1413,6 +1419,12 @@
                 "name": "super_smash_bros",
                 "urls": [
                     "https://www.kinotropegaming.com/members/"
+                ]
+            },
+            {
+                "name": "rocket_league",
+                "urls": [
+                    ""
                 ]
             },
             {
