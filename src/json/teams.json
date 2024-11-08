@@ -1550,6 +1550,12 @@
                 "urls": [
                     "https://twitter.com/MURASHeSports"
                 ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://twitter.com/MURASHeSports"
+                ]
             }
         ]
     },
@@ -1602,6 +1608,12 @@
             },
             {
                 "name": "street_fighter_6",
+                "urls": [
+                    "https://www.nagoyaoja.com/member"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
                 "urls": [
                     "https://www.nagoyaoja.com/member"
                 ]
@@ -2515,6 +2527,12 @@
                 "name": "super_smash_bros",
                 "urls": [
                     "https://yoshimoto-gaming.com/progamer/"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://yoshimoto-gaming.com/progamer/%e3%82%81%e3%81%a7%e3%81%9f%e3%81%97/"
                 ]
             },
             {
