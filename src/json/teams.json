@@ -2480,6 +2480,59 @@
         ]
     },
     {
+        "id": "tie",
+        "name": "TIE",
+        "ruby": "ティー アイ イー",
+        "tag": "TIE",
+        "win": ["TIEWIN"],
+        "company": {
+            "name": "株式会社TIECLAN",
+            "url": "https://tieclan.co.jp/company"
+        },
+        "country": "japan",
+        "liquipedia_id": "TIE",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://tieclan.co.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://tieclanstore.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/TIECLAN_"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@TIECLAN-2023"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://tieclan.co.jp/members"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://tieclan.co.jp/members"
+                ]
+            }
+        ]
+    },
+    {
         "id": "yoshimoto",
         "name": "よしもとゲーミング",
         "ruby": "ヨシモトゲーミング",
