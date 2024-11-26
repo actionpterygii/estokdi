@@ -2659,6 +2659,18 @@
                 ]
             },
             {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@zetadivision_idv"
+                ]
+            },
+            {
+                "name": "flicker",
+                "urls": [
+                    "https://www.flickr.com/people/zetadivision/"
+                ]
+            },
+            {
                 "name": "youtube",
                 "urls": [
                     "https://www.youtube.com/c/ZETADIVISION"

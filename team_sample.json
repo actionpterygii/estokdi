@@ -56,6 +56,12 @@
             ]
         },
         {
+            "name": "flicker",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "note",
             "urls": [
                 ""
