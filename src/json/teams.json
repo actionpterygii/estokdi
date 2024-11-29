@@ -1,5 +1,36 @@
 [
     {
+        "id": "alpha_d",
+        "name": "αD",
+        "ruby": "アルファディ",
+        "win": ["αDWIN"],
+        "company": {
+            "name": "株式会社アルファディ",
+            "url": ""
+        },
+        "country": "japan",
+        "liquipedia_id": "Esports_team_αD",
+        "links": [
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/14677/esports-team-d"
+                ]
+            }
+        ]
+    },
+    {
         "id": "axiz",
         "name": "AXIZ",
         "ruby": "アクシズ",
@@ -70,13 +101,80 @@
         ]
     },
     {
+        "id": "blue_bees",
+        "name": "BULE BEES",
+        "ruby": "ブルー ビーズ",
+        "win": ["BBWIN"],
+        "company": {
+            "name": "BLUE BEES 株式会社",
+            "url": "https://bluebees.jp/pages/company"
+        },
+        "country": "japan",
+        "liquipedia_id": "BLUE_BEES",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://bluebees.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://suzuri.jp/bluebees"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/bluebeesesp"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/bluebees.esp/"
+                ]
+            },
+            {
+                "name": "facebook",
+                "urls": [
+                    "https://www.facebook.com/BLUEBEESESP"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://x.com/bluebeesesp"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/2108"
+                ]
+            },
+            {
+                "name": "pubg_mobile",
+                "urls": [
+                    "https://x.com/bluebeesesp"
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    "https://x.com/bluebeesesp"
+                ]
+            }
+        ]
+    },
+    {
         "id": "burning_core_toyama",
         "name": "BURNING CORE TOYAMA",
         "ruby": "バーニング コア トヤマ",
         "win": ["BCTWIN"],
         "company": {
             "name": "株式会社バーニングコア",
-            "url": ""
+            "url": "https://burning-core.com/about"
         },
         "country": "japan",
         "liquipedia_id": "Burning_Core_Toyama",
@@ -223,7 +321,7 @@
         "win": ["CRWIN"],
         "company": {
             "name": "株式会社Samurai工房",
-            "url": ""
+            "url": "https://crazyraccoon.jp/about/#company-info"
         },
         "country": "japan",
         "liquipedia_id": "Crazy_Raccoon",
@@ -415,7 +513,7 @@
         "win": ["DFMWIN"],
         "company": {
             "name": "株式会社DetonatioN",
-            "url": ""
+            "url": "https://detonation.jp/"
         },
         "country": "japan",
         "liquipedia_id": "DetonatioN_FocusMe",
@@ -1448,7 +1546,7 @@
         "win": ["MTRWIN"],
         "company": {
             "name": "株式会社Litm",
-            "url": ""
+            "url": "https://me-teor.com/about"
         },
         "country": "japan",
         "liquipedia_id": "Meteor",
@@ -1566,7 +1664,7 @@
         "win": [""],
         "company": {
             "name": "名古屋王者株式会社",
-            "url": ""
+            "url": "https://www.nagoyaoja.com/company"
         },
         "country": "japan",
         "liquipedia_id": "Nagoya_OJA",
@@ -1706,7 +1804,7 @@
         "win": ["NthWIN"],
         "company": {
             "name": "株式会社CodeBlitz",
-            "url": ""
+            "url": "https://northeption.com/company/"
         },
         "country": "japan",
         "liquipedia_id": "Northeption",
@@ -1945,7 +2043,7 @@
         "win": ["RCWIN"],
         "company": {
             "name": "株式会社REJECT",
-            "url": ""
+            "url": "https://reject.jp/about/"
         },
         "country": "japan",
         "liquipedia_id": "REJECT",
@@ -2313,7 +2411,7 @@
         "win": ["SGWIN"],
         "company": {
             "name": "株式会社戦国",
-            "url": ""
+            "url": "https://sengokugaming.com/about/"
         },
         "country": "japan",
         "liquipedia_id": "Sengoku_Gaming",
@@ -2410,7 +2508,7 @@
         "win": ["SNBWIN"],
         "company": {
             "name": "株式会社忍ism",
-            "url": ""
+            "url": "https://shinobism.com/company"
         },
         "country": "japan",
         "liquipedia_id": "Shinobism_Gaming",
@@ -2475,6 +2573,67 @@
                 "name": "other",
                 "urls": [
                     "https://shinobism.com/team/member"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "striderz",
+        "name": "STRIDERZ",
+        "ruby": "ストライダーズ",
+        "win": ["SRZWIN "],
+        "company": {
+            "name": "株式会社野村屋",
+            "url": "https://nomuraya-1913.co.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "STRIDERZ",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://striderz.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://striderz.theshop.jp/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/striderznagano"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@striderznagano"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://striderz.jp/members/#apex_legends"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://striderz.jp/members/#valorant"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/13614/striderz"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://striderz.jp/members/#streamer"
                 ]
             }
         ]
