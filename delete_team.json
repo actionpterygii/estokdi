@@ -1,0 +1,155 @@
+[
+    {
+        "id": "alpha_d",
+        "name": "αD",
+        "ruby": "アルファディ",
+        "win": ["αDWIN"],
+        "company": {
+            "name": "株式会社アルファディ",
+            "url": ""
+        },
+        "country": "japan",
+        "liquipedia_id": "Esports_team_αD",
+        "links": [
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/14677/esports-team-d"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "jadeite",
+        "name": "Jadeite",
+        "ruby": "ジェダイト",
+        "win": ["JDTWIN"],
+        "company": {
+            "name": "株式会社アンヴィル",
+            "url": "https://anvil.ne.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "Jadeite",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.team-jadeite.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store-jadeite.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/Team_Jadeite"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/team_jadeite/"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCZnHIffwda5od9Tmliopb5Q"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "counter_strike_2",
+                "urls": [
+                    "https://twitter.com/Team_Jadeite"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.team-jadeite.com/team/streamer"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "pulverex",
+        "name": "PULVEREX",
+        "ruby": "パルブレックス",
+        "win": ["PVXWIN"],
+        "company": {
+            "name": "株式会社アカツキゲームス",
+            "url": "https://games.aktsk.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "PULVEREX",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://pulverex.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.pulverex.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://twitter.com/PULVEREX"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/pulverex/"
+                ]
+            },
+            {
+                "name": "threads",
+                "urls": [
+                    "https://www.threads.net/@pulverex"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@pulverex"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCh9v24PL7fM6qaWAko1jGbg"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://pulverex.com/teams"
+                ]
+            }
+        ]
+    }
+]
