@@ -1986,6 +1986,12 @@
                 ]
             },
             {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://reject.jp/teams/#lol"
+                ]
+            },
+            {
                 "name": "pokemon_unite",
                 "urls": [
                     "https://reject.jp/teams/#pokemonunite"
