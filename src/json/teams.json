@@ -753,6 +753,100 @@
         ]
     },
     {
+        "id": "enter_force_36",
+        "name": "ENTER FORCE.36",
+        "ruby": "エンター フォースサー ティーシックス",
+        "win": ["E36WIN"],
+        "company": {
+            "name": "エンターフォース株式会社",
+            "url": "https://enter-force.co.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "ENTER_FORCE.36",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://enterforce-36.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://area-36.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/ENTERFORCE_36"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/ENTERFORCE.36/"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@enterforce.36"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "http://youtube.com/c/ENTERFORCE36"
+                ]
+            },
+            {
+                "name": "twitch",
+                "urls": [
+                    "https://www.twitch.tv/e36official"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://enterforce-36.com/member/"
+                ]
+            }
+        ]
+    },
+    {
         "id": "eva_e",
         "name": "エヴァ:e",
         "ruby": "エヴァ イー",
