@@ -2088,6 +2088,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://reignite.jp/team/#pokemonunite"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
                     "https://reignite.jp/team/#streamer"
