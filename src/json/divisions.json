@@ -40,6 +40,11 @@
         "name_ja" :"スプラトゥーン"
     },
     {
+        "id": "knivesout",
+        "name": "荒野行動",
+        "name_ja" :"Knives Out"
+    },
+    {
         "id": "street_fighter_6",
         "name": "STREET FIGHTER 6",
         "name_ja" :"ストリートファイター シックス"

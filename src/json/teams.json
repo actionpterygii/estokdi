@@ -1,5 +1,41 @@
 [
     {
+        "id": "alpha_d",
+        "name": "αD",
+        "ruby": "アルファディ",
+        "win": ["αDWIN"],
+        "company": {
+            "name": "株式会社アルファディ",
+            "url": ""
+        },
+        "country": "japan",
+        "liquipedia_id": "Esports_team_αD",
+        "links": [
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/AlphaD_Official",
+                    "https://x.com/oreratuyoi2nd"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UC74DWXJEFTxLKTDTJuIQPKw",
+                    "https://www.youtube.com/@dapex5241"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "knivesout",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ]
+            }
+        ]
+    },
+    {
         "id": "axiz",
         "name": "AXIZ",
         "ruby": "アクシズ",
@@ -26,7 +62,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/AXIZ_gg"
+                    "https://x.com/AXIZ_gg"
                 ]
             },
             {
@@ -65,6 +101,81 @@
                 "name": "identity_v",
                 "urls": [
                     "https://axiz.gg/team/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC/"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "bc_swell",
+        "name": "BC SWELL",
+        "ruby": "ビーシー スウェール",
+        "win": ["BCSWIN"],
+        "company": {
+            "name": "株式会社SWELL",
+            "url": "https://swellinc.co.jp/about/"
+        },
+        "country": "japan",
+        "liquipedia_id": "BC_SWELL",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://swellinc.co.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://swellinc.myshopify.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/BC_SWELL",
+                    "https://x.com/BCS_Lynx"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@bcs_lynx"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@bcswell3621",
+                    "https://www.youtube.com/@BCSLynx"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://swellinc.co.jp/member/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/11233/bc-swell"
+                ]
+            },
+            {
+                "name": "knivesout",
+                "urls": [
+                    "https://swellinc.co.jp/member/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://swellinc.co.jp/member/"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://swellinc.co.jp/member/"
                 ]
             }
         ]
@@ -157,7 +268,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/burning_core"
+                    "https://x.com/burning_core"
                 ]
             },
             {
@@ -227,7 +338,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/cyclops_osaka"
+                    "https://x.com/cyclops_osaka"
                 ]
             },
             {
@@ -310,7 +421,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/crazyraccoon406"
+                    "https://x.com/crazyraccoon406"
                 ]
             },
             {
@@ -416,7 +527,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/crest_gaming/"
+                    "https://x.com/crest_gaming/"
                 ]
             },
             {
@@ -502,9 +613,9 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/team_detonation",
-                    "https://twitter.com/DFMeSports",
-                    "https://twitter.com/DFM_VALORANT"
+                    "https://x.com/team_detonation",
+                    "https://x.com/DFMeSports",
+                    "https://x.com/DFM_VALORANT"
                 ]
             },
             {
@@ -611,7 +722,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/DeToNator_GG"
+                    "https://x.com/DeToNator_GG"
                 ]
             },
             {
@@ -681,8 +792,8 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/_VARREL",
-                    "https://twitter.com/VARREL_VALORANT"
+                    "https://x.com/_VARREL",
+                    "https://x.com/VARREL_VALORANT"
                 ]
             },
             {
@@ -867,7 +978,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/eva_e_official"
+                    "https://x.com/eva_e_official"
                 ]
             },
             {
@@ -978,7 +1089,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/good8squad"
+                    "https://x.com/good8squad"
                 ]
             },
             {
@@ -1042,7 +1153,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/fav_gaming"
+                    "https://x.com/fav_gaming"
                 ]
             },
             {
@@ -1104,7 +1215,8 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/FENNEL_official"
+                    "https://x.com/FENNEL_official",
+                    "https://x.com/FL_Vogel"
                 ]
             },
             {
@@ -1122,7 +1234,8 @@
             {
                 "name": "youtube",
                 "urls": [
-                    "https://www.youtube.com/channel/UC-a4uAuNlxku2V_FEsOOsbQ"
+                    "https://www.youtube.com/channel/UC-a4uAuNlxku2V_FEsOOsbQ",
+                    "https://www.youtube.com/@VogelOfficial0901"
                 ]
             }
         ],
@@ -1146,6 +1259,12 @@
             },
             {
                 "name": "paravox",
+                "urls": [
+                    "https://fennel-esports.com/team/"
+                ]
+            },
+            {
+                "name": "knivesout",
                 "urls": [
                     "https://fennel-esports.com/team/"
                 ]
@@ -1209,7 +1328,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/esports_hawks"
+                    "https://x.com/esports_hawks"
                 ]
             },
             {
@@ -1326,7 +1445,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/esports_TeamiXA"
+                    "https://x.com/esports_TeamiXA"
                 ]
             },
             {
@@ -1372,7 +1491,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/IGZIST_GG"
+                    "https://x.com/IGZIST_GG"
                 ]
             },
             {
@@ -1428,7 +1547,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/insomnia_esp"
+                    "https://x.com/insomnia_esp"
                 ]
             }
         ],
@@ -1483,7 +1602,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/KINOTROPEgaming"
+                    "https://x.com/KINOTROPEgaming"
                 ]
             },
             {
@@ -1571,7 +1690,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/Meteor_OA"
+                    "https://x.com/Meteor_OA"
                 ]
             },
             {
@@ -1628,7 +1747,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/MURASHeSports"
+                    "https://x.com/MURASHeSports"
                 ]
             },
             {
@@ -1642,7 +1761,7 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://twitter.com/MURASHeSports"
+                    "https://x.com/MURASHeSports"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11490/murash-gaming"
@@ -1651,13 +1770,13 @@
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://twitter.com/MURASHeSports"
+                    "https://x.com/MURASHeSports"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://twitter.com/MURASHeSports"
+                    "https://x.com/MURASHeSports"
                 ]
             }
         ]
@@ -1683,7 +1802,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/Nagoya_OJA"
+                    "https://x.com/Nagoya_OJA"
                 ]
             },
             {
@@ -1829,7 +1948,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/northeption",
+                    "https://x.com/northeption",
                     ""
                 ]
             },
@@ -1903,7 +2022,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/ReigniteJP"
+                    "https://x.com/ReigniteJP"
                 ]
             },
             {
@@ -2005,7 +2124,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/RC_REJECT"
+                    "https://x.com/RC_REJECT"
                 ]
             },
             {
@@ -2140,7 +2259,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/RIDDLEORDER"
+                    "https://x.com/RIDDLEORDER"
                 ]
             },
             {
@@ -2232,7 +2351,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/saisys_esports"
+                    "https://x.com/saisys_esports"
                 ]
             },
             {
@@ -2278,7 +2397,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/SCARZ5"
+                    "https://x.com/SCARZ5"
                 ]
             },
             {
@@ -2378,7 +2497,8 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/Sengoku_Gaming"
+                    "https://x.com/Sengoku_Gaming",
+                    "https://x.com/SengokuGamingKO"
                 ]
             },
             {
@@ -2396,7 +2516,8 @@
             {
                 "name": "youtube",
                 "urls": [
-                    "https://www.youtube.com/channel/UCgb9RymNAisof83ItW3VbdA"
+                    "https://www.youtube.com/channel/UCgb9RymNAisof83ItW3VbdA",
+                    "https://www.youtube.com/@sengokugaming4025"
                 ]
             }
         ],
@@ -2414,6 +2535,12 @@
                 "name": "fortnite",
                 "urls": [
                     "https://sengokugaming.com/teams/detail/1076dd67-65b5-44ce-8f17-caf4b322a3e2"
+                ]
+            },
+            {
+                "name": "knivesout",
+                "urls": [
+                    "https://x.com/SengokuGamingKO"
                 ]
             },
             {
@@ -2475,7 +2602,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/ShiNoBismGG"
+                    "https://x.com/ShiNoBismGG"
                 ]
             },
             {
@@ -2659,7 +2786,7 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/GamingYOSHIMOTO"
+                    "https://x.com/GamingYOSHIMOTO"
                 ]
             },
             {
@@ -2736,8 +2863,8 @@
             {
                 "name": "x",
                 "urls": [
-                    "https://twitter.com/zetadivision",
-                    "https://twitter.com/AIMWITHPRIDE"
+                    "https://x.com/zetadivision",
+                    "https://x.com/AIMWITHPRIDE"
                 ]
             },
             {

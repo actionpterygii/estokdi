@@ -1,36 +1,5 @@
 [
     {
-        "id": "alpha_d",
-        "name": "αD",
-        "ruby": "アルファディ",
-        "win": ["αDWIN"],
-        "company": {
-            "name": "株式会社アルファディ",
-            "url": ""
-        },
-        "country": "japan",
-        "liquipedia_id": "Esports_team_αD",
-        "links": [
-            {
-                "name": "x",
-                "urls": [
-                    "https://x.com/AlphaD_Official"
-                ]
-            }
-        ],
-        "divisions": [
-            {
-                "name": "valorant",
-                "urls": [
-                    "https://x.com/AlphaD_Official"
-                ],
-                "vlr_ggs": [
-                    "https://www.vlr.gg/team/14677/esports-team-d"
-                ]
-            }
-        ]
-    },
-    {
         "id": "jadeite",
         "name": "Jadeite",
         "ruby": "ジェダイト",
