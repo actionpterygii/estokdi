@@ -2211,6 +2211,12 @@
                 ]
             },
             {
+                "name": "brawl_stars",
+                "urls": [
+                    "https://reject.jp/teams/#brawlstars"
+                ]
+            },
+            {
                 "name": "pokemon_unite",
                 "urls": [
                     "https://reject.jp/teams/#pokemonunite"
