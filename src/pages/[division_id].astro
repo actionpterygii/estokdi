@@ -38,6 +38,9 @@ const path = '/' + division_id;
 const m_c_division = 'm_c__' + division_id;
 const title = `${division_name} <br>プロチーム一覧`;
 const descrption= `${division_name}（${division_name_ja}）の部門を持っている日本の著名プロeスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
+
+const modal = true;
+
 ---
 <Layout
 	title={title}
@@ -45,8 +48,8 @@ const descrption= `${division_name}（${division_name_ja}）の部門を持っ�
 	path={path}
 	m_c_division={m_c_division}
 >
-	<Header title={title}></Header>
-	<main>
+<Header title={title} modal={modal}></Header>
+<main>
 		<Team></Team>
 	</main>
 	<Footer></Footer>

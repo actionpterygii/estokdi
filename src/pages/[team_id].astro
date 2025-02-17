@@ -1,0 +1,292 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+import teams from '../json/teams.json';
+import liquipedia_divisions from '../json/liquipedia_divisions.json';
+
+export async function getStaticPaths() {
+	return teams.map((team) => ({
+		params: { team_id: team.id },
+	}));
+}
+
+const { team_id } = Astro.params;
+
+const team = teams.find(team => team.id === team_id);
+
+const win_search_url = 'https://twitter.com/search?q=%23';
+const liquipedia_url = 'https://liquipedia.net/';
+
+
+const path = '/team/' + team_id;
+const m_c_division = '';
+const title = `プロeスポーツチーム一覧<br>→${team.name}`;
+const descrption= `プロeスポーツチーム、${team.name}（${team.ruby}）の参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
+
+const modal = false;
+
+---
+<Layout
+	title={title}
+	descrption={descrption}
+	path={path}
+	m_c_division={m_c_division}
+>
+	<Header title={title} modal={modal}></Header>
+	<main>
+		<ul>
+			<li
+				id={'team__' + team.id}
+				class={'team ' + team.divisions.map((division) => (
+					'team_division__' + division.name
+				)).join(' ')}
+			>
+				<div class="team_box">
+					{team.country ? <img class="team_country" src={'/img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
+					<div class="team_logo">
+						<img src={'/img/team/' + team.id + '.webp'} alt={team.ruby} width="100px" height="100px">
+					</div>
+					<h2 class="team_name">{team.name}</h2>
+					<div class="team_win_wrap">
+						{team.win.map((win) => (
+							win !== '' ? <a class="team_win" href={win_search_url + win} target="_blank" rel="noopener">{'#' + win}</a> : ''
+						))}
+					</div>
+					<div class="team_links">
+						{team.links.map((link) => (
+							link.urls.map((url) => (
+								url ? <a class={'link__' + link.name} href={url} target="_blank" rel="noopener"><img src={'/img/link/' + link.name + '.webp'} alt={link.name}></a> : ''
+							))
+						))}
+					</div>
+					<div class="team_divisions">
+						{team.divisions.map((division) => (
+							division.urls[0] !== '' ?
+								<div class="team_division">
+									{division.urls.map((url) => (
+										url ? <a class={'division__' + division.name} href={url} target="_blank" rel="noopener"><img src={'/img/division/' + division.name + '.webp'} alt={division.name}></a> : ''
+									))}
+									{liquipedia_divisions[division.name] ?
+										division.liquipedia_id ?
+											<a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + division.liquipedia_id} target="_blank" rel="noopener"><img src="/img/other/liquipedia.webp" alt="liquipedia"></a>
+										:
+											team.liquipedia_id ?
+												<a class="liquipedia" href={liquipedia_url + liquipedia_divisions[division.name] + '/' + team.liquipedia_id} target="_blank" rel="noopener"><img src="/img/other/liquipedia.webp" alt="liquipedia"></a>
+											: ""	
+									: ""
+									}
+									{division.vlr_ggs ? division.vlr_ggs.map((vlr_gg) =>(
+										<a class="vlr_gg" href={vlr_gg} target="_blank" rel="noopener"><img src="/img/other/vlr_gg.webp" alt="vlr_gg"></a>
+									)) : ''}
+								</div>
+							: ''
+						))}
+					</div>
+					{team.name ?
+						team.company.url
+						?
+							<a class="team_company" href={team.company.url} target="_blank" rel="noopener">{team.company.name}</a>
+						:
+							<p class="team_company">{team.company.name}</p>
+					: ''}
+				</div>
+			</li>
+		</ul>
+	</main>
+	<Footer></Footer>
+</Layout>
+
+<style>
+	main {
+		padding-top: 20px;
+		background-color: #FFF;
+	}
+	ul {
+		margin: 0 auto;
+		width: 1000px;
+		display: flex;
+		justify-content: flex-start;
+		flex-wrap: wrap;
+		align-items: stretch;
+	}
+	@media screen and (max-width:1200px) {
+		ul {
+			width: 100%;
+		}
+	}
+	li {
+		list-style: none;
+		width: 100%;
+		padding-top: 20px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-bottom: 20px;
+	}
+	@media screen and (max-width:1200px) {
+		li {
+			width: 100%;
+			padding-top: 12px;
+			padding-bottom: 12px;
+		}
+	}
+	.team {
+		display: grid;
+	}
+	.team_hide {
+		display: none;
+	}
+	.team_box {
+		border-radius: 0.7rem;
+		box-shadow: 0 10px 20px #ccc;
+		transition: 0.5s;
+		padding: 30px;
+		position: relative;
+		display: flex;
+		flex-wrap: wrap;
+		flex-direction: column;
+	}
+	.team_country {
+		position: absolute;
+		right: 30px;
+		top: 30px;
+		width: 25px;
+		border: solid 1px #ddd;
+	}
+	.team_box:hover {
+		box-shadow: 0 5px 10px #ddd;
+	}
+	.team_logo {
+		margin: 0 auto;
+		width: 100px;
+		margin-top: 10px;
+		display: flex;
+		justify-content: center;
+	}
+	.team_logo img {
+		height: 100px;
+		display: block;
+		margin:auto;
+	}
+	.team_name {
+		margin-top: 25px;
+		font-size: 45px;
+		font-family: "Times New Roman", "Yu Mincho", serif;
+		font-optical-sizing: auto;
+		font-weight: 700;
+		font-style: normal;
+		text-align: center;
+		word-break: normal;
+		overflow-wrap: anywhere;
+		line-height: 45px;
+	}
+	.team_ruby {
+
+	}
+	.team_tag {
+
+	}
+	.team_win_wrap {
+		min-height: 20px;
+		margin-top: 5px;
+		display: flex;
+		justify-content: flex-end;
+		flex-wrap: wrap;
+	}
+	.team_win {
+		height: 20px;
+		margin-top: 5px;
+		margin-left: 10px;
+		color: var(--text_link);
+		font-size: 20px;
+		font-family: "Osaka", "Hiragino Sans", "Arial", sans-serif;
+		font-optical-sizing: auto;
+		font-weight: 500;
+		font-style: normal;
+	}
+	.team_links {
+		margin-top: 35px;
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.team_links a {
+		display: flex;
+		align-items: center;
+		margin-bottom: 10px;
+	}
+	.team_links a:not(:last-child) {
+		margin-right: 12px;
+	}
+	.team_links a img {
+		height: 35px;
+		transform: scale(1.01);
+	}
+	.link__x img {
+		height: 31px!important;
+	}
+	.link__youtube img {
+		height: 26px!important;
+	}
+	.link__discord img {
+		height: 27px!important;
+	}
+	.team_divisions {
+		margin-top: 15px;
+		display: flex;
+		flex-wrap: wrap;
+		margin-bottom: 10px;
+	}
+	.team_division {
+		display: flex;
+		position: relative;
+		margin-bottom: 10px;
+	}
+	.team_division:not(:last-child) {
+		margin-right: 18px;
+	}
+	.team_division:not(:last-child)::before {
+		content: '';
+		position: absolute;
+		right: 0;
+		top: 5px;
+		width: 1px;
+		height: 20px;
+		background-color: #bbb;
+	}
+	.team_division a {
+		margin-right: 12px;
+		display: flex;
+		align-items: center;
+	}
+
+	.team_division a:last-child {
+		margin-right: 18px;
+	}
+	.team_division a img {
+		height: 30px;
+		transform: scale(1.01);
+	}
+	.division__pubg_mobile img {
+		height: 25px!important;
+	}
+	.division__splatoon img {
+		height: 28px!important;
+	}
+	.division__tekken_8 img {
+		height: 25px!important;
+	}
+	.liquipedia img {
+		height: 20px!important;
+	}
+	.team_company {
+		font-size: 16px;
+		line-height: 16px;
+		font-family: "Times New Roman", "Yu Mincho", serif;
+		font-optical-sizing: auto;
+		font-weight: 600;
+		font-style: normal;
+		margin-top: auto;
+		margin-left: auto;
+	}
+</style>

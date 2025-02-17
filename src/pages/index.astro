@@ -8,6 +8,9 @@ const title = 'プロeスポーツチーム一覧';
 const descrption='プロeスポーツチームの一覧です。Apex Legends, VALORANT, STREET FIGHTER, League of Legends などのゲームタイトルの部門を持っている日本の著名eスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。';
 const path = '';
 const m_c_division = '';
+
+const modal = true;
+
 ---
 <Layout
 	title={title}
@@ -15,7 +18,7 @@ const m_c_division = '';
 	path={path}
 	m_c_division={m_c_division}
 >
-	<Header title={title}></Header>
+	<Header title={title} modal={modal}></Header>
 	<main>
 		<Team></Team>
 	</main>

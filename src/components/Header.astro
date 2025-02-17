@@ -3,15 +3,20 @@ import Modal from '../components/Modal.astro';
 
 interface Props {
 	title: string;
+	modal: boolean;
 }
 
-const { title } = Astro.props;
+const { title, modal } = Astro.props;
 ---
 <header>
     <h1 set:html={title}></h1>
-    <img id="preference" src="/img/other/gear.webp" alt="help">
+    {modal === true ?
+        <img id="preference" src="/img/other/gear.webp" alt="help">
+    : ''}
 </header>
-<Modal></Modal>
+{modal === true ?
+    <Modal></Modal>
+: ''}
 
 <style>
     header {
@@ -42,23 +47,25 @@ const { title } = Astro.props;
     }
 </style>
 
-<script>
-    window.onload = () => {
-        // ドロップダウンメニュー（トグルボタンin）の表示非表示
-        document.getElementById('preference').addEventListener('click', () => {
-            const modal = document.getElementById('modal');
-            if (modal.classList.contains('modal_hide') === true) {
-                modal.classList.remove('modal_hide');
-            } else {
-                modal.classList.add('modal_hide');
-            }
-        });
-        // 領域外クリックでドロップダウンを隠す
-        document.addEventListener('click', (e:any) => {
-            const modal = document.getElementById('modal');
-            if(!e.target.closest('#modal') && !e.target.closest('#preference')) {
-                modal.classList.add('modal_hide');
-            }
-        });
-    };
-</script>
+{modal === true ?
+    <script>
+        window.onload = () => {
+            // ドロップダウンメニュー（トグルボタンin）の表示非表示
+            document.getElementById('preference').addEventListener('click', () => {
+                const modal = document.getElementById('modal');
+                if (modal.classList.contains('modal_hide') === true) {
+                    modal.classList.remove('modal_hide');
+                } else {
+                    modal.classList.add('modal_hide');
+                }
+            });
+            // 領域外クリックでドロップダウンを隠す
+            document.addEventListener('click', (e) => {
+                const modal = document.getElementById('modal');
+                if(!e.target.closest('#modal') && !e.target.closest('#preference')) {
+                    modal.classList.add('modal_hide');
+                }
+            });
+        };
+    </script>
+: ''}
