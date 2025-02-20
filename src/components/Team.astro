@@ -16,10 +16,12 @@ const liquipedia_url = 'https://liquipedia.net/';
 			>
 				<div class="team_box">
 					{team.country ? <img class="team_country" src={'/img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
-					<div class="team_logo">
-						<img src={'/img/team/' + team.id + '.webp'} alt={team.ruby} width="100px" height="100px" loading={index >= 4 ? 'lazy' : 'eager'}>
-					</div>
-					<h2 class="team_name">{team.name}</h2>
+					<a class="team_link" href={'/' + team.id}>
+						<div class="team_logo">
+							<img src={'/img/team/' + team.id + '.webp'} alt={team.ruby} width="100px" height="100px" loading={index >= 4 ? 'lazy' : 'eager'}>
+						</div>
+						<h2 class="team_name">{team.name}</h2>
+					</a>
 					<div class="team_win_wrap">
 						{team.win.map((win) => (
 							win !== '' ? <a class="team_win" href={win_search_url + win} target="_blank" rel="noopener">{'#' + win}</a> : ''
@@ -122,6 +124,9 @@ li {
 }
 .team_box:hover {
     box-shadow: 0 5px 10px #ddd;
+}
+.team_link {
+	text-decoration: none;
 }
 .team_logo {
 	margin: 0 auto;
