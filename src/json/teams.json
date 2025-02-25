@@ -1164,16 +1164,6 @@
             }
         ],
         "divisions": [
-
-            {
-                "name": "valorant",
-                "urls": [
-                    "https://www.favgaming.com/athlete/valorant/"
-                ],
-                "vlr_ggs": [
-                    "https://www.vlr.gg/team/516/fav-gaming"
-                ]
-            },
             {
                 "name": "street_fighter_6",
                 "urls": [
@@ -1628,37 +1618,37 @@
             {
                 "name": "apex_legends",
                 "urls": [
-                    "https://www.kinotropegaming.com/"
+                    "https://www.kinotropegaming.com/members/#apex"
                 ]
             },
             {
                 "name": "pubg_mobile",
                 "urls": [
-                    "https://www.kinotropegaming.com/members/"
+                    "https://www.kinotropegaming.com/members/#pubgm"
                 ]
             },
             {
                 "name": "rainbowsix",
                 "urls": [
-                    "https://www.kinotropegaming.com/members/"
-                ]
-            },
-            {
-                "name": "super_smash_bros",
-                "urls": [
-                    "https://www.kinotropegaming.com/members/"
+                    "https://www.kinotropegaming.com/members/#r6s"
                 ]
             },
             {
                 "name": "rocket_league",
                 "urls": [
-                    "https://www.kinotropegaming.com/members/"
+                    "https://www.kinotropegaming.com/members/#rokeri"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://www.kinotropegaming.com/members/"
+                    "https://www.kinotropegaming.com/members/#streamer"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://www.kinotropegaming.com/members/#staff"
                 ]
             }
         ]
