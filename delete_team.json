@@ -120,5 +120,81 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "shinobism",
+        "name": "忍ism Gaming",
+        "ruby": "シノビズム ゲーミング",
+        "win": ["SNBWIN"],
+        "company": {
+            "name": "株式会社忍ism",
+            "url": "https://shinobism.com/company"
+        },
+        "country": "japan",
+        "liquipedia_id": "Shinobism_Gaming",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://shinobism.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://ps.ponycanyon.co.jp/shinobism/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/ShiNoBismGG"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/user/ChocoBlanka728"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "splatoon",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://shinobism.com/team/member"
+                ]
+            }
+        ]
     }
 ]
