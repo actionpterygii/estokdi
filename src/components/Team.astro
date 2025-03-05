@@ -16,7 +16,7 @@ const liquipedia_url = 'https://liquipedia.net/';
 			>
 				<div class="team_box">
 					{team.country ? <img class="team_country" src={'/img/flag/' + team.country + '.svg'} alt={team.country}> : ''}
-					<a class="team_link" href={'/' + team.id}>
+					<a class="team_link" href={'/' + team.id + '/'}>
 						<div class="team_logo">
 							<img src={'/img/team/' + team.id + '.webp'} alt={team.ruby} width="100px" height="100px" loading={index >= 4 ? 'lazy' : 'eager'}>
 						</div>
