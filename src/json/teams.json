@@ -1978,6 +1978,18 @@
                 ]
             },
             {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://northeption.com/teams/"
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    "https://northeption.com/teams/"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
                     "https://northeption.com/teams/"
@@ -2882,6 +2894,12 @@
                 "name": "tekken_8",
                 "urls": [
                     "https://zetadivision.com/team/tekken"
+                ]
+            },
+            {
+                "name": "guilty_gear_strive",
+                "urls": [
+                    "https://zetadivision.com/team/guilty-gear"
                 ]
             },
             {
