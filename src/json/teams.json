@@ -958,58 +958,6 @@
         ]
     },
     {
-        "id": "eva_e",
-        "name": "エヴァ:e",
-        "ruby": "エヴァ イー",
-        "win": ["EVA_WIN"],
-        "company": {
-            "name": "NGM株式会社",
-            "url": "https://n-g-m.com/"
-        },
-        "country": "japan",
-        "liquipedia_id": "EVA:e",
-        "links": [
-            {
-                "name": "web",
-                "urls": [
-                    "https://eva-e.jp/"
-                ]
-            },
-            {
-                "name": "x",
-                "urls": [
-                    "https://x.com/eva_e_official"
-                ]
-            },
-            {
-                "name": "youtube",
-                "urls": [
-                    "https://www.youtube.com/channel/UCtwlTIdI-u1S6dms_wv6xGg"
-                ]
-            }
-        ],
-        "divisions": [
-            {
-                "name": "street_fighter_6",
-                "urls": [
-                    "https://eva-e.jp/member/"
-                ]
-            },
-            {
-                "name": "e_football",
-                "urls": [
-                    "https://eva-e.jp/member/"
-                ]
-            },
-            {
-                "name": "streamer",
-                "urls": [
-                    "https://eva-e.jp/member/"
-                ]
-            }
-        ]
-    },
-    {
         "id": "ghs_professional",
         "name": "GHS PROFESSIONAL",
         "ruby": "ジーエイチエス プロフェッショナル",
@@ -1231,16 +1179,10 @@
         ],
         "divisions": [
             {
-                "name": "apex_legends",
-                "urls": [
-                    "https://fennel-esports.com/team/apex-legends/"
-                ]
-            },
-            {
                 "name": "valorant",
                 "urls": [
-                    "https://fennel-esports.com/team/valorant/",
-                    "https://fennel-esports.com/team/fennel-hotelava/"
+                    "https://fennel-esports.com/members/valorant/",
+                    "https://fennel-esports.com/members/valorant-gc/"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/2934/fennel",
@@ -1250,43 +1192,37 @@
             {
                 "name": "paravox",
                 "urls": [
-                    "https://fennel-esports.com/team/"
-                ]
-            },
-            {
-                "name": "knivesout",
-                "urls": [
-                    "https://fennel-esports.com/team/"
+                    "https://fennel-esports.com/members/paravox/"
                 ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://fennel-esports.com/team/smash-bros/"
-                ]
-            },
-            {
-                "name": "lol_wild_rift",
-                "urls": [
-                    "https://fennel-esports.com/team/lol-wildrift/"
+                    "https://fennel-esports.com/members/smash-bros/"
                 ]
             },
             {
                 "name": "pokemon_unite",
                 "urls": [
-                    "https://fennel-esports.com/team/pokemon-unite/"
+                    "https://fennel-esports.com/members/pokemon-unite/"
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    "https://fennel-esports.com/members/e-motorsports/"
                 ]
             },
             {
                 "name": "identity_v",
                 "urls": [
-                    "https://fennel-esports.com/team/identity-v/"
+                    "https://fennel-esports.com/members/identity-v/"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://fennel-esports.com/team/streamer/"
+                    "https://fennel-esports.com/members/streamer/"
                 ]
             }
         ]
@@ -2888,6 +2824,12 @@
                 "name": "paravox",
                 "urls": [
                     "https://zetadivision.com/team/paravox"
+                ]
+            },
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://zetadivision.com/team/30874"
                 ]
             },
             {

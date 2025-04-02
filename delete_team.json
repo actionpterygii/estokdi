@@ -196,5 +196,57 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "eva_e",
+        "name": "エヴァ:e",
+        "ruby": "エヴァ イー",
+        "win": ["EVA_WIN"],
+        "company": {
+            "name": "NGM株式会社",
+            "url": "https://n-g-m.com/"
+        },
+        "country": "japan",
+        "liquipedia_id": "EVA:e",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://eva-e.jp/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/eva_e_official"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UCtwlTIdI-u1S6dms_wv6xGg"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "street_fighter_6",
+                "urls": [
+                    "https://eva-e.jp/member/"
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    "https://eva-e.jp/member/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://eva-e.jp/member/"
+                ]
+            }
+        ]
     }
 ]
