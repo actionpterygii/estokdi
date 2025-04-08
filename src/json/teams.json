@@ -1934,6 +1934,109 @@
         ]
     },
     {
+        "id": "qt_dig",
+        "name": "QT DIG ∞",
+        "ruby": "キューティー ディグ",
+        "win": ["QTWIN"],
+        "company": {
+            "name": "株式会社戦国",
+            "url": ""
+        },
+        "country": "japan",
+        "liquipedia_id": "QT_DIG",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://qtdig.com/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://shop.qtdig.com/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/QT_DIG"
+                ]
+            },
+            {
+                "name": "instagram",
+                "urls": [
+                    "https://www.instagram.com/qtdig_esports.gram/"
+                ]
+            },
+            {
+                "name": "tiktok",
+                "urls": [
+                    "https://www.tiktok.com/@_qtdig"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@QT_DIG"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://qtdig.com/team/valorant/"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/283/sengoku-gaming"
+                ]
+            },
+            {
+                "name": "fortnite",
+                "urls": [
+                    "https://qtdig.com/team/fortnite/"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://qtdig.com/team/ssbu/"
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://qtdig.com/team/lol/"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://qtdig.com/team/pokemon_unite/"
+                ]
+            },
+            {
+                "name": "e_football",
+                "urls": [
+                    "https://qtdig.com/team/efootball/"
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    "https://qtdig.com/team/racing/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://qtdig.com/team/"
+                ]
+            }
+        ]
+    },
+    {
         "id": "reignite",
         "name": "REIGNITE",
         "ruby": "リイグナイト",
@@ -2416,111 +2519,6 @@
                 "name": "streamer",
                 "urls": [
                     "https://www.scarz.net/team/streamer/"
-                ]
-            }
-        ]
-    },
-    {
-        "id": "sengoku",
-        "name": "Sengoku Gaming",
-        "ruby": "センゴク ゲーミング",
-        "win": ["SGWIN"],
-        "company": {
-            "name": "株式会社戦国",
-            "url": "https://sengokugaming.com/about/"
-        },
-        "country": "japan",
-        "liquipedia_id": "Sengoku_Gaming",
-        "links": [
-            {
-                "name": "web",
-                "urls": [
-                    "https://sengokugaming.com/"
-                ]
-            },
-            {
-                "name": "store",
-                "urls": [
-                    "https://shop.sengokugaming.com/"
-                ]
-            },
-            {
-                "name": "x",
-                "urls": [
-                    "https://x.com/Sengoku_Gaming",
-                    "https://x.com/SengokuGamingKO"
-                ]
-            },
-            {
-                "name": "instagram",
-                "urls": [
-                    "https://www.instagram.com/sg_esports.gram/"
-                ]
-            },
-            {
-                "name": "tiktok",
-                "urls": [
-                    "https://www.tiktok.com/@sengoku_gaming"
-                ]
-            },
-            {
-                "name": "youtube",
-                "urls": [
-                    "https://www.youtube.com/channel/UCgb9RymNAisof83ItW3VbdA",
-                    "https://www.youtube.com/@sengokugaming4025"
-                ]
-            }
-        ],
-        "divisions": [
-            {
-                "name": "valorant",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/3f96f207-22dc-45b8-a9bc-dbb616545749"
-                ],
-                "vlr_ggs": [
-                    "https://www.vlr.gg/team/283/sengoku-gaming"
-                ]
-            },
-            {
-                "name": "fortnite",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/1076dd67-65b5-44ce-8f17-caf4b322a3e2"
-                ]
-            },
-            {
-                "name": "knivesout",
-                "urls": [
-                    "https://x.com/SengokuGamingKO"
-                ]
-            },
-            {
-                "name": "league_of_legends",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/11a77086-538f-47d8-a029-7dbc1ddadcf2"
-                ]
-            },
-            {
-                "name": "pokemon_unite",
-                "urls": [
-                    "https://www.sengokugaming.com/teams/detail/1efb4eaf-e26e-470f-9368-6016a55da742"
-                ]
-            },
-            {
-                "name": "e_football",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/7ab50711-6f75-4f27-8f5a-4fd0fb4d070b"
-                ]
-            },
-            {
-                "name": "e_motorsports",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/d81ea8f2-a5f7-40a9-a73b-dcb650f387af"
-                ]
-            },
-            {
-                "name": "streamer",
-                "urls": [
-                    "https://sengokugaming.com/teams/detail/86c74fd4-8492-43f8-9d1e-caf56c50df46"
                 ]
             }
         ]
