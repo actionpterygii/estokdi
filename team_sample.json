@@ -178,6 +178,12 @@
             ]
         },
         {
+            "name": "fatal_fury",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "guilty_gear_strive",
             "urls": [
                 ""

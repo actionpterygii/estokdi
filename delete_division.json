@@ -3,5 +3,10 @@
         "id": "counter_strike_2",
         "name": "Counter-Strike 2",
         "name_ja" :"カウンターストライク ツー"
+    },
+    {
+        "id": "knivesout",
+        "name": "荒野行動",
+        "name_ja" :"Knives Out"
     }
 ]

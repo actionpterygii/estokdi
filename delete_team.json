@@ -353,5 +353,41 @@
                 ]
             }
         ]
+    },
+    {
+        "id": "alpha_d",
+        "name": "αD",
+        "ruby": "アルファディ",
+        "win": ["αDWIN"],
+        "company": {
+            "name": "株式会社アルファディ",
+            "url": ""
+        },
+        "country": "japan",
+        "liquipedia_id": "Esports_team_αD",
+        "links": [
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/AlphaD_Official",
+                    "https://x.com/oreratuyoi2nd"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UC74DWXJEFTxLKTDTJuIQPKw",
+                    "https://www.youtube.com/@dapex5241"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "knivesout",
+                "urls": [
+                    "https://x.com/AlphaD_Official"
+                ]
+            }
+        ]
     }
 ]

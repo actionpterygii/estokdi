@@ -1,41 +1,5 @@
 [
     {
-        "id": "alpha_d",
-        "name": "αD",
-        "ruby": "アルファディ",
-        "win": ["αDWIN"],
-        "company": {
-            "name": "株式会社アルファディ",
-            "url": ""
-        },
-        "country": "japan",
-        "liquipedia_id": "Esports_team_αD",
-        "links": [
-            {
-                "name": "x",
-                "urls": [
-                    "https://x.com/AlphaD_Official",
-                    "https://x.com/oreratuyoi2nd"
-                ]
-            },
-            {
-                "name": "youtube",
-                "urls": [
-                    "https://www.youtube.com/channel/UC74DWXJEFTxLKTDTJuIQPKw",
-                    "https://www.youtube.com/@dapex5241"
-                ]
-            }
-        ],
-        "divisions": [
-            {
-                "name": "knivesout",
-                "urls": [
-                    "https://x.com/AlphaD_Official"
-                ]
-            }
-        ]
-    },
-    {
         "id": "axiz",
         "name": "AXIZ",
         "ruby": "アクシズ",
@@ -158,12 +122,6 @@
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11233/bc-swell"
-                ]
-            },
-            {
-                "name": "knivesout",
-                "urls": [
-                    "https://swellinc.co.jp/member/"
                 ]
             },
             {
@@ -463,6 +421,12 @@
                 ]
             },
             {
+                "name": "fatal_fury",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#fatal-fury"
+                ]
+            },
+            {
                 "name": "super_smash_bros",
                 "urls": [
                     "https://crazyraccoon.jp/member/#super-smash-bros"
@@ -472,6 +436,12 @@
                 "name": "brawl_stars",
                 "urls": [
                     "https://crazyraccoon.jp/member/#brawl-stars"
+                ]
+            },
+            {
+                "name": "honor_of_kings",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#honor-of-kings"
                 ]
             },
             {
