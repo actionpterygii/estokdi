@@ -2192,6 +2192,12 @@
                 ]
             },
             {
+                "name": "overwatch",
+                "urls": [
+                    "https://reject.jp/teams/#overwatch"
+                ]
+            },
+            {
                 "name": "pubg_mobile",
                 "urls": [
                     "https://reject.jp/teams/#pubgemobile"
