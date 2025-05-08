@@ -3,7 +3,10 @@
         "id": "axiz",
         "name": "AXIZ",
         "ruby": "アクシズ",
-        "win": ["AXIZWIN", "AXCWIN"],
+        "win": [
+            "AXIZWIN",
+            "AXCWIN"
+        ],
         "company": {
             "name": "アックスエンターテインメント株式会社",
             "url": ""
@@ -73,7 +76,9 @@
         "id": "bc_swell",
         "name": "BC SWELL",
         "ruby": "ビーシー スウェール",
-        "win": ["BCSWIN"],
+        "win": [
+            "BCSWIN"
+        ],
         "company": {
             "name": "株式会社SWELL",
             "url": "https://swellinc.co.jp/about/"
@@ -142,7 +147,9 @@
         "id": "blue_bees",
         "name": "BULE BEES",
         "ruby": "ブルー ビーズ",
-        "win": ["BBWIN"],
+        "win": [
+            "BBWIN"
+        ],
         "company": {
             "name": "BLUE BEES 株式会社",
             "url": "https://bluebees.jp/pages/company"
@@ -209,7 +216,9 @@
         "id": "burning_core_toyama",
         "name": "BURNING CORE TOYAMA",
         "ruby": "バーニング コア トヤマ",
-        "win": ["BCTWIN"],
+        "win": [
+            "BCTWIN"
+        ],
         "company": {
             "name": "株式会社バーニングコア",
             "url": "https://burning-core.com/about"
@@ -273,7 +282,9 @@
         "id": "cag",
         "name": "CAG OSAKA",
         "ruby": "シーエーシー オオサカ",
-        "win": ["CAGWIN"],
+        "win": [
+            "CAGWIN"
+        ],
         "company": {
             "name": "ブロードメディアeスポーツ株式会社",
             "url": "https://www.broadmediaesports.co.jp/"
@@ -356,7 +367,9 @@
         "name": "Crazy Raccoon",
         "ruby": "クレイジー ラクーン",
         "tag": "CR",
-        "win": ["CRWIN"],
+        "win": [
+            "CRWIN"
+        ],
         "company": {
             "name": "株式会社Samurai工房",
             "url": "https://crazyraccoon.jp/about/#company-info"
@@ -474,7 +487,13 @@
         "id": "crest",
         "name": "CREST GAMING",
         "ruby": "クレストゲーミング",
-        "win": ["CGWIN", "CGZWIN", "CGSWIN", "CGLWIN", "AXCWIN"],
+        "win": [
+            "CGWIN",
+            "CGZWIN",
+            "CGSWIN",
+            "CGLWIN",
+            "AXCWIN"
+        ],
         "company": {
             "name": "ヒューマンアカデミー株式会社",
             "url": "https://manabu.athuman.com/"
@@ -560,7 +579,9 @@
         "name": "Detonation FocusMe",
         "ruby": "デトネーション フォーカスミー",
         "tag": "DFM",
-        "win": ["DFMWIN"],
+        "win": [
+            "DFMWIN"
+        ],
         "company": {
             "name": "株式会社DetonatioN",
             "url": "https://detonation.jp/"
@@ -642,7 +663,6 @@
                 "urls": [
                     "https://team-detonation.net/teams#lol",
                     "https://team-detonation.net/teams#lol-academy"
-
                 ]
             },
             {
@@ -669,7 +689,9 @@
         "id": "detonator",
         "name": "DETONATOR",
         "ruby": "デトネーター",
-        "win": ["DTNWIN"],
+        "win": [
+            "DTNWIN"
+        ],
         "company": {
             "name": "株式会社GamingD",
             "url": "https://www.gamingd.co.jp/"
@@ -739,7 +761,9 @@
         "id": "donuts_varrel",
         "name": "DONUTS VARREL",
         "ruby": "ドーナッツ ヴァレル",
-        "win": ["DVLWIN"],
+        "win": [
+            "DVLWIN"
+        ],
         "company": {
             "name": "株式会社CELLORB",
             "url": "https://cellorb.jp/"
@@ -837,7 +861,9 @@
         "id": "enter_force_36",
         "name": "ENTER FORCE.36",
         "ruby": "エンター フォースサー ティーシックス",
-        "win": ["E36WIN"],
+        "win": [
+            "E36WIN"
+        ],
         "company": {
             "name": "エンターフォース株式会社",
             "url": "https://enter-force.co.jp/"
@@ -931,7 +957,9 @@
         "id": "ghs_professional",
         "name": "GHS PROFESSIONAL",
         "ruby": "ジーエイチエス プロフェッショナル",
-        "win": ["GHSWIN"],
+        "win": [
+            "GHSWIN"
+        ],
         "company": {
             "name": "株式会社アニマックスブロードキャスト・ジャパン",
             "url": "https://www.animax.co.jp/company"
@@ -984,7 +1012,9 @@
         "id": "good_8_squad",
         "name": "Good 8 Squad",
         "ruby": "グッドエイトスクアッド",
-        "win": ["G8SWIN"],
+        "win": [
+            "G8SWIN"
+        ],
         "company": {
             "name": "グッドエイトスクアッド株式会社",
             "url": "https://www.good8squad.jp/"
@@ -1048,7 +1078,9 @@
         "id": "fav",
         "name": "FAV gaming",
         "ruby": "ファブ ゲーミング",
-        "win": ["FAVWIN"],
+        "win": [
+            "FAVWIN"
+        ],
         "company": {
             "name": "株式会社KADOKAWA Game Linkage",
             "url": "https://kadokawagamelinkage.jp/"
@@ -1100,7 +1132,9 @@
         "id": "fennel",
         "name": "FENNEL",
         "ruby": "フェンネル",
-        "win": ["FLWIN"],
+        "win": [
+            "FLWIN"
+        ],
         "company": {
             "name": "株式会社Fennel",
             "url": ""
@@ -1201,7 +1235,9 @@
         "id": "fukuoka_softbank_hawks",
         "name": "福岡ソフトバンクホークス ゲーミング",
         "ruby": "フクオカソフトバンクホークス ゲーミング",
-        "win": ["SHGWIN"],
+        "win": [
+            "SHGWIN"
+        ],
         "company": {
             "name": "福岡ソフトバンクホークス株式会社",
             "url": "https://www.softbankhawks.co.jp/"
@@ -1259,7 +1295,9 @@
         "id": "fukushima_ibushigin",
         "name": "FUKUSHIMA IBUSHIGIN",
         "ruby": "フクシマ イブシギン",
-        "win": ["IBSGWIN"],
+        "win": [
+            "IBSGWIN"
+        ],
         "company": {
             "name": "株式会社アスピロンド",
             "url": "https://www.aspirond.com/"
@@ -1324,7 +1362,9 @@
         "id": "hiroshima_team_ixa",
         "name": "広島 TEAM iXA",
         "ruby": "ヒロシマ チーム イクサ",
-        "win": ["iXAWIN"],
+        "win": [
+            "iXAWIN"
+        ],
         "company": {
             "name": "ヤルキマントッキーズ株式会社",
             "url": "https://yarukiman.com/"
@@ -1364,7 +1404,9 @@
         "id": "igzist",
         "name": "IGZIST",
         "ruby": "イグジスト",
-        "win": ["IGZWIN"],
+        "win": [
+            "IGZWIN"
+        ],
         "company": {
             "name": "株式会社BRBD",
             "url": ""
@@ -1426,7 +1468,9 @@
         "id": "insomnia",
         "name": "INSOMNIA",
         "ruby": "インソムニア",
-        "win": ["INSWIN"],
+        "win": [
+            "INSWIN"
+        ],
         "company": {
             "name": "株式会社INSOMNIA",
             "url": ""
@@ -1475,7 +1519,9 @@
         "id": "kinotrope",
         "name": "KINOTROPE gaming",
         "ruby": "キノトロープゲーミング",
-        "win": ["KNWIN"],
+        "win": [
+            "KNWIN"
+        ],
         "company": {
             "name": "株式会社キノトロープ",
             "url": "https://www.kinotrope.co.jp/"
@@ -1563,7 +1609,9 @@
         "id": "meteor",
         "name": "Meteor",
         "ruby": "ミーティア",
-        "win": ["MTRWIN"],
+        "win": [
+            "MTRWIN"
+        ],
         "company": {
             "name": "株式会社Litm",
             "url": "https://me-teor.com/about"
@@ -1611,7 +1659,7 @@
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/15459/meteor"
                 ],
-                "liquipedia_id" : "Meteor_GC"
+                "liquipedia_id": "Meteor_GC"
             },
             {
                 "name": "streamer",
@@ -1626,7 +1674,9 @@
         "id": "murash",
         "name": "MURASH GAMING",
         "ruby": "ムラッシュ ゲーミング",
-        "win": ["MRGWIN"],
+        "win": [
+            "MRGWIN"
+        ],
         "company": {
             "name": "",
             "url": ""
@@ -1681,7 +1731,9 @@
         "id": "nagoya_oja",
         "name": "名古屋OJA",
         "ruby": "ナゴヤ オウジャ",
-        "win": [""],
+        "win": [
+            ""
+        ],
         "company": {
             "name": "名古屋王者株式会社",
             "url": "https://www.nagoyaoja.com/company"
@@ -1748,7 +1800,9 @@
         "id": "noez_foxx",
         "name": "NOEZ FOXX",
         "ruby": "ノイジーフォックス",
-        "win": ["NFXWIN"],
+        "win": [
+            "NFXWIN"
+        ],
         "company": {
             "name": "Studio Candy Foxx株式会社",
             "url": "https://studio-candyfoxx.co.jp/"
@@ -1821,7 +1875,9 @@
         "id": "northeption",
         "name": "NORTHEPTION",
         "ruby": "ノーセプション",
-        "win": ["NthWIN"],
+        "win": [
+            "NthWIN"
+        ],
         "company": {
             "name": "株式会社CodeBlitz",
             "url": "https://northeption.com/company/"
@@ -1907,7 +1963,9 @@
         "id": "qt_dig",
         "name": "QT DIG ∞",
         "ruby": "キューティー ディグ",
-        "win": ["QTWIN"],
+        "win": [
+            "QTWIN"
+        ],
         "company": {
             "name": "株式会社戦国",
             "url": ""
@@ -2010,7 +2068,9 @@
         "id": "reignite",
         "name": "REIGNITE",
         "ruby": "リイグナイト",
-        "win": ["RIGWIN"],
+        "win": [
+            "RIGWIN"
+        ],
         "company": {
             "name": "株式会社Reignite Entertainment",
             "url": "https://reignite.co.jp/"
@@ -2117,7 +2177,9 @@
         "name": "REJECT",
         "ruby": "リジェクト",
         "tag": "RC",
-        "win": ["RCWIN"],
+        "win": [
+            "RCWIN"
+        ],
         "company": {
             "name": "株式会社REJECT",
             "url": "https://reject.jp/about/"
@@ -2212,13 +2274,25 @@
             {
                 "name": "paravox",
                 "urls": [
-                    "https://reject.jp/teams/"
+                    "https://reject.jp/teams/#paravox"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
                     "https://reject.jp/teams/#streetfigter"
+                ]
+            },
+            {
+                "name": "tekken_8",
+                "urls": [
+                    "https://reject.jp/teams/#tekken"
+                ]
+            },
+            {
+                "name": "fatal_fury",
+                "urls": [
+                    "https://reject.jp/teams/#fatalfury"
                 ]
             },
             {
@@ -2256,7 +2330,6 @@
                 "urls": [
                     "https://reject.jp/teams/#creator",
                     "https://reject.jp/teams/#streamer"
-    
                 ]
             },
             {
@@ -2271,7 +2344,9 @@
         "id": "riddle",
         "name": "RIDDLE ORDER",
         "ruby": "リドルオーダー",
-        "win": ["RIDWIN"],
+        "win": [
+            "RIDWIN"
+        ],
         "company": {
             "name": "",
             "url": ""
@@ -2363,7 +2438,9 @@
         "id": "saishunkan_sol_kumamoto",
         "name": "Saishunkan Sol 熊本",
         "ruby": "サイシュンカン ソル クマモト",
-        "win": [""],
+        "win": [
+            ""
+        ],
         "company": {
             "name": "再春館システム株式会社",
             "url": "https://www.saishunkansys.com/"
@@ -2409,7 +2486,9 @@
         "id": "scarz",
         "name": "SCARZ",
         "ruby": "スカーズ",
-        "win": ["SZWIN"],
+        "win": [
+            "SZWIN"
+        ],
         "company": {
             "name": "株式会社XENOZ",
             "url": "https://xenoz.co.jp/"
@@ -2509,7 +2588,9 @@
         "id": "striderz",
         "name": "STRIDERZ",
         "ruby": "ストライダーズ",
-        "win": ["SRZWIN "],
+        "win": [
+            "SRZWIN "
+        ],
         "company": {
             "name": "株式会社野村屋",
             "url": "https://nomuraya-1913.co.jp/"
@@ -2571,7 +2652,9 @@
         "name": "TIE",
         "ruby": "ティー アイ イー",
         "tag": "TIE",
-        "win": ["TIEWIN"],
+        "win": [
+            "TIEWIN"
+        ],
         "company": {
             "name": "株式会社TIECLAN",
             "url": "https://tieclan.co.jp/company"
@@ -2623,7 +2706,9 @@
         "id": "yoshimoto",
         "name": "よしもとゲーミング",
         "ruby": "ヨシモトゲーミング",
-        "win": ["YGWIN"],
+        "win": [
+            "YGWIN"
+        ],
         "company": {
             "name": "吉本興業株式会社",
             "url": "https://www.yoshimoto.co.jp/"
@@ -2694,7 +2779,9 @@
         "name": "ZETA DIVISON",
         "ruby": "ゼータ ディビジョン",
         "tag": "ZETA",
-        "win": ["ZETAWIN"],
+        "win": [
+            "ZETAWIN"
+        ],
         "company": {
             "name": "GANYMEDE株式会社",
             "url": "https://gnmd.co.jp/"
