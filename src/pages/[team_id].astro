@@ -23,13 +23,14 @@ const liquipedia_url = 'https://liquipedia.net/';
 const path = '/team/' + team_id;
 const m_c_division = '';
 const title = `プロeスポーツチーム一覧<br>→${team.name}`;
+const title_meta = `{team.name} | プロeスポーツチーム一覧`;
 const descrption= `プロeスポーツチーム、${team.name}（${team.ruby}）の参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
 
 const modal = false;
 
 ---
 <Layout
-	title={title}
+	title={title_meta}
 	descrption={descrption}
 	path={path}
 	m_c_division={m_c_division}
