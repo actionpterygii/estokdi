@@ -238,6 +238,12 @@
             ]
         },
         {
+            "name": "mobile_legends_bang_bang",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "e_baseball",
             "urls": [
                 ""
@@ -283,8 +289,13 @@
             "name": "clash_royale",
             "urls": [
                 ""
-            ],
-            "iqipedia_id": ""
+            ]
+        },
+        {
+            "name": "chess",
+            "urls": [
+                ""
+            ]
         },
         {
             "name": "streamer",

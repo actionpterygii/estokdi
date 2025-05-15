@@ -2326,9 +2326,27 @@
                 ]
             },
             {
+                "name": "mobile_legends_bang_bang",
+                "urls": [
+                    "https://reject.jp/teams/#mlbb"
+                ]
+            },
+            {
+                "name": "ea_sports_fc",
+                "urls": [
+                    "https://reject.jp/teams/#fc"
+                ]
+            },
+            {
                 "name": "identity_v",
                 "urls": [
                     "https://reject.jp/teams/#identify"
+                ]
+            },
+            {
+                "name": "chess",
+                "urls": [
+                    "https://reject.jp/teams/#chess"
                 ]
             },
             {
@@ -2939,6 +2957,18 @@
                 "name": "pokemon_unite",
                 "urls": [
                     "https://zetadivision.com/team/pokemon-unite"
+                ]
+            },
+            {
+                "name": "mobile_legends_bang_bang",
+                "urls": [
+                    "https://zetadivision.com/team/mlbb"
+                ]
+            },
+            {
+                "name": "ea_sports_fc",
+                "urls": [
+                    "https://zetadivision.com/team/fc"
                 ]
             },
             {

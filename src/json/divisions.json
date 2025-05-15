@@ -51,8 +51,8 @@
     },
     {
         "id": "fatal_fury",
-        "name": "餓狼伝説",
-        "name_ja" :"ガロウデンセツ"
+        "name": "Fatal Fury",
+        "name_ja" :"餓狼伝説"
     },
     {
         "id": "guilty_gear_strive",
@@ -98,6 +98,11 @@
         "id": "pokemon_unite",
         "name": "Pokémon UNITE",
         "name_ja" :"ポケモン ユナイト"
+    },
+    {
+        "id": "mobile_legends_bang_bang",
+        "name": "Mobile Legends:Bang Bang",
+        "name_ja" :"モバイルレジェンド"
     },
     {
         "id": "e_baseball",
