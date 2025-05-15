@@ -145,6 +145,11 @@
         "name_ja" :"クラッシュ ロワイヤル"
     },
     {
+        "id": "chess",
+        "name": "Chess",
+        "name_ja" :"チェス"
+    },
+    {
         "id": "streamer",
         "name": "Streamer",
         "name_ja" :"ストリーマー、コンテンツクリエイター"
