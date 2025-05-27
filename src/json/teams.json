@@ -428,6 +428,12 @@
                 ]
             },
             {
+                "name": "marvel_rivals",
+                "urls": [
+                    "https://crazyraccoon.jp/member/#marvel-rivals"
+                ]
+            },
+            {
                 "name": "street_fighter_6",
                 "urls": [
                     "https://crazyraccoon.jp/member/#street-fighter"
@@ -2281,6 +2287,12 @@
                 "name": "paravox",
                 "urls": [
                     "https://reject.jp/teams/#paravox"
+                ]
+            },
+            {
+                "name": "marvel_rivals",
+                "urls": [
+                    "https://reject.jp/teams/#marvelrivals"
                 ]
             },
             {

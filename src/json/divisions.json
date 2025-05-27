@@ -35,6 +35,11 @@
         "name_ja" :"パラヴォックス"
     },
     {
+        "id": "marvel_rivals",
+        "name": "Marvel Rivals",
+        "name_ja" :"マーベル・ライバルズ"
+    },
+    {
         "id": "splatoon",
         "name": "Splatoon",
         "name_ja" :"スプラトゥーン"
