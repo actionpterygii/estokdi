@@ -389,5 +389,68 @@
                 ]
             }
         ]
+    },
+        {
+        "id": "striderz",
+        "name": "STRIDERZ",
+        "ruby": "ストライダーズ",
+        "win": [
+            "SRZWIN "
+        ],
+        "company": {
+            "name": "株式会社野村屋",
+            "url": "https://nomuraya-1913.co.jp/"
+        },
+        "country": "japan",
+        "liquipedia_id": "STRIDERZ",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://striderz.jp/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://striderz.theshop.jp/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/striderznagano"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/@striderznagano"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "apex_legends",
+                "urls": [
+                    "https://striderz.jp/members/#apex_legends"
+                ]
+            },
+            {
+                "name": "valorant",
+                "urls": [
+                    "https://striderz.jp/members/#valorant"
+                ],
+                "vlr_ggs": [
+                    "https://www.vlr.gg/team/13614/striderz"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://striderz.jp/members/#streamer"
+                ]
+            }
+        ]
     }
 ]
