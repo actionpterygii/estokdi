@@ -2607,6 +2607,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://www.scarz.net/team/pokemon-unite/"
+                ]
+            },
+            {
                 "name": "e_motorsports",
                 "urls": [
                     "https://www.scarz.net/team/emotorsports/"
