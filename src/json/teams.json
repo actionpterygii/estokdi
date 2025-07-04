@@ -366,7 +366,6 @@
         "id": "crazy_raccoon",
         "name": "Crazy Raccoon",
         "ruby": "クレイジー ラクーン",
-        "tag": "CR",
         "win": [
             "CRWIN"
         ],
@@ -584,7 +583,6 @@
         "id": "detonation_focusme",
         "name": "Detonation FocusMe",
         "ruby": "デトネーション フォーカスミー",
-        "tag": "DFM",
         "win": [
             "DFMWIN"
         ],
@@ -1557,6 +1555,82 @@
         ]
     },
     {
+        "id": "levanga_hokkaido",
+        "name": "レバンガ北海道",
+        "ruby": "レバンガ ホッカイドウ",
+        "win": ["LVHWIN"],
+        "company": {
+            "name": "株式会社レバンガ北海道",
+            "url": "https://www.levanga.com/about/company/"
+        },
+        "country": "japan",
+        "liquipedia_id": "",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://suzuri.jp/levanga_esports"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/levanga_esports"
+                ]
+            },
+            {
+                "name": "youtube",
+                "urls": [
+                    "https://www.youtube.com/channel/UC_KITuZ1md7b0ft4FXZLLjQ"
+                ]
+            },
+            {
+                "name": "marshmallow",
+                "urls": [
+                    "https://marshmallow-qa.com/aguypmfk3i2863y"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "e_football",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            },
+            {
+                "name": "puyopuyo",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://www.levanga.com/esports/"
+                ]
+            }
+        ]
+    },
+    {
         "id": "meteor",
         "name": "Meteor",
         "ruby": "ミーティア",
@@ -2133,7 +2207,6 @@
         "id": "reject",
         "name": "REJECT",
         "ruby": "リジェクト",
-        "tag": "RC",
         "win": [
             "RCWIN"
         ],
@@ -2575,7 +2648,6 @@
         "id": "tie",
         "name": "TIE",
         "ruby": "ティー アイ イー",
-        "tag": "TIE",
         "win": [
             "TIEWIN"
         ],
@@ -2622,6 +2694,82 @@
                 "name": "streamer",
                 "urls": [
                     "https://tieclan.co.jp/members"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "yokohama_f_marinos",
+        "name": "横浜F・マリノス",
+        "ruby": "ヨコハマ エフ マリノス",
+        "win": [""],
+        "company": {
+            "name": "横浜マリノス株式会社",
+            "url": "https://www.f-marinos.com/club/profile"
+        },
+        "country": "japan",
+        "liquipedia_id": "Yokohama_F._Marinos_Esports",
+        "links": [
+            {
+                "name": "web",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "store",
+                "urls": [
+                    "https://store.jleague.jp/club/yokohamafm/"
+                ]
+            },
+            {
+                "name": "x",
+                "urls": [
+                    "https://x.com/fmarinosesports"
+                ]
+            },
+            {
+                "name": "openrec",
+                "urls": [
+                    "https://www.openrec.tv/team/f-marinos"
+                ]
+            }
+        ],
+        "divisions": [
+            {
+                "name": "e_football",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "rocket_league",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "puyopuyo",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
+                ]
+            },
+            {
+                "name": "other",
+                "urls": [
+                    "https://www.f-marinos.com/club/esports"
                 ]
             }
         ]
@@ -2702,7 +2850,6 @@
         "id": "zeta_division",
         "name": "ZETA DIVISON",
         "ruby": "ゼータ ディビジョン",
-        "tag": "ZETA",
         "win": [
             "ZETAWIN"
         ],

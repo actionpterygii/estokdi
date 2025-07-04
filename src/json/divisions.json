@@ -150,6 +150,11 @@
         "name_ja" :"クラッシュ ロワイヤル"
     },
     {
+        "id": "puyopuyo",
+        "name": "ぷよぷよ",
+        "name_ja" :"プヨプヨ"
+    },
+    {
         "id": "chess",
         "name": "Chess",
         "name_ja" :"チェス"
