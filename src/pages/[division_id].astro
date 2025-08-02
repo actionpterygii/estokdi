@@ -36,15 +36,16 @@ const division_name_ja = ((divisions, id) => {
 })(divisions, division_id);
 const path = '/' + division_id;
 const m_c_division = 'm_c__' + division_id;
-const title = `${division_name} <br>プロチーム一覧 - actionpterygii`;
-const descrption= `${division_name}（${division_name_ja}）の部門を持っている日本の著名プロeスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
+const title = `${division_name} <br>プロチーム一覧`;
+const title_meta = division_name + 'プロチーム一覧 - actionpterygii';
+const description= `${division_name}（${division_name_ja}）の部門を持っている日本の著名プロeスポーツチームの参加ゲームタイトルと、Webサイト,ショップ,SNS,メンバー一覧,Liquipediaなどのリンクがまとめられています。`;
 
 const modal = true;
 
 ---
 <Layout
-	title={title}
-	descrption={descrption}
+	title={title_meta}
+	description={description}
 	path={path}
 	m_c_division={m_c_division}
 >

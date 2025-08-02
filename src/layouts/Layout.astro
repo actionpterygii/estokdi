@@ -1,12 +1,12 @@
 ---
 interface Props {
 	title: string;
-	descrption: string;
+	description: string;
 	path: string;
 	m_c_division: string;
 }
 
-const { title, descrption, path, m_c_division } = Astro.props;
+const { title, description, path, m_c_division } = Astro.props;
 
 const title_text = title.replace('<br>', '');
 
@@ -52,11 +52,11 @@ const division_switcher = `
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<meta name='description' content={descrption}>
+		<meta name='description' content={description}>
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:creator" content="@actionpterygii">
 		<meta property="og:title" content={title_text}>
-		<meta property="og:description" content={descrption}>
+		<meta property="og:description" content={description}>
 		<meta property="og:url" content={home_url}>
 		<meta property='og:image' content={home_url + '/og.png'}>
 		<link rel="icon" sizes="16x16" href={home_url + '/favicon.ico'}>
