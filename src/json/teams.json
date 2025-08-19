@@ -772,7 +772,7 @@
             {
                 "name": "web",
                 "urls": [
-                    "https://usgd.club/"
+                    "https://varrel.jp/"
                 ]
             },
             {
@@ -817,7 +817,7 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://usgd.club/team/valorant"
+                    "https://varrel.jp/team/valorant"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11229/varrel"
@@ -826,31 +826,37 @@
             {
                 "name": "overwatch",
                 "urls": [
-                    "https://usgd.club/team/OVERWATCH"
+                    "https://varrel.jp/team/OVERWATCH"
                 ]
             },
             {
                 "name": "paravox",
                 "urls": [
-                    "https://usgd.club/team"
+                    "https://varrel.jp/team"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://usgd.club/team/street-fighter"
+                    "https://varrel.jp/team/street-fighter"
                 ]
             },
             {
                 "name": "tekken_8",
                 "urls": [
-                    "https://usgd.club/team/tekken7"
+                    "https://varrel.jp/team/tekken7"
+                ]
+            },
+            {
+                "name": "card_game",
+                "urls": [
+                    "https://varrel.jp/team/card-game"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://usgd.club/team/streamer"
+                    "https://varrel.jp/team/streamer"
                 ]
             }
         ]
@@ -3004,6 +3010,12 @@
                 "name": "ea_sports_fc",
                 "urls": [
                     "https://zetadivision.com/team/fc"
+                ]
+            },
+            {
+                "name": "e_motorsports",
+                "urls": [
+                    "https://zetadivision.com/team/emotorsports"
                 ]
             },
             {

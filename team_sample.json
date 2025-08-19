@@ -310,6 +310,12 @@
             ]
         },
         {
+            "name": "card_game",
+            "urls": [
+                ""
+            ]
+        },
+        {
             "name": "streamer",
             "urls": [
                 ""

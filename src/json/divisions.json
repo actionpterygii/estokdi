@@ -160,6 +160,11 @@
         "name_ja" :"チェス"
     },
     {
+        "id": "card_game",
+        "name": "Card Game",
+        "name_ja" :"カードゲーム"
+    },
+    {
         "id": "streamer",
         "name": "Streamer",
         "name_ja" :"ストリーマー、コンテンツクリエイター"
