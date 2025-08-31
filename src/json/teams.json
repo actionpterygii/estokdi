@@ -2178,12 +2178,6 @@
                 ]
             },
             {
-                "name": "paravox",
-                "urls": [
-                    "https://reignite.jp/team/#paravox"
-                ]
-            },
-            {
                 "name": "pokemon_unite",
                 "urls": [
                     "https://reignite.jp/team/#pokemonunite"
@@ -2265,13 +2259,13 @@
             {
                 "name": "apex_legends",
                 "urls": [
-                    "https://reject.jp/teams/#apex"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "valorant",
                 "urls": [
-                    "https://reject.jp/teams/#valorant"
+                    "https://reject.jp/teams/"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/104/reject"
@@ -2280,104 +2274,104 @@
             {
                 "name": "overwatch",
                 "urls": [
-                    "https://reject.jp/teams/#overwatch"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "pubg_mobile",
                 "urls": [
-                    "https://reject.jp/teams/#pubgemobile"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "fortnite",
                 "urls": [
-                    "https://reject.jp/teams/#fortnite"
-                ]
-            },
-            {
-                "name": "paravox",
-                "urls": [
-                    "https://reject.jp/teams/#paravox"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "marvel_rivals",
                 "urls": [
-                    "https://reject.jp/teams/#marvelrivals"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://reject.jp/teams/#streetfigter"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "tekken_8",
                 "urls": [
-                    "https://reject.jp/teams/#tekken"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "fatal_fury",
                 "urls": [
-                    "https://reject.jp/teams/#fatalfury"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://reject.jp/teams/#smashbros"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "league_of_legends",
                 "urls": [
-                    "https://reject.jp/teams/#lol"
+                    "https://reject.jp/teams/"
+                ]
+            },
+            {
+                "name": "teamfight_tactics",
+                "urls": [
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "brawl_stars",
                 "urls": [
-                    "https://reject.jp/teams/#brawlstars"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "pokemon_unite",
                 "urls": [
-                    "https://reject.jp/teams/#pokemonunite"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "mobile_legends_bang_bang",
                 "urls": [
-                    "https://reject.jp/teams/#mlbb"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "ea_sports_fc",
                 "urls": [
-                    "https://reject.jp/teams/#fc"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "identity_v",
                 "urls": [
-                    "https://reject.jp/teams/#identify"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "chess",
                 "urls": [
-                    "https://reject.jp/teams/#chess"
+                    "https://reject.jp/teams/"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://reject.jp/teams/#creator",
-                    "https://reject.jp/teams/#streamer"
+                    "https://reject.jp/teams/",
+                    "https://reject.jp/teams/"
                 ]
             },
             {
@@ -2598,12 +2592,6 @@
                 "name": "rainbowsix",
                 "urls": [
                     "https://www.scarz.net/team/rainbow-six-siege/"
-                ]
-            },
-            {
-                "name": "paravox",
-                "urls": [
-                    "https://www.scarz.net/team/paravox/"
                 ]
             },
             {
@@ -2950,12 +2938,6 @@
                 "name": "fortnite",
                 "urls": [
                     "https://zetadivision.com/team/fortnite"
-                ]
-            },
-            {
-                "name": "paravox",
-                "urls": [
-                    "https://zetadivision.com/team/paravox"
                 ]
             },
             {
