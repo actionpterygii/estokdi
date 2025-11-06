@@ -664,6 +664,12 @@
                 ]
             },
             {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://team-detonation.net/teams#pokemon-unite"
+                ]
+            },
+            {
                 "name": "e_football",
                 "urls": [
                     "https://team-detonation.net/teams#efootball"
@@ -845,6 +851,12 @@
                 "name": "tekken_8",
                 "urls": [
                     "https://varrel.jp/team/tekken7"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://varrel.jp/team/Pokemon-UNITE"
                 ]
             },
             {
