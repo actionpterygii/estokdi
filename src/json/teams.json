@@ -836,12 +836,6 @@
                 ]
             },
             {
-                "name": "paravox",
-                "urls": [
-                    "https://varrel.jp/team"
-                ]
-            },
-            {
                 "name": "street_fighter_6",
                 "urls": [
                     "https://varrel.jp/team/street-fighter"
@@ -2462,15 +2456,15 @@
                 ]
             },
             {
-                "name": "fortnite",
+                "name": "battlefield",
                 "urls": [
-                    "https://riddle.info/group_category/fortnite/"
+                    "https://riddle.info/members/"
                 ]
             },
             {
-                "name": "paravox",
+                "name": "fortnite",
                 "urls": [
-                    "https://riddle.info/group_category/paravox/"
+                    "https://riddle.info/group_category/fortnite/"
                 ]
             },
             {

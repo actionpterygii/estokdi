@@ -143,6 +143,12 @@
                 ]
             },
             {
+                "name": "battlefield",
+                "urls": [
+                    ""
+                ]
+            },
+            {
                 "name": "fortnite",
                 "urls": [
                     ""

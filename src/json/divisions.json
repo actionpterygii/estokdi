@@ -25,6 +25,11 @@
         "name_ja" :"レインボーシックス シージ"
     },
     {
+        "id": "battlefield",
+        "name": "Battlefield",
+        "name_ja" :"バトルフィールド"
+    },
+    {
         "id": "fortnite",
         "name": "Fortnite",
         "name_ja" :"フォートナイト"
