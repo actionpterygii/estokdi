@@ -1412,9 +1412,15 @@
                 ]
             },
             {
-                "name": "streamer",
+                "name": "street_fighter_6",
                 "urls": [
-                    "https://igzist-gg.com/team/streamer/"
+                    "https://igzist-gg.com/team/%e6%a0%bc%e9%97%98%e3%82%b2%e3%83%bc%e3%83%a0%e9%83%a8%e9%96%80/"
+                ]
+            },
+            {
+                "name": "pokemon_unite",
+                "urls": [
+                    "https://igzist-gg.com/team/pokemon-unite/"
                 ]
             }
         ]
