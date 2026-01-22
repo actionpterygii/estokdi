@@ -15,6 +15,11 @@
         "name_ja" :"オーバーウォッチ"
     },
     {
+        "id": "pubg",
+        "name": "PUBG",
+        "name_ja" :"ピーユービージー"
+    },
+    {
         "id": "pubg_mobile",
         "name": "PUBG MOBILE",
         "name_ja" :"ピーユービージー モバイル"

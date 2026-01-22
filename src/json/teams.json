@@ -405,67 +405,67 @@
             {
                 "name": "apex_legends",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#apex-legends"
+                    "https://crazyraccoon.jp/member-team/apex-legends"
                 ]
             },
             {
                 "name": "overwatch",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#overwatch"
+                    "https://crazyraccoon.jp/member-team/overwatch"
+                ]
+            },
+            {
+                "name": "pubg",
+                "urls": [
+                    "https://crazyraccoon.jp/member-team/pubg/"
                 ]
             },
             {
                 "name": "fortnite",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#fortnite"
+                    "https://crazyraccoon.jp/member-team/fortnite"
                 ]
             },
             {
                 "name": "marvel_rivals",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#marvel-rivals"
+                    "https://crazyraccoon.jp/member-team/marvel-rivals"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#street-fighter"
+                    "https://crazyraccoon.jp/member-team/street-fighter"
                 ]
             },
             {
                 "name": "super_smash_bros",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#super-smash-bros"
+                    "https://crazyraccoon.jp/member-team/super-smash-bros"
                 ]
             },
             {
                 "name": "brawl_stars",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#brawl-stars"
-                ]
-            },
-            {
-                "name": "honor_of_kings",
-                "urls": [
-                    "https://crazyraccoon.jp/member/#honor-of-kings"
+                    "https://crazyraccoon.jp/member-team/brawl-stars"
                 ]
             },
             {
                 "name": "clash_royale",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#clash-royale"
+                    "https://crazyraccoon.jp/member-team/clash-royale"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#streamers"
+                    "https://crazyraccoon.jp/member-team/streamers"
                 ]
             },
             {
                 "name": "other",
                 "urls": [
-                    "https://crazyraccoon.jp/member/#player"
+                    "https://crazyraccoon.jp/member-team/player"
                 ]
             },
             {

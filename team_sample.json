@@ -131,6 +131,12 @@
                 ]
             },
             {
+                "name": "pubg",
+                "urls": [
+                    ""
+                ]
+            },
+            {
                 "name": "pubg_mobile",
                 "urls": [
                     ""
