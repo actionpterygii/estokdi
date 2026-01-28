@@ -209,13 +209,19 @@
                 ]
             },
             {
-                "name": "super_smash_bros",
+                "name": "2xko",
                 "urls": [
                     ""
                 ]
             },
             {
                 "name": "granblue_fantasy_versus",
+                "urls": [
+                    ""
+                ]
+            },
+            {
+                "name": "super_smash_bros",
                 "urls": [
                     ""
                 ]

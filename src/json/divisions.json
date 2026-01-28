@@ -75,14 +75,19 @@
         "name_ja" :"ギルティー ギア ストライブ"
     },
     {
-        "id": "super_smash_bros",
-        "name": "Super Smash Bros",
-        "name_ja" :"大乱闘 スマッシュブラザーズ"
+        "id": "2xko",
+        "name": "2XKO",
+        "name_ja" :"ツーエックスケーオー"
     },
     {
         "id": "granblue_fantasy_versus",
         "name": "GRANBLUE FANTASY VERSUS",
         "name_ja" :"グランブルー ファンタジー バーサス"
+    },
+    {
+        "id": "super_smash_bros",
+        "name": "Super Smash Bros",
+        "name_ja" :"大乱闘 スマッシュブラザーズ"
     },
     {
         "id": "league_of_legends",
