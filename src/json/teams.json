@@ -838,7 +838,7 @@
             {
                 "name": "tekken_8",
                 "urls": [
-                    "https://varrel.jp/team/tekken7"
+                    "https://varrel.jp/team/tekken"
                 ]
             },
             {
@@ -2950,12 +2950,6 @@
                 "name": "street_fighter_6",
                 "urls": [
                     "https://zetadivision.com/team/30874"
-                ]
-            },
-            {
-                "name": "tekken_8",
-                "urls": [
-                    "https://zetadivision.com/team/tekken"
                 ]
             },
             {

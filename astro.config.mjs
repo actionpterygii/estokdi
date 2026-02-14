@@ -6,6 +6,6 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   site: "https://estl.actionpterygii.com",
   integrations: [sitemap({
-    lastmod: new Date('2026-01-22')
+    lastmod: new Date('2026-02-14')
   })]
 });
