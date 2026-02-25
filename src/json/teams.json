@@ -2924,6 +2924,12 @@
         ],
         "divisions": [
             {
+                "name": "apex_legends",
+                "urls": [
+                    "https://zetadivision.com/team/apex-legends"
+                ]
+            },
+            {
                 "name": "valorant",
                 "urls": [
                     "https://zetadivision.com/team/valorant",
