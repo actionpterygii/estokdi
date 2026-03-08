@@ -451,6 +451,12 @@
                 ]
             },
             {
+                "name": "shadowverse",
+                "urls": [
+                    "https://crazyraccoon.jp/member-team"
+                ]
+            },
+            {
                 "name": "clash_royale",
                 "urls": [
                     "https://crazyraccoon.jp/member-team/clash-royale"
@@ -845,6 +851,12 @@
                 "name": "pokemon_unite",
                 "urls": [
                     "https://varrel.jp/team/Pokemon-UNITE"
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://varrel.jp/team/"
                 ]
             },
             {
@@ -1757,6 +1769,12 @@
                 ]
             },
             {
+                "name": "shadowverse",
+                "urls": [
+                    "https://x.com/MURASHeSports"
+                ]
+            },
+            {
                 "name": "streamer",
                 "urls": [
                     "https://x.com/MURASHeSports"
@@ -2362,6 +2380,12 @@
                 ]
             },
             {
+                "name": "shadowverse",
+                "urls": [
+                    "https://reject.jp/teams/"
+                ]
+            },
+            {
                 "name": "identity_v",
                 "urls": [
                     "https://reject.jp/teams/"
@@ -2458,7 +2482,7 @@
             {
                 "name": "battlefield",
                 "urls": [
-                    "https://riddle.info/members/"
+                    "https://riddle.info/group_category/battlefield/"
                 ]
             },
             {
@@ -2471,6 +2495,12 @@
                 "name": "street_fighter_6",
                 "urls": [
                     "https://riddle.info/group_category/street-fighter/"
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://riddle.info"
                 ]
             },
             {
@@ -2731,12 +2761,6 @@
                 ]
             },
             {
-                "name": "shadowverse",
-                "urls": [
-                    "https://www.f-marinos.com/club/esports"
-                ]
-            },
-            {
                 "name": "rocket_league",
                 "urls": [
                     "https://www.f-marinos.com/club/esports"
@@ -2818,12 +2842,6 @@
                 "name": "pokemon_unite",
                 "urls": [
                     "https://yoshimoto-gaming.com/progamer/%e3%82%81%e3%81%a7%e3%81%9f%e3%81%97/"
-                ]
-            },
-            {
-                "name": "shadowverse",
-                "urls": [
-                    "https://yoshimoto-gaming.com/progamer/shadowverse/"
                 ]
             },
             {
@@ -3010,6 +3028,12 @@
                 "name": "e_motorsports",
                 "urls": [
                     "https://zetadivision.com/team/emotorsports"
+                ]
+            },
+            {
+                "name": "shadowverse",
+                "urls": [
+                    "https://zetadivision.com/team"
                 ]
             },
             {
