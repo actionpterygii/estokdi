@@ -1144,6 +1144,12 @@
         ],
         "divisions": [
             {
+                "name": "apex_legends",
+                "urls": [
+                    "https://fennel-esports.com/members/apex-legends/"
+                ]
+            },
+            {
                 "name": "valorant",
                 "urls": [
                     "https://fennel-esports.com/members/valorant/",
@@ -1164,6 +1170,12 @@
                 "name": "super_smash_bros",
                 "urls": [
                     "https://fennel-esports.com/members/smash-bros/"
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://fennel-esports.com/members/league-of-legends/"
                 ]
             },
             {
@@ -3040,6 +3052,12 @@
                 "name": "identity_v",
                 "urls": [
                     "https://zetadivision.com/team/identityv"
+                ]
+            },
+            {
+                "name": "card_game",
+                "urls": [
+                    "https://zetadivision.com/team/tcg"
                 ]
             },
             {
