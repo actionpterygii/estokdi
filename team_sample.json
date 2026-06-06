@@ -173,6 +173,12 @@
                 ]
             },
             {
+                "name": "delta_force",
+                "urls": [
+                    ""
+                ]
+            },
+            {
                 "name": "splatoon",
                 "urls": [
                     ""

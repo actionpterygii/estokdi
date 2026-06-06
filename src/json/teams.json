@@ -435,7 +435,8 @@
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://crazyraccoon.jp/member-team/street-fighter"
+                    "https://crazyraccoon.jp/member-team/street-fighter",
+                    "https://crazyraccoon.jp/member-team/street-fighter-6-academy/"
                 ]
             },
             {
@@ -762,11 +763,11 @@
         ]
     },
     {
-        "id": "donuts_varrel",
-        "name": "DONUTS VARREL",
-        "ruby": "ドーナッツ ヴァレル",
+        "id": "varrel",
+        "name": "VARREL",
+        "ruby": "ヴァレル",
         "win": [
-            "DVLWIN"
+            "VLWIN"
         ],
         "company": {
             "name": "株式会社CELLORB",
@@ -823,7 +824,8 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://varrel.jp/team/valorant"
+                    "https://varrel.jp/team/valorant",
+                    "https://varrel.jp/team/vly-valorant"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11229/varrel"
@@ -832,19 +834,33 @@
             {
                 "name": "overwatch",
                 "urls": [
-                    "https://varrel.jp/team/OVERWATCH"
+                    "https://varrel.jp/team/OVERWATCH",
+                    "https://varrel.jp/team/vly-ow"
                 ]
             },
             {
                 "name": "street_fighter_6",
                 "urls": [
-                    "https://varrel.jp/team/street-fighter"
+                    "https://varrel.jp/team/street-fighter",
+                    "https://varrel.jp/team/vly-sf"
                 ]
             },
             {
                 "name": "tekken_8",
                 "urls": [
                     "https://varrel.jp/team/tekken"
+                ]
+            },
+            {
+                "name": "super_smash_bros",
+                "urls": [
+                    "https://varrel.jp/team/super-smash-bros"
+                ]
+            },
+            {
+                "name": "league_of_legends",
+                "urls": [
+                    "https://varrel.jp/team/vly_lol"
                 ]
             },
             {
@@ -862,13 +878,15 @@
             {
                 "name": "card_game",
                 "urls": [
-                    "https://varrel.jp/team/card-game"
+                    "https://varrel.jp/team/card-game",
+                    "https://varrel.jp/team/vly-cg"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://varrel.jp/team/streamer"
+                    "https://varrel.jp/team/streamer",
+                    "https://varrel.jp/team/GAMER"
                 ]
             }
         ]
@@ -1167,6 +1185,13 @@
                 ]
             },
             {
+                "name": "delta_force",
+                "urls": [
+                    "https://fennel-esports.com/members/delta-force/"
+                ]
+            },
+            
+            {
                 "name": "super_smash_bros",
                 "urls": [
                     "https://fennel-esports.com/members/smash-bros/"
@@ -1176,6 +1201,12 @@
                 "name": "league_of_legends",
                 "urls": [
                     "https://fennel-esports.com/members/league-of-legends/"
+                ]
+            },
+            {
+                "name": "brawl_stars",
+                "urls": [
+                    "https://fennel-esports.com/members/brawl-stars/"
                 ]
             },
             {
@@ -1199,7 +1230,9 @@
             {
                 "name": "streamer",
                 "urls": [
-                    "https://fennel-esports.com/members/streamer/"
+                    "https://fennel-esports.com/members/streamer/",
+                    "https://fennel-esports.com/members/artist/",
+                    "https://fennel-esports.com/members/agent/"
                 ]
             }
         ]
@@ -1740,6 +1773,12 @@
         "liquipedia_id": "Murash_Gaming",
         "links": [
             {
+                "name": "web",
+                "urls": [
+                    "https://murashgaming.co.jp/"
+                ]
+            },
+            {
                 "name": "store",
                 "urls": [
                     "https://murashgaming.jp/"
@@ -1762,34 +1801,35 @@
             {
                 "name": "valorant",
                 "urls": [
-                    "https://x.com/MURASHeSports"
+                    "https://murashgaming.co.jp/members/#valorant"
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11490/murash-gaming"
                 ]
             },
             {
-                "name": "street_fighter_6",
+                "name": "overwatch",
                 "urls": [
-                    "https://x.com/MURASHeSports"
+                    "https://murashgaming.co.jp/members/#ow"
                 ]
             },
             {
-                "name": "super_smash_bros",
+                "name": "street_fighter_6",
                 "urls": [
-                    "https://x.com/MURASHeSports"
+                    "https://murashgaming.co.jp/members/#sf6"
                 ]
             },
             {
                 "name": "shadowverse",
                 "urls": [
-                    "https://x.com/MURASHeSports"
+                    "https://murashgaming.co.jp/members/#shadowverse"
                 ]
             },
             {
                 "name": "streamer",
                 "urls": [
-                    "https://x.com/MURASHeSports"
+                    "https://murashgaming.co.jp/members/#streamer",
+                    "https://murashgaming.co.jp/members/#management"
                 ]
             }
         ]

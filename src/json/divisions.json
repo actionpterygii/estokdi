@@ -50,6 +50,11 @@
         "name_ja" :"マーベル・ライバルズ"
     },
     {
+        "id": "delta_force",
+        "name": "Delta Force",
+        "name_ja" :"デルタフォース"
+    },
+    {
         "id": "splatoon",
         "name": "Splatoon",
         "name_ja" :"スプラトゥーン"
