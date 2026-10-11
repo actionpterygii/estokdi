@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "build:pages": "npm run build && node scripts/copy-dist-to-docs.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
