@@ -798,7 +798,7 @@
             {
                 "name": "instagram",
                 "urls": [
-                    "https://www.instagram.com/varrel_official/"
+                    "https://www.instagram.com/varrel_esports/"
                 ]
             },
             {
@@ -829,6 +829,12 @@
                 ],
                 "vlr_ggs": [
                     "https://www.vlr.gg/team/11229/varrel"
+                ]
+            },
+            {
+                "name": "rainbowsix",
+                "urls": [
+                    "https://varrel.jp/team/r6s"
                 ]
             },
             {
@@ -872,7 +878,7 @@
             {
                 "name": "shadowverse",
                 "urls": [
-                    "https://varrel.jp/team/"
+                    "https://varrel.jp/team/shadowverse"
                 ]
             },
             {
@@ -886,7 +892,8 @@
                 "name": "streamer",
                 "urls": [
                     "https://varrel.jp/team/streamer",
-                    "https://varrel.jp/team/GAMER"
+                    "https://varrel.jp/team/GAMER",
+                    "https://varrel.jp/team/kawaii"
                 ]
             }
         ]
