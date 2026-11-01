@@ -1,11 +1,10 @@
 [
     {
         "id": "axiz",
-        "name": "AXIZ",
-        "ruby": "アクシズ",
+        "name": "AXIZ WAVE",
+        "ruby": "アクシズ ウェーブ",
         "win": [
-            "AXIZWIN",
-            "AXCWIN"
+            "AXIZWIN"
         ],
         "company": {
             "name": "アックスエンターテインメント株式会社",
@@ -17,19 +16,20 @@
             {
                 "name": "web",
                 "urls": [
-                    "https://axiz.gg/"
+                    "https://axizwave.jp/"
                 ]
             },
             {
                 "name": "store",
                 "urls": [
-                    "https://pochimart.com/collections/axiz"
+                    "https://clan-market.com/collections/axiz-wave"
                 ]
             },
             {
                 "name": "x",
                 "urls": [
-                    "https://x.com/AXIZ_gg"
+                    "https://x.com/AXIZ_gg",
+                    "https://x.com/AXIZ_WAVE"
                 ]
             },
             {
@@ -47,21 +47,21 @@
         ],
         "divisions": [
             {
-                "name": "league_of_legends",
-                "urls": [
-                    "https://axiz.gg/team/LeagueofLegends/"
-                ]
-            },
-            {
                 "name": "pokemon_unite",
                 "urls": [
-                    "https://axiz.gg/team/Pok%C3%A9mon%20UNITE/"
+                    "https://axizwave.jp/member#pokemon-unite"
                 ]
             },
             {
                 "name": "identity_v",
                 "urls": [
-                    "https://axiz.gg/team/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC/"
+                    "https://axizwave.jp/member#identity-v"
+                ]
+            },
+            {
+                "name": "streamer",
+                "urls": [
+                    "https://axizwave.jp/member#streamers"
                 ]
             }
         ]
@@ -2808,12 +2808,6 @@
         "divisions": [
             {
                 "name": "e_football",
-                "urls": [
-                    "https://www.f-marinos.com/club/esports"
-                ]
-            },
-            {
-                "name": "rocket_league",
                 "urls": [
                     "https://www.f-marinos.com/club/esports"
                 ]
